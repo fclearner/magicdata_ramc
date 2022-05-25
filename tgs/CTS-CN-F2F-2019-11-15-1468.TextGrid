@@ -1,0 +1,7628 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1806.275
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "文本"
+		xmin = 0.0
+		xmax = 1806.275
+		intervals: size = 951
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.678
+				text = ""
+			intervals [2]:
+				xmin = 0.678
+				xmax = 5.352
+				text = "爱数智慧语音采集，二零一九年十一月十日"
+			intervals [3]:
+				xmin = 5.352
+				xmax = 6.128
+				text = ""
+			intervals [4]:
+				xmin = 6.128
+				xmax = 11.955
+				text = "武术作为中国的一项传统技艺和博大精深的一种文化"
+			intervals [5]:
+				xmin = 11.955
+				xmax = 13.323
+				text = ""
+			intervals [6]:
+				xmin = 13.323
+				xmax = 18.675
+				text = "确实，武术它能够强健人的体魄，丰富人的精彩世界"
+			intervals [7]:
+				xmin = 18.675
+				xmax = 19.18
+				text = ""
+			intervals [8]:
+				xmin = 19.18
+				xmax = 22.195
+				text = "哎呀，说起这个武术啊就不得不说说"
+			intervals [9]:
+				xmin = 22.195
+				xmax = 22.729
+				text = ""
+			intervals [10]:
+				xmin = 22.729
+				xmax = 23.912
+				text = "少林寺了"
+			intervals [11]:
+				xmin = 23.912
+				xmax = 24.552
+				text = ""
+			intervals [12]:
+				xmin = 24.552
+				xmax = 28.432
+				text = "少林寺确实出了许多有名的大师"
+			intervals [13]:
+				xmin = 28.432
+				xmax = 30.7
+				text = ""
+			intervals [14]:
+				xmin = 30.7
+				xmax = 31.718
+				text = "例如呢？"
+			intervals [15]:
+				xmin = 31.718
+				xmax = 32.717
+				text = ""
+			intervals [16]:
+				xmin = 32.717
+				xmax = 34.026
+				text = "例如"
+			intervals [17]:
+				xmin = 34.026
+				xmax = 34.569
+				text = ""
+			intervals [18]:
+				xmin = 34.569
+				xmax = 39.563
+				text = "李连杰，甄子丹什么的，他们也是从少林寺里面出来的，还有那个"
+			intervals [19]:
+				xmin = 39.563
+				xmax = 41.774
+				text = ""
+			intervals [20]:
+				xmin = 41.774
+				xmax = 48.843
+				text = "王宝强，他们都是当代的比较有名的功夫大师也是现在的武打巨星"
+			intervals [21]:
+				xmin = 48.843
+				xmax = 49.483
+				text = ""
+			intervals [22]:
+				xmin = 49.483
+				xmax = 52.169
+				text = "嗯，还有就是"
+			intervals [23]:
+				xmin = 52.169
+				xmax = 52.654
+				text = ""
+			intervals [24]:
+				xmin = 52.654
+				xmax = 56.494
+				text = "武当派，武当派也是一个比较厉害的一个门派"
+			intervals [25]:
+				xmin = 56.494
+				xmax = 57.424
+				text = ""
+			intervals [26]:
+				xmin = 57.424
+				xmax = 60.877
+				text = "你说武当，武当少林少林寺"
+			intervals [27]:
+				xmin = 60.877
+				xmax = 61.187
+				text = ""
+			intervals [28]:
+				xmin = 61.187
+				xmax = 65.812
+				text = "还有别的都挺厉害的，看那个倚天屠龙记里面"
+			intervals [29]:
+				xmin = 65.812
+				xmax = 66.22
+				text = ""
+			intervals [30]:
+				xmin = 66.22
+				xmax = 69.216
+				text = "那个武当少林嘛，他们两个两派比较厉害"
+			intervals [31]:
+				xmin = 69.216
+				xmax = 69.73
+				text = ""
+			intervals [32]:
+				xmin = 69.73
+				xmax = 70.506
+				text = "嗯"
+			intervals [33]:
+				xmin = 70.506
+				xmax = 71.146
+				text = ""
+			intervals [34]:
+				xmin = 71.146
+				xmax = 74.734
+				text = "嗯，就是武侠剧里面就是在"
+			intervals [35]:
+				xmin = 74.734
+				xmax = 75.044
+				text = ""
+			intervals [36]:
+				xmin = 75.044
+				xmax = 81.832
+				text = "以前的那些武侠剧啊，就是写的当中就会在中国古代就会有很多很多的门派"
+			intervals [37]:
+				xmin = 81.832
+				xmax = 82.056
+				text = ""
+			intervals [38]:
+				xmin = 82.056
+				xmax = 85.42
+				text = "当时就是那些武术都比较"
+			intervals [39]:
+				xmin = 85.42
+				xmax = 86.089
+				text = ""
+			intervals [40]:
+				xmin = 86.089
+				xmax = 87.33
+				text = "都比较的一个"
+			intervals [41]:
+				xmin = 87.33
+				xmax = 87.757
+				text = ""
+			intervals [42]:
+				xmin = 87.757
+				xmax = 91.306
+				text = "嗯怎么说呢，就是比较多，种类奇多"
+			intervals [43]:
+				xmin = 91.306
+				xmax = 91.441
+				text = ""
+			intervals [44]:
+				xmin = 91.441
+				xmax = 99.073
+				text = "对，我比较欣赏里面的少林寺，少林寺里面它有一个叫"
+			intervals [45]:
+				xmin = 99.073
+				xmax = 100.208
+				text = ""
+			intervals [46]:
+				xmin = 100.208
+				xmax = 102.292
+				text = "洗洗髓经是吧"
+			intervals [47]:
+				xmin = 102.292
+				xmax = 103.301
+				text = ""
+			intervals [48]:
+				xmin = 103.301
+				xmax = 104.397
+				text = "易筋经吧"
+			intervals [49]:
+				xmin = 104.397
+				xmax = 104.426
+				text = ""
+			intervals [50]:
+				xmin = 104.426
+				xmax = 110.254
+				text = "哦好像是易筋经，反正也很厉害，还有那个龙拳，龙拳也很厉害"
+			intervals [51]:
+				xmin = 110.254
+				xmax = 110.856
+				text = ""
+			intervals [52]:
+				xmin = 110.856
+				xmax = 114.249
+				text = "看了一个电视剧啊里面那写的，反正挺厉害的"
+			intervals [53]:
+				xmin = 114.249
+				xmax = 114.578
+				text = ""
+			intervals [54]:
+				xmin = 114.578
+				xmax = 121.386
+				text = "嗯，我记得就是用那个啥，呃五行拳是不是少林寺创建的？"
+			intervals [55]:
+				xmin = 121.386
+				xmax = 121.416
+				text = ""
+			intervals [56]:
+				xmin = 121.416
+				xmax = 122.578
+				text = "嗯，应该是"
+			intervals [57]:
+				xmin = 122.578
+				xmax = 123.461
+				text = ""
+			intervals [58]:
+				xmin = 123.461
+				xmax = 130.383
+				text = "嗯，我看那个就是啊龙泉呃呃龙爪手，虎拳螳螂拳"
+			intervals [59]:
+				xmin = 130.383
+				xmax = 130.404
+				text = ""
+			intervals [60]:
+				xmin = 130.404
+				xmax = 130.752
+				text = ""
+			intervals [61]:
+				xmin = 130.752
+				xmax = 130.763
+				text = ""
+			intervals [62]:
+				xmin = 130.763
+				xmax = 131.52
+				text = ""
+			intervals [63]:
+				xmin = 131.52
+				xmax = 131.558
+				text = ""
+			intervals [64]:
+				xmin = 131.558
+				xmax = 132.227
+				text = ""
+			intervals [65]:
+				xmin = 132.227
+				xmax = 132.304
+				text = ""
+			intervals [66]:
+				xmin = 132.304
+				xmax = 133.74
+				text = "对，醉拳"
+			intervals [67]:
+				xmin = 133.74
+				xmax = 134.506
+				text = ""
+			intervals [68]:
+				xmin = 134.506
+				xmax = 135.921
+				text = "都是少林寺里面的"
+			intervals [69]:
+				xmin = 135.921
+				xmax = 136.513
+				text = ""
+			intervals [70]:
+				xmin = 136.513
+				xmax = 141.633
+				text = "还有那个武当也有很多厉害的，武当太极阵是张三丰对吧？"
+			intervals [71]:
+				xmin = 141.633
+				xmax = 142.448
+				text = "嗯对"
+			intervals [72]:
+				xmin = 142.448
+				xmax = 142.758
+				text = ""
+			intervals [73]:
+				xmin = 142.758
+				xmax = 145.192
+				text = "至今为止，就是太极拳还是"
+			intervals [74]:
+				xmin = 145.192
+				xmax = 145.667
+				text = ""
+			intervals [75]:
+				xmin = 145.667
+				xmax = 148.324
+				text = "比较火的一门拳法拳法"
+			intervals [76]:
+				xmin = 148.324
+				xmax = 148.45
+				text = ""
+			intervals [77]:
+				xmin = 148.45
+				xmax = 153.696
+				text = "对，现在有很多年轻人练，比较练那个比较快的"
+			intervals [78]:
+				xmin = 153.696
+				xmax = 153.764
+				text = ""
+			intervals [79]:
+				xmin = 153.764
+				xmax = 160.912
+				text = "年年纪大的人练得比较慢，比较柔，他们也是大部分人都是强健体魄嘛"
+			intervals [80]:
+				xmin = 160.912
+				xmax = 161.26
+				text = ""
+			intervals [81]:
+				xmin = 161.26
+				xmax = 165.73
+				text = "对，武术不仅仅是，呃保护自己的人身安全"
+			intervals [82]:
+				xmin = 165.73
+				xmax = 166.157
+				text = ""
+			intervals [83]:
+				xmin = 166.157
+				xmax = 168.717
+				text = "嗯也有那种强健体魄的一个功能"
+			intervals [84]:
+				xmin = 168.717
+				xmax = 169.096
+				text = ""
+			intervals [85]:
+				xmin = 169.096
+				xmax = 173.992
+				text = "对，中国中国的武术发展也比也很快"
+			intervals [86]:
+				xmin = 173.992
+				xmax = 174.729
+				text = ""
+			intervals [87]:
+				xmin = 174.729
+				xmax = 179.364
+				text = "现在啊，就是外国人心目中就是中国人的武术已经"
+			intervals [88]:
+				xmin = 179.364
+				xmax = 179.684
+				text = ""
+			intervals [89]:
+				xmin = 179.684
+				xmax = 184.658
+				text = "嗯，十分的厉害，就是在外国人眼中我们中国人，好像每个人都会武术"
+			intervals [90]:
+				xmin = 184.658
+				xmax = 185.027
+				text = ""
+			intervals [91]:
+				xmin = 185.027
+				xmax = 192.649
+				text = "对，那个咏春拳在中国算是也也算是比较厉害的，那个李小龙好像就是"
+			intervals [92]:
+				xmin = 192.649
+				xmax = 193.037
+				text = ""
+			intervals [93]:
+				xmin = 193.037
+				xmax = 195.277
+				text = "师承咏春，叶问是吧？"
+			intervals [94]:
+				xmin = 195.277
+				xmax = 195.432
+				text = ""
+			intervals [95]:
+				xmin = 195.432
+				xmax = 201.318
+				text = "对，叶问也，叶问就是比较厉害的一个咏春拳大师"
+			intervals [96]:
+				xmin = 201.318
+				xmax = 201.512
+				text = ""
+			intervals [97]:
+				xmin = 201.512
+				xmax = 206.496
+				text = "对，他在那个那时候咏春那个年代好像是"
+			intervals [98]:
+				xmin = 206.496
+				xmax = 207.398
+				text = ""
+			intervals [99]:
+				xmin = 207.398
+				xmax = 209.929
+				text = "抗日年代还是什么年代啊，反正"
+			intervals [100]:
+				xmin = 209.929
+				xmax = 209.948
+				text = ""
+			intervals [101]:
+				xmin = 209.948
+				xmax = 210.491
+				text = ""
+			intervals [102]:
+				xmin = 210.491
+				xmax = 210.578
+				text = ""
+			intervals [103]:
+				xmin = 210.578
+				xmax = 214.312
+				text = "在最近也出了很多关于叶问的一些电影了"
+			intervals [104]:
+				xmin = 214.312
+				xmax = 214.758
+				text = ""
+			intervals [105]:
+				xmin = 214.758
+				xmax = 217.056
+				text = "就是在那个抗日的一个年代"
+			intervals [106]:
+				xmin = 217.056
+				xmax = 217.328
+				text = ""
+			intervals [107]:
+				xmin = 217.328
+				xmax = 221.875
+				text = "嗯，叶问叶大师出现了一些些一系列的故事"
+			intervals [108]:
+				xmin = 221.875
+				xmax = 221.924
+				text = ""
+			intervals [109]:
+				xmin = 221.924
+				xmax = 227.587
+				text = "对我看过，叶问一叶问二叶问三一共三部，还有好像还有一部番外"
+			intervals [110]:
+				xmin = 227.587
+				xmax = 227.946
+				text = ""
+			intervals [111]:
+				xmin = 227.946
+				xmax = 231.312
+				text = "张晋演的，那很厉害，张晋也是一个武打明星"
+			intervals [112]:
+				xmin = 231.312
+				xmax = 231.912
+				text = ""
+			intervals [113]:
+				xmin = 231.912
+				xmax = 236.256
+				text = "就是你看完这些电电影之后有什么感想吗？"
+			intervals [114]:
+				xmin = 236.256
+				xmax = 236.586
+				text = ""
+			intervals [115]:
+				xmin = 236.586
+				xmax = 239.912
+				text = "感想的话肯定也也有"
+			intervals [116]:
+				xmin = 239.912
+				xmax = 240.61
+				text = ""
+			intervals [117]:
+				xmin = 240.61
+				xmax = 244.867
+				text = "他们都为了中国的那个国那个主权嘛"
+			intervals [118]:
+				xmin = 244.867
+				xmax = 245.323
+				text = ""
+			intervals [119]:
+				xmin = 245.323
+				xmax = 247.795
+				text = "不是不是说那个年代"
+			intervals [120]:
+				xmin = 247.795
+				xmax = 248.018
+				text = ""
+			intervals [121]:
+				xmin = 248.018
+				xmax = 255.68
+				text = "日本人骂中国人是东亚病夫嘛，他们就站起来了，还有像霍元甲，陈真他们都站起来了"
+			intervals [122]:
+				xmin = 255.68
+				xmax = 256.115
+				text = ""
+			intervals [123]:
+				xmin = 256.115
+				xmax = 258.336
+				text = "成为了我们这一代人的榜样"
+			intervals [124]:
+				xmin = 258.336
+				xmax = 259.694
+				text = ""
+			intervals [125]:
+				xmin = 259.694
+				xmax = 260.752
+				text = "武术"
+			intervals [126]:
+				xmin = 260.752
+				xmax = 261.284
+				text = ""
+			intervals [127]:
+				xmin = 261.284
+				xmax = 263.01
+				text = "嗯，也是一种"
+			intervals [128]:
+				xmin = 263.01
+				xmax = 263.437
+				text = ""
+			intervals [129]:
+				xmin = 263.437
+				xmax = 264.484
+				text = "一种精神"
+			intervals [130]:
+				xmin = 264.484
+				xmax = 265.958
+				text = ""
+			intervals [131]:
+				xmin = 265.958
+				xmax = 266.696
+				text = "对呀"
+			intervals [132]:
+				xmin = 266.696
+				xmax = 268.752
+				text = ""
+			intervals [133]:
+				xmin = 268.752
+				xmax = 271.252
+				text = "你对中国的武打电影感兴趣吗？"
+			intervals [134]:
+				xmin = 271.252
+				xmax = 271.504
+				text = ""
+			intervals [135]:
+				xmin = 271.504
+				xmax = 276.198
+				text = "嗯，挺感兴趣的，我觉得在里边那些武打场面我十分的喜欢"
+			intervals [136]:
+				xmin = 276.198
+				xmax = 276.237
+				text = ""
+			intervals [137]:
+				xmin = 276.237
+				xmax = 277.896
+				text = "是不是触目惊心？"
+			intervals [138]:
+				xmin = 277.896
+				xmax = 277.934
+				text = ""
+			intervals [139]:
+				xmin = 277.934
+				xmax = 278.515
+				text = "对"
+			intervals [140]:
+				xmin = 278.515
+				xmax = 278.981
+				text = ""
+			intervals [141]:
+				xmin = 278.981
+				xmax = 284.867
+				text = "我感觉就是中国武术博大精深，就是嗯太多的武术种类"
+			intervals [142]:
+				xmin = 284.867
+				xmax = 285.158
+				text = ""
+			intervals [143]:
+				xmin = 285.158
+				xmax = 289.541
+				text = "在一起对打话，我觉得就是非常非常的好看，那些电影"
+			intervals [144]:
+				xmin = 289.541
+				xmax = 289.832
+				text = ""
+			intervals [145]:
+				xmin = 289.832
+				xmax = 294.118
+				text = "对，金金庸小说里面写的，基本上都是武侠剧是吧？"
+			intervals [146]:
+				xmin = 294.118
+				xmax = 294.216
+				text = ""
+			intervals [147]:
+				xmin = 294.216
+				xmax = 294.787
+				text = "对"
+			intervals [148]:
+				xmin = 294.787
+				xmax = 295.718
+				text = ""
+			intervals [149]:
+				xmin = 295.718
+				xmax = 297.172
+				text = "看过神雕侠侣吗？"
+			intervals [150]:
+				xmin = 297.172
+				xmax = 297.318
+				text = ""
+			intervals [151]:
+				xmin = 297.318
+				xmax = 298.889
+				text = "嗯，看过看过"
+			intervals [152]:
+				xmin = 298.889
+				xmax = 298.898
+				text = ""
+			intervals [153]:
+				xmin = 298.898
+				xmax = 304.29
+				text = "嗯，那个里面杨过比较厉害，杨过那个郭靖他那个降龙十八掌"
+			intervals [154]:
+				xmin = 304.29
+				xmax = 304.484
+				text = ""
+			intervals [155]:
+				xmin = 304.484
+				xmax = 307.732
+				text = "哦，对对对这个降龙十八掌好像是"
+			intervals [156]:
+				xmin = 307.732
+				xmax = 307.984
+				text = ""
+			intervals [157]:
+				xmin = 307.984
+				xmax = 310.672
+				text = "呃，以前那个丐帮的"
+			intervals [158]:
+				xmin = 310.672
+				xmax = 311.252
+				text = ""
+			intervals [159]:
+				xmin = 311.252
+				xmax = 312.513
+				text = "镇帮之宝"
+			intervals [160]:
+				xmin = 312.513
+				xmax = 312.998
+				text = ""
+			intervals [161]:
+				xmin = 312.998
+				xmax = 315.694
+				text = "哦，说起丐帮我想起来那个"
+			intervals [162]:
+				xmin = 315.694
+				xmax = 316.45
+				text = ""
+			intervals [163]:
+				xmin = 316.45
+				xmax = 319.427
+				text = "武状元苏乞儿那个周星驰演的是吧？"
+			intervals [164]:
+				xmin = 319.427
+				xmax = 319.446
+				text = ""
+			intervals [165]:
+				xmin = 319.446
+				xmax = 320.174
+				text = "哦对对"
+			intervals [166]:
+				xmin = 320.174
+				xmax = 320.184
+				text = ""
+			intervals [167]:
+				xmin = 320.184
+				xmax = 321.987
+				text = "它里面那个周星驰"
+			intervals [168]:
+				xmin = 321.987
+				xmax = 322.249
+				text = ""
+			intervals [169]:
+				xmin = 322.249
+				xmax = 325.226
+				text = "好像拿那个打狗棍也是练的降龙十八掌"
+			intervals [170]:
+				xmin = 325.226
+				xmax = 325.681
+				text = ""
+			intervals [171]:
+				xmin = 325.681
+				xmax = 328.174
+				text = "对，降龙十八掌是"
+			intervals [172]:
+				xmin = 328.174
+				xmax = 328.746
+				text = ""
+			intervals [173]:
+				xmin = 328.746
+				xmax = 333.256
+				text = "丐帮的帮主才会的一个一个拳一个掌法"
+			intervals [174]:
+				xmin = 333.256
+				xmax = 333.332
+				text = ""
+			intervals [175]:
+				xmin = 333.332
+				xmax = 335.049
+				text = "一个绝技了，基本上算是"
+			intervals [176]:
+				xmin = 335.049
+				xmax = 335.078
+				text = ""
+			intervals [177]:
+				xmin = 335.078
+				xmax = 335.747
+				text = "嗯对"
+			intervals [178]:
+				xmin = 335.747
+				xmax = 335.854
+				text = ""
+			intervals [179]:
+				xmin = 335.854
+				xmax = 339.626
+				text = "嗯，那那肯定挺厉害的，有没有看过那个醉拳？"
+			intervals [180]:
+				xmin = 339.626
+				xmax = 339.792
+				text = ""
+			intervals [181]:
+				xmin = 339.792
+				xmax = 340.741
+				text = ""
+			intervals [182]:
+				xmin = 340.741
+				xmax = 340.752
+				text = ""
+			intervals [183]:
+				xmin = 340.752
+				xmax = 341.798
+				text = "看过看过"
+			intervals [184]:
+				xmin = 341.798
+				xmax = 341.924
+				text = ""
+			intervals [185]:
+				xmin = 341.924
+				xmax = 346.346
+				text = "嗯，那个那部剧挺好看的，好像是九八年拍的吧。"
+			intervals [186]:
+				xmin = 346.346
+				xmax = 346.569
+				text = ""
+			intervals [187]:
+				xmin = 346.569
+				xmax = 349.73
+				text = "那那个时候，成龙还刚刚出道"
+			intervals [188]:
+				xmin = 349.73
+				xmax = 350.089
+				text = ""
+			intervals [189]:
+				xmin = 350.089
+				xmax = 352.804
+				text = "还是非常年轻精壮的一个小伙子"
+			intervals [190]:
+				xmin = 352.804
+				xmax = 353.104
+				text = ""
+			intervals [191]:
+				xmin = 353.104
+				xmax = 355.626
+				text = "在那那部剧里面演的挺好的"
+			intervals [192]:
+				xmin = 355.626
+				xmax = 356.809
+				text = ""
+			intervals [193]:
+				xmin = 356.809
+				xmax = 357.808
+				text = "挺出色的"
+			intervals [194]:
+				xmin = 357.808
+				xmax = 358.37
+				text = ""
+			intervals [195]:
+				xmin = 358.37
+				xmax = 362.85
+				text = "醉拳也是少林寺的一个拳法"
+			intervals [196]:
+				xmin = 362.85
+				xmax = 363.152
+				text = ""
+			intervals [197]:
+				xmin = 363.152
+				xmax = 368.776
+				text = "但是好像看起来非常厉害，就是在那些剧中啊，就是"
+			intervals [198]:
+				xmin = 368.776
+				xmax = 368.96
+				text = ""
+			intervals [199]:
+				xmin = 368.96
+				xmax = 373.866
+				text = "你比如就就像醉拳就是成龙打的那个醉拳，还有我记得就是"
+			intervals [200]:
+				xmin = 373.866
+				xmax = 374.05
+				text = ""
+			intervals [201]:
+				xmin = 374.05
+				xmax = 380.043
+				text = "呃，三国演义，三国演义哎不是那个水浒传里边那个武松也会醉拳"
+			intervals [202]:
+				xmin = 380.043
+				xmax = 380.169
+				text = ""
+			intervals [203]:
+				xmin = 380.169
+				xmax = 382.787
+				text = "哦，武松醉打蒋门神那部"
+			intervals [204]:
+				xmin = 382.787
+				xmax = 382.816
+				text = ""
+			intervals [205]:
+				xmin = 382.816
+				xmax = 385.347
+				text = "嗯对，他那个醉拳啊可厉害了"
+			intervals [206]:
+				xmin = 385.347
+				xmax = 389.576
+				text = "哦，好像最后擒方腊的时候，也是用醉拳"
+			intervals [207]:
+				xmin = 389.576
+				xmax = 389.953
+				text = ""
+			intervals [208]:
+				xmin = 389.953
+				xmax = 391.747
+				text = "把方腊给擒住了"
+			intervals [209]:
+				xmin = 391.747
+				xmax = 392.435
+				text = ""
+			intervals [210]:
+				xmin = 392.435
+				xmax = 393.444
+				text = "最后那一点"
+			intervals [211]:
+				xmin = 393.444
+				xmax = 393.454
+				text = ""
+			intervals [212]:
+				xmin = 393.454
+				xmax = 395.354
+				text = "就是古人的智慧"
+			intervals [213]:
+				xmin = 395.354
+				xmax = 396.169
+				text = ""
+			intervals [214]:
+				xmin = 396.169
+				xmax = 400.174
+				text = "太厉害了，就是就像醉拳这样的拳法，他也能创造出来"
+			intervals [215]:
+				xmin = 400.174
+				xmax = 400.329
+				text = ""
+			intervals [216]:
+				xmin = 400.329
+				xmax = 406.477
+				text = "对呀，这基本上算是很难了，你想一个人在喝醉的情况下，还能"
+			intervals [217]:
+				xmin = 406.477
+				xmax = 406.574
+				text = ""
+			intervals [218]:
+				xmin = 406.574
+				xmax = 411.441
+				text = "打一套完整的拳，而且还能打得那么出色很厉害了"
+			intervals [219]:
+				xmin = 411.441
+				xmax = 411.955
+				text = ""
+			intervals [220]:
+				xmin = 411.955
+				xmax = 417.872
+				text = "最让我惊讶的就是那些古人能够根据动物来学拳就"
+			intervals [221]:
+				xmin = 417.872
+				xmax = 417.938
+				text = ""
+			intervals [222]:
+				xmin = 417.938
+				xmax = 420.081
+				text = "像那个螳螂拳，就是根据"
+			intervals [223]:
+				xmin = 420.081
+				xmax = 420.8
+				text = ""
+			intervals [224]:
+				xmin = 420.8
+				xmax = 426.481
+				text = "螳螂的一个前爪子，一个动作，然后嗯打出来的一套拳攻防兼备"
+			intervals [225]:
+				xmin = 426.481
+				xmax = 426.898
+				text = ""
+			intervals [226]:
+				xmin = 426.898
+				xmax = 427.82
+				text = ""
+			intervals [227]:
+				xmin = 427.82
+				xmax = 427.878
+				text = ""
+			intervals [228]:
+				xmin = 427.878
+				xmax = 429.478
+				text = "对攻其不备"
+			intervals [229]:
+				xmin = 429.478
+				xmax = 430.729
+				text = ""
+			intervals [230]:
+				xmin = 430.729
+				xmax = 435.024
+				text = "五行拳里边那些很多那些拳法有些都是，跟那些"
+			intervals [231]:
+				xmin = 435.024
+				xmax = 435.461
+				text = ""
+			intervals [232]:
+				xmin = 435.461
+				xmax = 439.912
+				text = "嗯，那些动物学的，嗯最让我印象深刻的就是那个"
+			intervals [233]:
+				xmin = 439.912
+				xmax = 440.329
+				text = ""
+			intervals [234]:
+				xmin = 440.329
+				xmax = 441.715
+				text = "嗯，蛤蟆功"
+			intervals [235]:
+				xmin = 441.715
+				xmax = 441.764
+				text = ""
+			intervals [236]:
+				xmin = 441.764
+				xmax = 446.661
+				text = "哦，蛤蟆功这个我好像也有点了解，他们"
+			intervals [237]:
+				xmin = 446.661
+				xmax = 446.768
+				text = ""
+			intervals [238]:
+				xmin = 446.768
+				xmax = 450.772
+				text = "蛤蟆功也很厉害，好像周星驰演那个功夫里面的是吧？"
+			intervals [239]:
+				xmin = 450.772
+				xmax = 451.18
+				text = ""
+			intervals [240]:
+				xmin = 451.18
+				xmax = 451.946
+				text = "哦，有"
+			intervals [241]:
+				xmin = 451.946
+				xmax = 452.752
+				text = "有没有那个？"
+			intervals [242]:
+				xmin = 452.752
+				xmax = 453.41
+				text = "有有有"
+			intervals [243]:
+				xmin = 453.41
+				xmax = 453.44
+				text = ""
+			intervals [244]:
+				xmin = 453.44
+				xmax = 456.329
+				text = "那个好像最后也是让降龙十八掌"
+			intervals [245]:
+				xmin = 456.329
+				xmax = 456.736
+				text = ""
+			intervals [246]:
+				xmin = 456.736
+				xmax = 459.054
+				text = "打败了好像，从天而降的一个招"
+			intervals [247]:
+				xmin = 459.054
+				xmax = 459.529
+				text = ""
+			intervals [248]:
+				xmin = 459.529
+				xmax = 463.01
+				text = "那那个是从天而降的一个掌法"
+			intervals [249]:
+				xmin = 463.01
+				xmax = 463.088
+				text = ""
+			intervals [250]:
+				xmin = 463.088
+				xmax = 465.609
+				text = "嗯对，反正从天而降的一个掌法"
+			intervals [251]:
+				xmin = 465.609
+				xmax = 465.92
+				text = ""
+			intervals [252]:
+				xmin = 465.92
+				xmax = 470.923
+				text = "然后那个叫火神他可以夹住子弹，很厉害"
+			intervals [253]:
+				xmin = 470.923
+				xmax = 471.553
+				text = ""
+			intervals [254]:
+				xmin = 471.553
+				xmax = 472.329
+				text = ""
+			intervals [255]:
+				xmin = 472.329
+				xmax = 476.557
+				text = "这算是一个非常非常非常经典的一个，周星驰演的一个电影"
+			intervals [256]:
+				xmin = 476.557
+				xmax = 476.683
+				text = ""
+			intervals [257]:
+				xmin = 476.683
+				xmax = 479.049
+				text = "嗯，功夫确实啊确实很厉害"
+			intervals [258]:
+				xmin = 479.049
+				xmax = 480.038
+				text = ""
+			intervals [259]:
+				xmin = 480.038
+				xmax = 483.52
+				text = "李连杰也很厉害，看过李连杰那个洪熙官吗？"
+			intervals [260]:
+				xmin = 483.52
+				xmax = 483.849
+				text = ""
+			intervals [261]:
+				xmin = 483.849
+				xmax = 484.867
+				text = "看过看过"
+			intervals [262]:
+				xmin = 484.867
+				xmax = 484.877
+				text = ""
+			intervals [263]:
+				xmin = 484.877
+				xmax = 488.241
+				text = "呃，那个里面的那个毒人是吧？"
+			intervals [264]:
+				xmin = 488.241
+				xmax = 488.309
+				text = ""
+			intervals [265]:
+				xmin = 488.309
+				xmax = 488.998
+				text = "嗯对"
+			intervals [266]:
+				xmin = 488.998
+				xmax = 496.397
+				text = "那个少林寺里面，他原来是少林寺里面的一个也是一个僧人，最后好像"
+			intervals [267]:
+				xmin = 496.397
+				xmax = 496.688
+				text = ""
+			intervals [268]:
+				xmin = 496.688
+				xmax = 498.472
+				text = "被朝廷收服了"
+			intervals [269]:
+				xmin = 498.472
+				xmax = 499.558
+				text = ""
+			intervals [270]:
+				xmin = 499.558
+				xmax = 506.404
+				text = "然后就把少林寺有用了一个计谋，把少林寺的那大部分人都给弄了"
+			intervals [271]:
+				xmin = 506.404
+				xmax = 507.723
+				text = ""
+			intervals [272]:
+				xmin = 507.723
+				xmax = 512.969
+				text = "嗯，咱俩来说都比较喜欢少林寺，但是你知道少林寺在哪吗？"
+			intervals [273]:
+				xmin = 512.969
+				xmax = 513.638
+				text = ""
+			intervals [274]:
+				xmin = 513.638
+				xmax = 515.12
+				text = "河南嵩山吧"
+			intervals [275]:
+				xmin = 515.12
+				xmax = 515.557
+				text = ""
+			intervals [276]:
+				xmin = 515.557
+				xmax = 516.838
+				text = "嵩山少林寺嘛"
+			intervals [277]:
+				xmin = 516.838
+				xmax = 517.293
+				text = ""
+			intervals [278]:
+				xmin = 517.293
+				xmax = 523.586
+				text = "嗯，就少林寺在我心中就是很多少林寺，就是有南少林和北"
+			intervals [279]:
+				xmin = 523.586
+				xmax = 524.274
+				text = ""
+			intervals [280]:
+				xmin = 524.274
+				xmax = 524.324
+				text = ""
+			intervals [281]:
+				xmin = 524.324
+				xmax = 528.358
+				text = "南少林北少林，南北少林分南北这个，我好像听说过"
+			intervals [282]:
+				xmin = 528.358
+				xmax = 528.426
+				text = ""
+			intervals [283]:
+				xmin = 528.426
+				xmax = 531.936
+				text = "就是北少林是在我们河南省"
+			intervals [284]:
+				xmin = 531.936
+				xmax = 532.595
+				text = ""
+			intervals [285]:
+				xmin = 532.595
+				xmax = 535.592
+				text = "就是南少林具体我都不知道在哪？你知道吗？"
+			intervals [286]:
+				xmin = 535.592
+				xmax = 536.106
+				text = ""
+			intervals [287]:
+				xmin = 536.106
+				xmax = 540.624
+				text = "我也不太了解这个，反正我看过一部电视剧，那个电影里面"
+			intervals [288]:
+				xmin = 540.624
+				xmax = 541.187
+				text = ""
+			intervals [289]:
+				xmin = 541.187
+				xmax = 546.123
+				text = "南少林和北少林，他们打的拳法不太不太相同，但是也有"
+			intervals [290]:
+				xmin = 546.123
+				xmax = 546.249
+				text = ""
+			intervals [291]:
+				xmin = 546.249
+				xmax = 553.386
+				text = "大部分都都是源自一个祖师可能是，然后分成了两两个派类吧也算是"
+			intervals [292]:
+				xmin = 553.386
+				xmax = 554.656
+				text = ""
+			intervals [293]:
+				xmin = 554.656
+				xmax = 555.723
+				text = "对呀，我觉得"
+			intervals [294]:
+				xmin = 555.723
+				xmax = 556.072
+				text = ""
+			intervals [295]:
+				xmin = 556.072
+				xmax = 556.616
+				text = "嗯"
+			intervals [296]:
+				xmin = 556.616
+				xmax = 557.827
+				text = ""
+			intervals [297]:
+				xmin = 557.827
+				xmax = 557.953
+				text = ""
+			intervals [298]:
+				xmin = 557.953
+				xmax = 559.078
+				text = "我感觉就是"
+			intervals [299]:
+				xmin = 559.078
+				xmax = 559.504
+				text = ""
+			intervals [300]:
+				xmin = 559.504
+				xmax = 562.376
+				text = "最让我惊讶的就是叶问这个大师"
+			intervals [301]:
+				xmin = 562.376
+				xmax = 562.696
+				text = ""
+			intervals [302]:
+				xmin = 562.696
+				xmax = 570.569
+				text = "因为他自己，他不仅自己在那个年代嗯很获得的人们的敬仰，而且自己教出来的徒弟也十分的厉害"
+			intervals [303]:
+				xmin = 570.569
+				xmax = 570.937
+				text = ""
+			intervals [304]:
+				xmin = 570.937
+				xmax = 572.024
+				text = ""
+			intervals [305]:
+				xmin = 572.024
+				xmax = 572.616
+				text = "李小龙吗？"
+			intervals [306]:
+				xmin = 572.616
+				xmax = 572.624
+				text = ""
+			intervals [307]:
+				xmin = 572.624
+				xmax = 575.272
+				text = "对对对，李小龙就是他教出来一个比较"
+			intervals [308]:
+				xmin = 575.272
+				xmax = 575.883
+				text = ""
+			intervals [309]:
+				xmin = 575.883
+				xmax = 578.035
+				text = "嗯，声名鹊起的一个徒弟"
+			intervals [310]:
+				xmin = 578.035
+				xmax = 578.24
+				text = ""
+			intervals [311]:
+				xmin = 578.24
+				xmax = 582.089
+				text = "对，李小龙太厉害了，简直就是中国人的脊梁"
+			intervals [312]:
+				xmin = 582.089
+				xmax = 583.816
+				text = ""
+			intervals [313]:
+				xmin = 583.816
+				xmax = 585.424
+				text = "他是中国人的骄傲"
+			intervals [314]:
+				xmin = 585.424
+				xmax = 585.483
+				text = ""
+			intervals [315]:
+				xmin = 585.483
+				xmax = 587.635
+				text = "对，外国人基本上"
+			intervals [316]:
+				xmin = 587.635
+				xmax = 588.432
+				text = ""
+			intervals [317]:
+				xmin = 588.432
+				xmax = 592.717
+				text = "对武打这一方面，基本上了解最多的应该就是李小龙了"
+			intervals [318]:
+				xmin = 592.717
+				xmax = 593.134
+				text = ""
+			intervals [319]:
+				xmin = 593.134
+				xmax = 597.072
+				text = "嗯，至今为止，我觉得李小龙始终"
+			intervals [320]:
+				xmin = 597.072
+				xmax = 597.332
+				text = ""
+			intervals [321]:
+				xmin = 597.332
+				xmax = 599.912
+				text = "始终是一个武术大师，因为"
+			intervals [322]:
+				xmin = 599.912
+				xmax = 600.212
+				text = ""
+			intervals [323]:
+				xmin = 600.212
+				xmax = 604.334
+				text = "很多外外国人都说起中国武术，就会想起李小龙"
+			intervals [324]:
+				xmin = 604.334
+				xmax = 604.392
+				text = ""
+			intervals [325]:
+				xmin = 604.392
+				xmax = 612.372
+				text = "对，也有很多模仿李小龙的，最近网上有个比较火的一个小一个小朋友，好像才有六七岁吧"
+			intervals [326]:
+				xmin = 612.372
+				xmax = 612.46
+				text = ""
+			intervals [327]:
+				xmin = 612.46
+				xmax = 618.192
+				text = "他从小模仿李小龙，现在基本上会打李小龙的一些拳法了"
+			intervals [328]:
+				xmin = 618.192
+				xmax = 618.481
+				text = ""
+			intervals [329]:
+				xmin = 618.481
+				xmax = 619.238
+				text = "很厉害"
+			intervals [330]:
+				xmin = 619.238
+				xmax = 619.267
+				text = ""
+			intervals [331]:
+				xmin = 619.267
+				xmax = 627.248
+				text = "嗯，就是我有一段时间啊，就是无意间看到了李小龙那些纪录片，我发现就是有一个画面就是"
+			intervals [332]:
+				xmin = 627.248
+				xmax = 627.432
+				text = ""
+			intervals [333]:
+				xmin = 627.432
+				xmax = 632.532
+				text = "李小龙就是拿拿那个双节棍跟别人，跟别人在打乒乓球"
+			intervals [334]:
+				xmin = 632.532
+				xmax = 632.881
+				text = ""
+			intervals [335]:
+				xmin = 632.881
+				xmax = 636.052
+				text = "他发过来一个球，他就可以用双节棍给他打回去。"
+			intervals [336]:
+				xmin = 636.052
+				xmax = 636.401
+				text = ""
+			intervals [337]:
+				xmin = 636.401
+				xmax = 639.058
+				text = "这就见到了他李小龙，他那个"
+			intervals [338]:
+				xmin = 639.058
+				xmax = 639.466
+				text = ""
+			intervals [339]:
+				xmin = 639.466
+				xmax = 642.512
+				text = "他那个双节棍的棍法是多么精湛多么的厉害"
+			intervals [340]:
+				xmin = 642.512
+				xmax = 642.608
+				text = ""
+			intervals [341]:
+				xmin = 642.608
+				xmax = 646.672
+				text = "对，他肯定经过了很长时间的练习，把那个"
+			intervals [342]:
+				xmin = 646.672
+				xmax = 646.835
+				text = ""
+			intervals [343]:
+				xmin = 646.835
+				xmax = 650.976
+				text = "双节棍掌握的他那些棍法什么的灵活自如地运用了"
+			intervals [344]:
+				xmin = 650.976
+				xmax = 651.432
+				text = ""
+			intervals [345]:
+				xmin = 651.432
+				xmax = 658.792
+				text = "而且就是还有那些，就是李小龙那那那一掌就能把人打出"
+			intervals [346]:
+				xmin = 658.792
+				xmax = 658.832
+				text = ""
+			intervals [347]:
+				xmin = 658.832
+				xmax = 659.946
+				text = "好几米远"
+			intervals [348]:
+				xmin = 659.946
+				xmax = 660.304
+				text = ""
+			intervals [349]:
+				xmin = 660.304
+				xmax = 663.921
+				text = "可能会打出内伤嘛，那种肯定很严重。"
+			intervals [350]:
+				xmin = 663.921
+				xmax = 664.872
+				text = ""
+			intervals [351]:
+				xmin = 664.872
+				xmax = 665.706
+				text = ""
+			intervals [352]:
+				xmin = 665.706
+				xmax = 666.035
+				text = ""
+			intervals [353]:
+				xmin = 666.035
+				xmax = 672.456
+				text = "就是李小龙在武术界，当时在武术界已经无敌的存在吧，应该算是"
+			intervals [354]:
+				xmin = 672.456
+				xmax = 672.678
+				text = ""
+			intervals [355]:
+				xmin = 672.678
+				xmax = 674.995
+				text = "差不多吧，反正挺厉害的"
+			intervals [356]:
+				xmin = 674.995
+				xmax = 675.49
+				text = ""
+			intervals [357]:
+				xmin = 675.49
+				xmax = 678.477
+				text = "还有那个武打明星的话"
+			intervals [358]:
+				xmin = 678.477
+				xmax = 678.884
+				text = ""
+			intervals [359]:
+				xmin = 678.884
+				xmax = 684.237
+				text = "甄子丹也挺厉害，甄子丹，你看过他那个和王宝强一起演的那个一个人的武林吗？"
+			intervals [360]:
+				xmin = 684.237
+				xmax = 685.012
+				text = ""
+			intervals [361]:
+				xmin = 685.012
+				xmax = 688.018
+				text = "嗯嗯嗯，没有看过"
+			intervals [362]:
+				xmin = 688.018
+				xmax = 688.203
+				text = ""
+			intervals [363]:
+				xmin = 688.203
+				xmax = 691.083
+				text = "哦那部剧的话，主要就是"
+			intervals [364]:
+				xmin = 691.083
+				xmax = 691.752
+				text = ""
+			intervals [365]:
+				xmin = 691.752
+				xmax = 696.746
+				text = "嗯，甄子丹在里面演一个非常厉害的角色，然后王宝强也是"
+			intervals [366]:
+				xmin = 696.746
+				xmax = 697.037
+				text = ""
+			intervals [367]:
+				xmin = 697.037
+				xmax = 700.654
+				text = "他们两个一山不容二虎嘛，他们两个就"
+			intervals [368]:
+				xmin = 700.654
+				xmax = 700.906
+				text = ""
+			intervals [369]:
+				xmin = 700.906
+				xmax = 704.843
+				text = "由于种种摩擦吧，他们两个就打起来了，但是"
+			intervals [370]:
+				xmin = 704.843
+				xmax = 705.289
+				text = ""
+			intervals [371]:
+				xmin = 705.289
+				xmax = 709.74
+				text = "王宝强是站在反反反面那一方面"
+			intervals [372]:
+				xmin = 709.74
+				xmax = 709.778
+				text = ""
+			intervals [373]:
+				xmin = 709.778
+				xmax = 715.792
+				text = "然后甄子丹是站在正义的这一方面，然后最后肯定是正义战胜了邪恶"
+			intervals [374]:
+				xmin = 715.792
+				xmax = 718.477
+				text = ""
+			intervals [375]:
+				xmin = 718.477
+				xmax = 721.929
+				text = "说起武打明星的话，我感觉成龙也是算是"
+			intervals [376]:
+				xmin = 721.929
+				xmax = 722.192
+				text = ""
+			intervals [377]:
+				xmin = 722.192
+				xmax = 725.458
+				text = "这一代比较厉害的角色了，成龙你想他"
+			intervals [378]:
+				xmin = 725.458
+				xmax = 725.798
+				text = ""
+			intervals [379]:
+				xmin = 725.798
+				xmax = 731.218
+				text = "嗯一米七零的身高已经混到了好莱坞巨星了"
+			intervals [380]:
+				xmin = 731.218
+				xmax = 731.558
+				text = ""
+			intervals [381]:
+				xmin = 731.558
+				xmax = 732.547
+				text = "就挺厉害的"
+			intervals [382]:
+				xmin = 732.547
+				xmax = 733.352
+				text = ""
+			intervals [383]:
+				xmin = 733.352
+				xmax = 735.524
+				text = "就是啊，我觉得就是"
+			intervals [384]:
+				xmin = 735.524
+				xmax = 735.786
+				text = ""
+			intervals [385]:
+				xmin = 735.786
+				xmax = 739.238
+				text = "现在我们这一辈人虽然跟那个成龙"
+			intervals [386]:
+				xmin = 739.238
+				xmax = 739.626
+				text = ""
+			intervals [387]:
+				xmin = 739.626
+				xmax = 745.512
+				text = "跟不跟他不是，不算是一个时代的人，但是我们在看他那个时代的"
+			intervals [388]:
+				xmin = 745.512
+				xmax = 745.57
+				text = ""
+			intervals [389]:
+				xmin = 745.57
+				xmax = 748.363
+				text = "武打剧的时候仍仍然是热血澎湃的"
+			intervals [390]:
+				xmin = 748.363
+				xmax = 749.73
+				text = "对，热血沸腾是吧"
+			intervals [391]:
+				xmin = 749.73
+				xmax = 749.749
+				text = ""
+			intervals [392]:
+				xmin = 749.749
+				xmax = 750.157
+				text = "嗯"
+			intervals [393]:
+				xmin = 750.157
+				xmax = 755.723
+				text = "他那个打出了，他们那个时代拍戏的话，基本上没有替身，直接"
+			intervals [394]:
+				xmin = 755.723
+				xmax = 756.721
+				text = ""
+			intervals [395]:
+				xmin = 756.721
+				xmax = 759.33
+				text = "全打的全是真功夫硬功夫"
+			intervals [396]:
+				xmin = 759.33
+				xmax = 759.883
+				text = ""
+			intervals [397]:
+				xmin = 759.883
+				xmax = 767.136
+				text = "呃，说起替身，我就觉得现在啊，就是有些有些就是武打的场景，有些是有替身的，但是"
+			intervals [398]:
+				xmin = 767.136
+				xmax = 767.204
+				text = ""
+			intervals [399]:
+				xmin = 767.204
+				xmax = 773.584
+				text = "像那些成龙那些电影，我感觉就是都没有替身，都他自己上自己演"
+			intervals [400]:
+				xmin = 773.584
+				xmax = 774.032
+				text = ""
+			intervals [401]:
+				xmin = 774.032
+				xmax = 779.694
+				text = "对，那些大腕啊什么的，他们肯定会把那个角色的精神发扬到极致"
+			intervals [402]:
+				xmin = 779.694
+				xmax = 780.334
+				text = ""
+			intervals [403]:
+				xmin = 780.334
+				xmax = 786.152
+				text = "对，这就这就可能就是我们大家比较喜欢成龙成龙的电影原因吧"
+			intervals [404]:
+				xmin = 786.152
+				xmax = 789.576
+				text = "嗯，成龙确实演过很多很多电视剧"
+			intervals [405]:
+				xmin = 789.576
+				xmax = 790.157
+				text = ""
+			intervals [406]:
+				xmin = 790.157
+				xmax = 797.604
+				text = "也演过很多很多电影，他那个电影主要是集中在九几年到零几那个年段吧"
+			intervals [407]:
+				xmin = 797.604
+				xmax = 797.614
+				text = ""
+			intervals [408]:
+				xmin = 797.614
+				xmax = 802.084
+				text = "那个香港主要集中在那个"
+			intervals [409]:
+				xmin = 802.084
+				xmax = 802.637
+				text = ""
+			intervals [410]:
+				xmin = 802.637
+				xmax = 805.837
+				text = "澳门，香港澳门那个港澳片是吧？"
+			intervals [411]:
+				xmin = 805.837
+				xmax = 806.438
+				text = ""
+			intervals [412]:
+				xmin = 806.438
+				xmax = 810.123
+				text = "对，小时候也有一段时间是迷恋港澳片"
+			intervals [413]:
+				xmin = 810.123
+				xmax = 810.152
+				text = ""
+			intervals [414]:
+				xmin = 810.152
+				xmax = 812.974
+				text = "对啊，那个在香港拍的那个"
+			intervals [415]:
+				xmin = 812.974
+				xmax = 813.517
+				text = ""
+			intervals [416]:
+				xmin = 813.517
+				xmax = 817.318
+				text = "呃，计划a，a计划b计划都是成龙演的"
+			intervals [417]:
+				xmin = 817.318
+				xmax = 817.328
+				text = ""
+			intervals [418]:
+				xmin = 817.328
+				xmax = 818.123
+				text = "嗯对"
+			intervals [419]:
+				xmin = 818.123
+				xmax = 818.627
+				text = ""
+			intervals [420]:
+				xmin = 818.627
+				xmax = 819.393
+				text = ""
+			intervals [421]:
+				xmin = 819.393
+				xmax = 819.792
+				text = ""
+			intervals [422]:
+				xmin = 819.792
+				xmax = 822.157
+				text = "嗯，我印象比较深刻的就"
+			intervals [423]:
+				xmin = 822.157
+				xmax = 822.603
+				text = ""
+			intervals [424]:
+				xmin = 822.603
+				xmax = 828.654
+				text = "就拿那个拳名来命名的电影也很多，就例如太极拳你看过吗？"
+			intervals [425]:
+				xmin = 828.654
+				xmax = 828.692
+				text = ""
+			intervals [426]:
+				xmin = 828.692
+				xmax = 830.254
+				text = "嗯，好像看过一点"
+			intervals [427]:
+				xmin = 830.254
+				xmax = 830.856
+				text = ""
+			intervals [428]:
+				xmin = 830.856
+				xmax = 834.957
+				text = "就我感觉就是太极拳作作为一个"
+			intervals [429]:
+				xmin = 834.957
+				xmax = 835.209
+				text = ""
+			intervals [430]:
+				xmin = 835.209
+				xmax = 842.249
+				text = "嗯，博大精深一个拳法，就是在电影中就把它的那一种精神啊，还有它那"
+			intervals [431]:
+				xmin = 842.249
+				xmax = 842.481
+				text = ""
+			intervals [432]:
+				xmin = 842.481
+				xmax = 844.421
+				text = "嗯，想表达的意思啊"
+			intervals [433]:
+				xmin = 844.421
+				xmax = 844.432
+				text = ""
+			intervals [434]:
+				xmin = 844.432
+				xmax = 845.662
+				text = ""
+			intervals [435]:
+				xmin = 845.662
+				xmax = 845.866
+				text = ""
+			intervals [436]:
+				xmin = 845.866
+				xmax = 847.795
+				text = "发挥得是淋漓尽致"
+			intervals [437]:
+				xmin = 847.795
+				xmax = 848.978
+				text = ""
+			intervals [438]:
+				xmin = 848.978
+				xmax = 852.654
+				text = "哦，那肯定的你有没有看过那个功夫儿女啊？"
+			intervals [439]:
+				xmin = 852.654
+				xmax = 853.76
+				text = ""
+			intervals [440]:
+				xmin = 853.76
+				xmax = 855.243
+				text = "嗯，看过功夫儿女"
+			intervals [441]:
+				xmin = 855.243
+				xmax = 855.632
+				text = ""
+			intervals [442]:
+				xmin = 855.632
+				xmax = 859.403
+				text = "就是他父亲是一个很厉害的一个"
+			intervals [443]:
+				xmin = 859.403
+				xmax = 859.597
+				text = ""
+			intervals [444]:
+				xmin = 859.597
+				xmax = 864.532
+				text = "算是武术界的一个大佬吧，然后他的子女也也挺厉害，然后有一次"
+			intervals [445]:
+				xmin = 864.532
+				xmax = 864.96
+				text = ""
+			intervals [446]:
+				xmin = 864.96
+				xmax = 871.718
+				text = "他他父亲好像由于，他的女儿还有和他的儿子被抓进了一个密室"
+			intervals [447]:
+				xmin = 871.718
+				xmax = 871.816
+				text = ""
+			intervals [448]:
+				xmin = 871.816
+				xmax = 875.752
+				text = "然后他父亲去单身去营救他们，那个那部电影对吧？"
+			intervals [449]:
+				xmin = 875.752
+				xmax = 875.888
+				text = ""
+			intervals [450]:
+				xmin = 875.888
+				xmax = 876.809
+				text = "嗯，是是"
+			intervals [451]:
+				xmin = 876.809
+				xmax = 876.828
+				text = ""
+			intervals [452]:
+				xmin = 876.828
+				xmax = 877.846
+				text = ""
+			intervals [453]:
+				xmin = 877.846
+				xmax = 879.214
+				text = "现在还记得那些场景"
+			intervals [454]:
+				xmin = 879.214
+				xmax = 879.233
+				text = ""
+			intervals [455]:
+				xmin = 879.233
+				xmax = 886.089
+				text = "对，最后这一个有一个他把他关在了一个那个秘，一个没有氧气的一个"
+			intervals [456]:
+				xmin = 886.089
+				xmax = 886.186
+				text = ""
+			intervals [457]:
+				xmin = 886.186
+				xmax = 890.132
+				text = "就那个玻璃做起来的一个一个空间，然后"
+			intervals [458]:
+				xmin = 890.132
+				xmax = 890.376
+				text = ""
+			intervals [459]:
+				xmin = 890.376
+				xmax = 893.488
+				text = "从外面是打不开的，只能从里面打"
+			intervals [460]:
+				xmin = 893.488
+				xmax = 893.837
+				text = ""
+			intervals [461]:
+				xmin = 893.837
+				xmax = 897.096
+				text = "然后他就想到了中国的那个精神"
+			intervals [462]:
+				xmin = 897.096
+				xmax = 898.336
+				text = ""
+			intervals [463]:
+				xmin = 898.336
+				xmax = 904.067
+				text = "从一点突破，然后直接打碎那个玻璃，然后成功逃出"
+			intervals [464]:
+				xmin = 904.067
+				xmax = 905.552
+				text = ""
+			intervals [465]:
+				xmin = 905.552
+				xmax = 906.772
+				text = "我感觉就是"
+			intervals [466]:
+				xmin = 906.772
+				xmax = 907.152
+				text = ""
+			intervals [467]:
+				xmin = 907.152
+				xmax = 914.598
+				text = "嗯，水浒传中那些英雄那些梁山好汉，都有很多就就会的那些武功就能发现我们"
+			intervals [468]:
+				xmin = 914.598
+				xmax = 914.918
+				text = ""
+			intervals [469]:
+				xmin = 914.918
+				xmax = 920.3
+				text = "嗯，中国武术，我感觉武松啊和林冲啊，还有那些鲁智深"
+			intervals [470]:
+				xmin = 920.3
+				xmax = 920.329
+				text = ""
+			intervals [471]:
+				xmin = 920.329
+				xmax = 923.306
+				text = "鲁智深他也是出自少林寺"
+			intervals [472]:
+				xmin = 923.306
+				xmax = 923.597
+				text = ""
+			intervals [473]:
+				xmin = 923.597
+				xmax = 929.153
+				text = "哦，鲁智深对他肯定是的，他不是一原来就是一个和尚嘛"
+			intervals [474]:
+				xmin = 929.153
+				xmax = 929.172
+				text = ""
+			intervals [475]:
+				xmin = 929.172
+				xmax = 930.414
+				text = "对，他是一个僧人"
+			intervals [476]:
+				xmin = 930.414
+				xmax = 930.424
+				text = ""
+			intervals [477]:
+				xmin = 930.424
+				xmax = 931.472
+				text = "对，一个僧人"
+			intervals [478]:
+				xmin = 931.472
+				xmax = 931.48
+				text = ""
+			intervals [479]:
+				xmin = 931.48
+				xmax = 934.738
+				text = "哎武松是不是也是从少林寺出来的？"
+			intervals [480]:
+				xmin = 934.738
+				xmax = 935.049
+				text = ""
+			intervals [481]:
+				xmin = 935.049
+				xmax = 939.626
+				text = "这个不太了解，反正武松号称八十万禁军教头应该"
+			intervals [482]:
+				xmin = 939.626
+				xmax = 940.033
+				text = ""
+			intervals [483]:
+				xmin = 940.033
+				xmax = 940.974
+				text = "也比较厉害"
+			intervals [484]:
+				xmin = 940.974
+				xmax = 942.001
+				text = ""
+			intervals [485]:
+				xmin = 942.001
+				xmax = 947.054
+				text = "嗯，在里边我觉得那个鲁智深倒拔垂杨柳那一段，比较"
+			intervals [486]:
+				xmin = 947.054
+				xmax = 947.296
+				text = ""
+			intervals [487]:
+				xmin = 947.296
+				xmax = 948.518
+				text = "写的比较好"
+			intervals [488]:
+				xmin = 948.518
+				xmax = 949.235
+				text = ""
+			intervals [489]:
+				xmin = 949.235
+				xmax = 953.706
+				text = "确实啊，你鲁智深他那力气比较大，倒拔垂杨柳应该"
+			intervals [490]:
+				xmin = 953.706
+				xmax = 953.89
+				text = ""
+			intervals [491]:
+				xmin = 953.89
+				xmax = 959.883
+				text = "在当代可能比较难完成，他们那个年代比较刻苦，应该很有可能会完成"
+			intervals [492]:
+				xmin = 959.883
+				xmax = 960.707
+				text = ""
+			intervals [493]:
+				xmin = 960.707
+				xmax = 962.404
+				text = "嗯，感觉是"
+			intervals [494]:
+				xmin = 962.404
+				xmax = 962.86
+				text = ""
+			intervals [495]:
+				xmin = 962.86
+				xmax = 965.614
+				text = "倒拔垂杨柳在当代就是说出来就是"
+			intervals [496]:
+				xmin = 965.614
+				xmax = 965.712
+				text = ""
+			intervals [497]:
+				xmin = 965.712
+				xmax = 967.496
+				text = ""
+			intervals [498]:
+				xmin = 967.496
+				xmax = 967.504
+				text = ""
+			intervals [499]:
+				xmin = 967.504
+				xmax = 968.338
+				text = "不大可能"
+			intervals [500]:
+				xmin = 968.338
+				xmax = 969.037
+				text = ""
+			intervals [501]:
+				xmin = 969.037
+				xmax = 975.088
+				text = "对，可能也有一定的那个剧情色彩吧，把他把这个人物有点"
+			intervals [502]:
+				xmin = 975.088
+				xmax = 975.524
+				text = ""
+			intervals [503]:
+				xmin = 975.524
+				xmax = 977.008
+				text = "呃，理想化了有可能"
+			intervals [504]:
+				xmin = 977.008
+				xmax = 977.552
+				text = ""
+			intervals [505]:
+				xmin = 977.552
+				xmax = 981.129
+				text = "嗯，在那里边吧我在水浒传里边，我都感觉"
+			intervals [506]:
+				xmin = 981.129
+				xmax = 981.158
+				text = ""
+			intervals [507]:
+				xmin = 981.158
+				xmax = 988.877
+				text = "那些英雄各自有各自的武功，各自有各自的本事，就充分的展现了我们当时当时那些武术"
+			intervals [508]:
+				xmin = 988.877
+				xmax = 989.197
+				text = ""
+			intervals [509]:
+				xmin = 989.197
+				xmax = 991.496
+				text = "多么的渊远流长，多么的博大精深"
+			intervals [510]:
+				xmin = 991.496
+				xmax = 992.048
+				text = ""
+			intervals [511]:
+				xmin = 992.048
+				xmax = 993.715
+				text = "对呀，那个"
+			intervals [512]:
+				xmin = 993.715
+				xmax = 994.772
+				text = ""
+			intervals [513]:
+				xmin = 994.772
+				xmax = 997.712
+				text = "少林寺里面你看过少林寺这部电视剧吧？"
+			intervals [514]:
+				xmin = 997.712
+				xmax = 998.147
+				text = ""
+			intervals [515]:
+				xmin = 998.147
+				xmax = 999.66
+				text = "嗯，看过一点"
+			intervals [516]:
+				xmin = 999.66
+				xmax = 999.854
+				text = ""
+			intervals [517]:
+				xmin = 999.854
+				xmax = 1006.574
+				text = "呃，少林寺里面他们也都是那样，那个每一个师兄弟练的拳法什么的都不太相同"
+			intervals [518]:
+				xmin = 1006.574
+				xmax = 1006.864
+				text = ""
+			intervals [519]:
+				xmin = 1006.864
+				xmax = 1008.64
+				text = "然后就是防止他们"
+			intervals [520]:
+				xmin = 1008.64
+				xmax = 1009.153
+				text = ""
+			intervals [521]:
+				xmin = 1009.153
+				xmax = 1015.68
+				text = "有如果有很多人入侵的话，他们就可以用他们自己的绝招，不被"
+			intervals [522]:
+				xmin = 1015.68
+				xmax = 1015.747
+				text = ""
+			intervals [523]:
+				xmin = 1015.747
+				xmax = 1019.694
+				text = "不被别别的敌人给识破进行对决了"
+			intervals [524]:
+				xmin = 1019.694
+				xmax = 1020.101
+				text = ""
+			intervals [525]:
+				xmin = 1020.101
+				xmax = 1025.414
+				text = "嗯，我感觉嗯现在现在的话少林寺"
+			intervals [526]:
+				xmin = 1025.414
+				xmax = 1025.774
+				text = ""
+			intervals [527]:
+				xmin = 1025.774
+				xmax = 1028.876
+				text = "现在所教的所教授的武功，仍然实用"
+			intervals [528]:
+				xmin = 1028.876
+				xmax = 1029.44
+				text = ""
+			intervals [529]:
+				xmin = 1029.44
+				xmax = 1033.872
+				text = "肯定的，肯肯定很实用，如果你将来的话"
+			intervals [530]:
+				xmin = 1033.872
+				xmax = 1033.929
+				text = ""
+			intervals [531]:
+				xmin = 1033.929
+				xmax = 1039.078
+				text = "在咱们中国的话，可能不太遇到这种情况，如果你以后出国的话"
+			intervals [532]:
+				xmin = 1039.078
+				xmax = 1039.242
+				text = ""
+			intervals [533]:
+				xmin = 1039.242
+				xmax = 1042.501
+				text = "啊，遇到什么恐怖袭击事件了"
+			intervals [534]:
+				xmin = 1042.501
+				xmax = 1042.762
+				text = ""
+			intervals [535]:
+				xmin = 1042.762
+				xmax = 1044.392
+				text = "最起码可以用来防身嘛"
+			intervals [536]:
+				xmin = 1044.392
+				xmax = 1044.992
+				text = ""
+			intervals [537]:
+				xmin = 1044.992
+				xmax = 1051.538
+				text = "嗯，但是嗯现在说起来那些外国，外国武功也大部分就是有些"
+			intervals [538]:
+				xmin = 1051.538
+				xmax = 1051.597
+				text = ""
+			intervals [539]:
+				xmin = 1051.597
+				xmax = 1055.621
+				text = "嗯，也也流传到了中国，但是你就像"
+			intervals [540]:
+				xmin = 1055.621
+				xmax = 1055.776
+				text = ""
+			intervals [541]:
+				xmin = 1055.776
+				xmax = 1061.168
+				text = "嗯，日本的反手道吧和韩国的那些空手道，还有美国的搏击"
+			intervals [542]:
+				xmin = 1061.168
+				xmax = 1061.226
+				text = ""
+			intervals [543]:
+				xmin = 1061.226
+				xmax = 1065.648
+				text = "在中国也也有的也很受欢迎，但是我觉得"
+			intervals [544]:
+				xmin = 1065.648
+				xmax = 1065.706
+				text = ""
+			intervals [545]:
+				xmin = 1065.706
+				xmax = 1069.837
+				text = "还是我们中国本土的武器比较，本土的那些武功比较适合我们"
+			intervals [546]:
+				xmin = 1069.837
+				xmax = 1070.021
+				text = ""
+			intervals [547]:
+				xmin = 1070.021
+				xmax = 1077.352
+				text = "对，中国那个功夫中国人的体型嘛，没有外国人的体型那么大，他们中国人都讲究"
+			intervals [548]:
+				xmin = 1077.352
+				xmax = 1077.827
+				text = ""
+			intervals [549]:
+				xmin = 1077.827
+				xmax = 1081.89
+				text = "以柔克刚嘛，以快天下武功唯快不破嘛"
+			intervals [550]:
+				xmin = 1081.89
+				xmax = 1082.192
+				text = ""
+			intervals [551]:
+				xmin = 1082.192
+				xmax = 1089.28
+				text = "对，嗯嗯现在很多那些武术精神，我们这些当代的年轻人仍然很紧，还还记得"
+			intervals [552]:
+				xmin = 1089.28
+				xmax = 1089.609
+				text = ""
+			intervals [553]:
+				xmin = 1089.609
+				xmax = 1090.258
+				text = "对"
+			intervals [554]:
+				xmin = 1090.258
+				xmax = 1090.512
+				text = ""
+			intervals [555]:
+				xmin = 1090.512
+				xmax = 1093.672
+				text = "我感觉将来的话学一套武功"
+			intervals [556]:
+				xmin = 1093.672
+				xmax = 1094.089
+				text = ""
+			intervals [557]:
+				xmin = 1094.089
+				xmax = 1098.181
+				text = "学一套那个像军体拳，那个什么样的比较好"
+			intervals [558]:
+				xmin = 1098.181
+				xmax = 1098.666
+				text = ""
+			intervals [559]:
+				xmin = 1098.666
+				xmax = 1101.712
+				text = "嗯，不仅能强身健体，还能够防身用"
+			intervals [560]:
+				xmin = 1101.712
+				xmax = 1101.856
+				text = ""
+			intervals [561]:
+				xmin = 1101.856
+				xmax = 1108.595
+				text = "对，最起码可以防身啊，也可以弘扬中国上下五千年的武术历史传统吧"
+			intervals [562]:
+				xmin = 1108.595
+				xmax = 1109.769
+				text = ""
+			intervals [563]:
+				xmin = 1109.769
+				xmax = 1112.077
+				text = "对呀，我们五千年的历史传统"
+			intervals [564]:
+				xmin = 1112.077
+				xmax = 1112.329
+				text = ""
+			intervals [565]:
+				xmin = 1112.329
+				xmax = 1118.952
+				text = "就出了酝出酝酝酿出了很多拳法，但现在我总感觉就是有些那些"
+			intervals [566]:
+				xmin = 1118.952
+				xmax = 1119.078
+				text = ""
+			intervals [567]:
+				xmin = 1119.078
+				xmax = 1120.96
+				text = "精髓的那些武术拳法"
+			intervals [568]:
+				xmin = 1120.96
+				xmax = 1121.386
+				text = ""
+			intervals [569]:
+				xmin = 1121.386
+				xmax = 1122.696
+				text = "已经流失了"
+			intervals [570]:
+				xmin = 1122.696
+				xmax = 1123.277
+				text = ""
+			intervals [571]:
+				xmin = 1123.277
+				xmax = 1130.123
+				text = "对，可能随着年代的慢慢，慢慢流逝吧，可能有一些经典著作啊什么的"
+			intervals [572]:
+				xmin = 1130.123
+				xmax = 1130.414
+				text = ""
+			intervals [573]:
+				xmin = 1130.414
+				xmax = 1133.158
+				text = "不不在人世了很有可能"
+			intervals [574]:
+				xmin = 1133.158
+				xmax = 1134.409
+				text = ""
+			intervals [575]:
+				xmin = 1134.409
+				xmax = 1135.078
+				text = "你"
+			intervals [576]:
+				xmin = 1135.078
+				xmax = 1135.632
+				text = ""
+			intervals [577]:
+				xmin = 1135.632
+				xmax = 1138.53
+				text = "哎，有些有些那些武功"
+			intervals [578]:
+				xmin = 1138.53
+				xmax = 1138.898
+				text = ""
+			intervals [579]:
+				xmin = 1138.898
+				xmax = 1141.972
+				text = "那些精神有些虽然传下来了，但是"
+			intervals [580]:
+				xmin = 1141.972
+				xmax = 1142.321
+				text = ""
+			intervals [581]:
+				xmin = 1142.321
+				xmax = 1148.014
+				text = "还是缺乏像当年那样发扬的那个精神，就是表现不出"
+			intervals [582]:
+				xmin = 1148.014
+				xmax = 1148.198
+				text = ""
+			intervals [583]:
+				xmin = 1148.198
+				xmax = 1148.936
+				text = "嗯"
+			intervals [584]:
+				xmin = 1148.936
+				xmax = 1149.488
+				text = ""
+			intervals [585]:
+				xmin = 1149.488
+				xmax = 1150.856
+				text = "前几年的那些"
+			intervals [586]:
+				xmin = 1150.856
+				xmax = 1151.747
+				text = ""
+			intervals [587]:
+				xmin = 1151.747
+				xmax = 1154.094
+				text = "武术所表现出来那种精神"
+			intervals [588]:
+				xmin = 1154.094
+				xmax = 1155.664
+				text = ""
+			intervals [589]:
+				xmin = 1155.664
+				xmax = 1159.795
+				text = "中国的那个武术传统一直流传到现在的话，可能"
+			intervals [590]:
+				xmin = 1159.795
+				xmax = 1160.048
+				text = ""
+			intervals [591]:
+				xmin = 1160.048
+				xmax = 1166.856
+				text = "会有点流失了，但是我感觉现在不是提倡这个保护"
+			intervals [592]:
+				xmin = 1166.856
+				xmax = 1166.923
+				text = ""
+			intervals [593]:
+				xmin = 1166.923
+				xmax = 1169.376
+				text = "非物文化非物质文化遗产嘛"
+			intervals [594]:
+				xmin = 1169.376
+				xmax = 1169.736
+				text = ""
+			intervals [595]:
+				xmin = 1169.736
+				xmax = 1171.684
+				text = "对，现在武术就是"
+			intervals [596]:
+				xmin = 1171.684
+				xmax = 1172.014
+				text = ""
+			intervals [597]:
+				xmin = 1172.014
+				xmax = 1173.808
+				text = "呃，还是比较推崇的"
+			intervals [598]:
+				xmin = 1173.808
+				xmax = 1174.089
+				text = ""
+			intervals [599]:
+				xmin = 1174.089
+				xmax = 1175.398
+				text = "对呀，武术"
+			intervals [600]:
+				xmin = 1175.398
+				xmax = 1175.795
+				text = ""
+			intervals [601]:
+				xmin = 1175.795
+				xmax = 1179.955
+				text = "作为中国的一项古老的传统，肯定不会"
+			intervals [602]:
+				xmin = 1179.955
+				xmax = 1180.081
+				text = ""
+			intervals [603]:
+				xmin = 1180.081
+				xmax = 1185.92
+				text = "在我们这代人流逝，我们这一代人肯定会继续发扬它的它的光辉"
+			intervals [604]:
+				xmin = 1185.92
+				xmax = 1188.014
+				text = ""
+			intervals [605]:
+				xmin = 1188.014
+				xmax = 1191.816
+				text = "嗯，在我觉得就是呃武术"
+			intervals [606]:
+				xmin = 1191.816
+				xmax = 1191.883
+				text = ""
+			intervals [607]:
+				xmin = 1191.883
+				xmax = 1196.432
+				text = "发展到一个鼎盛的时代，应该也就是在"
+			intervals [608]:
+				xmin = 1196.432
+				xmax = 1196.915
+				text = ""
+			intervals [609]:
+				xmin = 1196.915
+				xmax = 1198.672
+				text = "嗯，哪个朝代？"
+			intervals [610]:
+				xmin = 1198.672
+				xmax = 1198.69
+				text = ""
+			intervals [611]:
+				xmin = 1198.69
+				xmax = 1201.6
+				text = "唐代吧？唐代武术挺厉害的"
+			intervals [612]:
+				xmin = 1201.6
+				xmax = 1202.249
+				text = ""
+			intervals [613]:
+				xmin = 1202.249
+				xmax = 1207.456
+				text = "嗯，就像是春秋战国时代的那些呃思想的"
+			intervals [614]:
+				xmin = 1207.456
+				xmax = 1207.66
+				text = ""
+			intervals [615]:
+				xmin = 1207.66
+				xmax = 1210.501
+				text = "嗯思想啊，百花齐放那种状态"
+			intervals [616]:
+				xmin = 1210.501
+				xmax = 1211.344
+				text = ""
+			intervals [617]:
+				xmin = 1211.344
+				xmax = 1212.112
+				text = "对"
+			intervals [618]:
+				xmin = 1212.112
+				xmax = 1213.576
+				text = ""
+			intervals [619]:
+				xmin = 1213.576
+				xmax = 1220.421
+				text = "我感觉唐代的武术也挺厉害的，你想李白一个诗人他都那个剑法了得"
+			intervals [620]:
+				xmin = 1220.421
+				xmax = 1220.741
+				text = ""
+			intervals [621]:
+				xmin = 1220.741
+				xmax = 1221.323
+				text = "在"
+			intervals [622]:
+				xmin = 1221.323
+				xmax = 1221.856
+				text = ""
+			intervals [623]:
+				xmin = 1221.856
+				xmax = 1224.755
+				text = "唐太宗的那个宴会上都能够"
+			intervals [624]:
+				xmin = 1224.755
+				xmax = 1225.153
+				text = ""
+			intervals [625]:
+				xmin = 1225.153
+				xmax = 1226.123
+				text = "很厉害，反正"
+			intervals [626]:
+				xmin = 1226.123
+				xmax = 1227.432
+				text = ""
+			intervals [627]:
+				xmin = 1227.432
+				xmax = 1232.62
+				text = "就是啊就是在以前那个年代我感觉就是每个"
+			intervals [628]:
+				xmin = 1232.62
+				xmax = 1233.096
+				text = ""
+			intervals [629]:
+				xmin = 1233.096
+				xmax = 1238.981
+				text = "每每个就是，嗯怎么说大部分人就会学一些武术来防身"
+			intervals [630]:
+				xmin = 1238.981
+				xmax = 1239.601
+				text = ""
+			intervals [631]:
+				xmin = 1239.601
+				xmax = 1246.913
+				text = "对，他们那个不讲究文将武将嘛古代，都讲究文将武将你要不然学文，要不然学武"
+			intervals [632]:
+				xmin = 1246.913
+				xmax = 1246.923
+				text = ""
+			intervals [633]:
+				xmin = 1246.923
+				xmax = 1249.736
+				text = "嗯武将的话，说起来就想起来那个"
+			intervals [634]:
+				xmin = 1249.736
+				xmax = 1250.056
+				text = ""
+			intervals [635]:
+				xmin = 1250.056
+				xmax = 1252.432
+				text = "嗯，比较出名的就是那个杨家将"
+			intervals [636]:
+				xmin = 1252.432
+				xmax = 1252.576
+				text = ""
+			intervals [637]:
+				xmin = 1252.576
+				xmax = 1255.466
+				text = "哦，杨家将，这个嗯确实很厉害"
+			intervals [638]:
+				xmin = 1255.466
+				xmax = 1255.854
+				text = ""
+			intervals [639]:
+				xmin = 1255.854
+				xmax = 1259.306
+				text = "杨家将，嗯是在那个朝代，就"
+			intervals [640]:
+				xmin = 1259.306
+				xmax = 1259.713
+				text = ""
+			intervals [641]:
+				xmin = 1259.713
+				xmax = 1263.408
+				text = "嗯，很精忠效国，精忠报国"
+			intervals [642]:
+				xmin = 1263.408
+				xmax = 1263.816
+				text = ""
+			intervals [643]:
+				xmin = 1263.816
+				xmax = 1266.753
+				text = "他们一家人都很厉害，杨家将"
+			intervals [644]:
+				xmin = 1266.753
+				xmax = 1267.083
+				text = ""
+			intervals [645]:
+				xmin = 1267.083
+				xmax = 1268.072
+				text = "誓死"
+			intervals [646]:
+				xmin = 1268.072
+				xmax = 1268.616
+				text = ""
+			intervals [647]:
+				xmin = 1268.616
+				xmax = 1269.576
+				text = "保卫祖国"
+			intervals [648]:
+				xmin = 1269.576
+				xmax = 1269.856
+				text = ""
+			intervals [649]:
+				xmin = 1269.856
+				xmax = 1272.688
+				text = "对呀，像那个像岳飞也很厉害，岳飞呀"
+			intervals [650]:
+				xmin = 1272.688
+				xmax = 1272.969
+				text = ""
+			intervals [651]:
+				xmin = 1272.969
+				xmax = 1275.18
+				text = "岳飞是那个岳家军是吧？"
+			intervals [652]:
+				xmin = 1275.18
+				xmax = 1275.189
+				text = ""
+			intervals [653]:
+				xmin = 1275.189
+				xmax = 1276.46
+				text = "嗯，对岳家军"
+			intervals [654]:
+				xmin = 1276.46
+				xmax = 1276.469
+				text = ""
+			intervals [655]:
+				xmin = 1276.469
+				xmax = 1277.1
+				text = "嗯"
+			intervals [656]:
+				xmin = 1277.1
+				xmax = 1277.352
+				text = ""
+			intervals [657]:
+				xmin = 1277.352
+				xmax = 1281.492
+				text = "杨家将是一杨什么郎那个是"
+			intervals [658]:
+				xmin = 1281.492
+				xmax = 1281.512
+				text = ""
+			intervals [659]:
+				xmin = 1281.512
+				xmax = 1281.861
+				text = ""
+			intervals [660]:
+				xmin = 1281.861
+				xmax = 1282.181
+				text = ""
+			intervals [661]:
+				xmin = 1282.181
+				xmax = 1282.24
+				text = ""
+			intervals [662]:
+				xmin = 1282.24
+				xmax = 1282.918
+				text = ""
+			intervals [663]:
+				xmin = 1282.918
+				xmax = 1283.209
+				text = ""
+			intervals [664]:
+				xmin = 1283.209
+				xmax = 1286.031
+				text = "他那个他夫人是佘太君对吧？"
+			intervals [665]:
+				xmin = 1286.031
+				xmax = 1286.72
+				text = ""
+			intervals [666]:
+				xmin = 1286.72
+				xmax = 1288.62
+				text = "佘太君是老太君"
+			intervals [667]:
+				xmin = 1288.62
+				xmax = 1289.754
+				text = "哦是他母亲"
+			intervals [668]:
+				xmin = 1289.754
+				xmax = 1290.132
+				text = "对"
+			intervals [669]:
+				xmin = 1290.132
+				xmax = 1292.518
+				text = "哦，反正都是满门忠烈嘛"
+			intervals [670]:
+				xmin = 1292.518
+				xmax = 1292.77
+				text = ""
+			intervals [671]:
+				xmin = 1292.77
+				xmax = 1294.321
+				text = "对，满门忠烈"
+			intervals [672]:
+				xmin = 1294.321
+				xmax = 1294.36
+				text = ""
+			intervals [673]:
+				xmin = 1294.36
+				xmax = 1295.0
+				text = "对"
+			intervals [674]:
+				xmin = 1295.0
+				xmax = 1295.204
+				text = ""
+			intervals [675]:
+				xmin = 1295.204
+				xmax = 1298.801
+				text = "在当时啊，就是名望也比较高"
+			intervals [676]:
+				xmin = 1298.801
+				xmax = 1299.374
+				text = ""
+			intervals [677]:
+				xmin = 1299.374
+				xmax = 1300.266
+				text = "肯定啊"
+			intervals [678]:
+				xmin = 1300.266
+				xmax = 1300.576
+				text = ""
+			intervals [679]:
+				xmin = 1300.576
+				xmax = 1307.016
+				text = "他们那个年代保家卫国啊，肯定有那个外来的什么侵略啦，像匈奴啦"
+			intervals [680]:
+				xmin = 1307.016
+				xmax = 1307.083
+				text = ""
+			intervals [681]:
+				xmin = 1307.083
+				xmax = 1312.755
+				text = "别的国家进行侵略，他们主要就是派这个杨家将像"
+			intervals [682]:
+				xmin = 1312.755
+				xmax = 1312.872
+				text = ""
+			intervals [683]:
+				xmin = 1312.872
+				xmax = 1315.626
+				text = "像岳飞那样的岳家军举行对战"
+			intervals [684]:
+				xmin = 1315.626
+				xmax = 1316.489
+				text = ""
+			intervals [685]:
+				xmin = 1316.489
+				xmax = 1321.803
+				text = "嗯，岳家军，岳家军是对对抗的是倭寇"
+			intervals [686]:
+				xmin = 1321.803
+				xmax = 1321.832
+				text = ""
+			intervals [687]:
+				xmin = 1321.832
+				xmax = 1322.947
+				text = "对，倭寇"
+			intervals [688]:
+				xmin = 1322.947
+				xmax = 1323.152
+				text = ""
+			intervals [689]:
+				xmin = 1323.152
+				xmax = 1329.552
+				text = "那个他们对抗的时候，岳母不是有那个岳母刺，刺字的那个经典嘛"
+			intervals [690]:
+				xmin = 1329.552
+				xmax = 1329.609
+				text = ""
+			intervals [691]:
+				xmin = 1329.609
+				xmax = 1331.538
+				text = "对，那个精忠报国"
+			intervals [692]:
+				xmin = 1331.538
+				xmax = 1331.558
+				text = ""
+			intervals [693]:
+				xmin = 1331.558
+				xmax = 1335.058
+				text = "对，刺的好像精忠报国，自古忠孝难两全嘛"
+			intervals [694]:
+				xmin = 1335.058
+				xmax = 1335.698
+				text = ""
+			intervals [695]:
+				xmin = 1335.698
+				xmax = 1338.376
+				text = "也体现了当时那个年代"
+			intervals [696]:
+				xmin = 1338.376
+				xmax = 1338.54
+				text = ""
+			intervals [697]:
+				xmin = 1338.54
+				xmax = 1339.723
+				text = "那个年代的"
+			intervals [698]:
+				xmin = 1339.723
+				xmax = 1340.741
+				text = ""
+			intervals [699]:
+				xmin = 1340.741
+				xmax = 1343.155
+				text = "不太不容易嘛，不太平不平凡"
+			intervals [700]:
+				xmin = 1343.155
+				xmax = 1344.077
+				text = ""
+			intervals [701]:
+				xmin = 1344.077
+				xmax = 1344.969
+				text = ""
+			intervals [702]:
+				xmin = 1344.969
+				xmax = 1346.384
+				text = ""
+			intervals [703]:
+				xmin = 1346.384
+				xmax = 1352.833
+				text = "是啊，就是还有你你你像现在那些精忠报国那些事迹还是流传到现在"
+			intervals [704]:
+				xmin = 1352.833
+				xmax = 1352.881
+				text = ""
+			intervals [705]:
+				xmin = 1352.881
+				xmax = 1356.78
+				text = "还有还有人就现在还有一个精忠报国的一首歌呢"
+			intervals [706]:
+				xmin = 1356.78
+				xmax = 1357.032
+				text = ""
+			intervals [707]:
+				xmin = 1357.032
+				xmax = 1358.157
+				text = "嗯，对啊"
+			intervals [708]:
+				xmin = 1358.157
+				xmax = 1358.409
+				text = ""
+			intervals [709]:
+				xmin = 1358.409
+				xmax = 1361.58
+				text = "好像还有岳飞留下的那个满江红"
+			intervals [710]:
+				xmin = 1361.58
+				xmax = 1362.317
+				text = ""
+			intervals [711]:
+				xmin = 1362.317
+				xmax = 1366.506
+				text = "以前的那些英雄事迹就应该被保留被传送"
+			intervals [712]:
+				xmin = 1366.506
+				xmax = 1366.816
+				text = ""
+			intervals [713]:
+				xmin = 1366.816
+				xmax = 1367.524
+				text = "对"
+			intervals [714]:
+				xmin = 1367.524
+				xmax = 1368.106
+				text = ""
+			intervals [715]:
+				xmin = 1368.106
+				xmax = 1370.918
+				text = "你还有没有看过什么别的武打片？"
+			intervals [716]:
+				xmin = 1370.918
+				xmax = 1371.694
+				text = ""
+			intervals [717]:
+				xmin = 1371.694
+				xmax = 1376.397
+				text = "嗯，别的武打片，嗯我我觉得"
+			intervals [718]:
+				xmin = 1376.397
+				xmax = 1377.416
+				text = ""
+			intervals [719]:
+				xmin = 1377.416
+				xmax = 1383.892
+				text = "嗯就像金庸笔下的那些武打片，我都觉得挺好都被拍成电视剧啦，或者"
+			intervals [720]:
+				xmin = 1383.892
+				xmax = 1383.908
+				text = ""
+			intervals [721]:
+				xmin = 1383.908
+				xmax = 1384.742
+				text = ""
+			intervals [722]:
+				xmin = 1384.742
+				xmax = 1384.762
+				text = ""
+			intervals [723]:
+				xmin = 1384.762
+				xmax = 1385.888
+				text = "笑傲江湖看过吗？"
+			intervals [724]:
+				xmin = 1385.888
+				xmax = 1385.958
+				text = ""
+			intervals [725]:
+				xmin = 1385.958
+				xmax = 1391.272
+				text = "看过啊，它当中的那些很多那些，呃门派你像华山派了"
+			intervals [726]:
+				xmin = 1391.272
+				xmax = 1391.466
+				text = ""
+			intervals [727]:
+				xmin = 1391.466
+				xmax = 1397.003
+				text = "嵩山派了那些五岳那些门派，我觉得它都都有自己的剑法都很厉害"
+			intervals [728]:
+				xmin = 1397.003
+				xmax = 1397.032
+				text = ""
+			intervals [729]:
+				xmin = 1397.032
+				xmax = 1401.851
+				text = "对啊，我比较欣赏里面那个霍建华拍的那个叫叫什么来着？"
+			intervals [730]:
+				xmin = 1401.851
+				xmax = 1402.595
+				text = "令狐冲"
+			intervals [731]:
+				xmin = 1402.595
+				xmax = 1402.866
+				text = ""
+			intervals [732]:
+				xmin = 1402.866
+				xmax = 1403.805
+				text = "令狐冲对"
+			intervals [733]:
+				xmin = 1403.805
+				xmax = 1404.043
+				text = ""
+			intervals [734]:
+				xmin = 1404.043
+				xmax = 1409.628
+				text = "我感觉就是在里边它会出现各种各样的以前的那种剑法嗯"
+			intervals [735]:
+				xmin = 1409.628
+				xmax = 1409.706
+				text = ""
+			intervals [736]:
+				xmin = 1409.706
+				xmax = 1414.089
+				text = "虽然我们看不懂，但是我们觉得这就是一种文化的表现"
+			intervals [737]:
+				xmin = 1414.089
+				xmax = 1414.118
+				text = ""
+			intervals [738]:
+				xmin = 1414.118
+				xmax = 1414.923
+				text = "对"
+			intervals [739]:
+				xmin = 1414.923
+				xmax = 1415.204
+				text = ""
+			intervals [740]:
+				xmin = 1415.204
+				xmax = 1419.054
+				text = "有很多像那个葵花宝典啊，那个那个"
+			intervals [741]:
+				xmin = 1419.054
+				xmax = 1419.946
+				text = ""
+			intervals [742]:
+				xmin = 1419.946
+				xmax = 1422.603
+				text = "也是比较厉害，但是一般人练不了"
+			intervals [743]:
+				xmin = 1422.603
+				xmax = 1423.349
+				text = ""
+			intervals [744]:
+				xmin = 1423.349
+				xmax = 1427.587
+				text = "感觉就是以前的那些武术传承，虽然有些流失了，但是"
+			intervals [745]:
+				xmin = 1427.587
+				xmax = 1427.84
+				text = ""
+			intervals [746]:
+				xmin = 1427.84
+				xmax = 1429.478
+				text = "呃，主体精神还在"
+			intervals [747]:
+				xmin = 1429.478
+				xmax = 1429.76
+				text = ""
+			intervals [748]:
+				xmin = 1429.76
+				xmax = 1431.504
+				text = "对呀，华山剑"
+			intervals [749]:
+				xmin = 1431.504
+				xmax = 1431.757
+				text = ""
+			intervals [750]:
+				xmin = 1431.757
+				xmax = 1434.094
+				text = "华山剑派，还有那个嵩山"
+			intervals [751]:
+				xmin = 1434.094
+				xmax = 1434.779
+				text = ""
+			intervals [752]:
+				xmin = 1434.779
+				xmax = 1435.409
+				text = "嗯"
+			intervals [753]:
+				xmin = 1435.409
+				xmax = 1435.432
+				text = ""
+			intervals [754]:
+				xmin = 1435.432
+				xmax = 1439.66
+				text = "泰山啊华山啊，都有它们各自的独门绝技"
+			intervals [755]:
+				xmin = 1439.66
+				xmax = 1439.718
+				text = ""
+			intervals [756]:
+				xmin = 1439.718
+				xmax = 1441.366
+				text = "都有他们自己的精髓"
+			intervals [757]:
+				xmin = 1441.366
+				xmax = 1441.392
+				text = ""
+			intervals [758]:
+				xmin = 1441.392
+				xmax = 1441.867
+				text = "对"
+			intervals [759]:
+				xmin = 1441.867
+				xmax = 1441.929
+				text = ""
+			intervals [760]:
+				xmin = 1441.929
+				xmax = 1449.416
+				text = "呃，他们不仅代表的是那一个剑法，更代表的是他那一他那一个地区的一个文化"
+			intervals [761]:
+				xmin = 1449.416
+				xmax = 1450.724
+				text = ""
+			intervals [762]:
+				xmin = 1450.724
+				xmax = 1454.564
+				text = "对呀，那时候那武术肯定比较厉害"
+			intervals [763]:
+				xmin = 1454.564
+				xmax = 1455.398
+				text = ""
+			intervals [764]:
+				xmin = 1455.398
+				xmax = 1459.82
+				text = "除了文就是武嘛，然后文的话，在那个年代，好像"
+			intervals [765]:
+				xmin = 1459.82
+				xmax = 1459.907
+				text = ""
+			intervals [766]:
+				xmin = 1459.907
+				xmax = 1464.629
+				text = "没有当今这个社会比较实用，他们比较崇尚武力那个时代"
+			intervals [767]:
+				xmin = 1464.629
+				xmax = 1465.803
+				text = ""
+			intervals [768]:
+				xmin = 1465.803
+				xmax = 1467.267
+				text = "嗯在"
+			intervals [769]:
+				xmin = 1467.267
+				xmax = 1467.694
+				text = ""
+			intervals [770]:
+				xmin = 1467.694
+				xmax = 1473.347
+				text = "还有别的，就是嗯别的别的就是像那个"
+			intervals [771]:
+				xmin = 1473.347
+				xmax = 1473.667
+				text = ""
+			intervals [772]:
+				xmin = 1473.667
+				xmax = 1478.37
+				text = "当初拍的那些呃，李小龙的那些纪录片，我觉得也挺好看的。"
+			intervals [773]:
+				xmin = 1478.37
+				xmax = 1478.536
+				text = ""
+			intervals [774]:
+				xmin = 1478.536
+				xmax = 1483.858
+				text = "哦，我记得有一部就是李小龙和洪金宝的那个你看过吗？"
+			intervals [775]:
+				xmin = 1483.858
+				xmax = 1485.332
+				text = ""
+			intervals [776]:
+				xmin = 1485.332
+				xmax = 1486.224
+				text = "没有"
+			intervals [777]:
+				xmin = 1486.224
+				xmax = 1486.758
+				text = ""
+			intervals [778]:
+				xmin = 1486.758
+				xmax = 1492.112
+				text = "那个洪金宝嘛也是出自少林寺的这个应该知道吧"
+			intervals [779]:
+				xmin = 1492.112
+				xmax = 1492.363
+				text = ""
+			intervals [780]:
+				xmin = 1492.363
+				xmax = 1493.323
+				text = "嗯"
+			intervals [781]:
+				xmin = 1493.323
+				xmax = 1493.426
+				text = ""
+			intervals [782]:
+				xmin = 1493.426
+				xmax = 1494.134
+				text = ""
+			intervals [783]:
+				xmin = 1494.134
+				xmax = 1494.176
+				text = ""
+			intervals [784]:
+				xmin = 1494.176
+				xmax = 1496.445
+				text = "他好像是大师兄，然后"
+			intervals [785]:
+				xmin = 1496.445
+				xmax = 1496.852
+				text = ""
+			intervals [786]:
+				xmin = 1496.852
+				xmax = 1504.843
+				text = "李小龙他们两个都很厉害，然后洪金宝嘛比较比较体型比较硕大嘛，但是他没有"
+			intervals [787]:
+				xmin = 1504.843
+				xmax = 1505.232
+				text = ""
+			intervals [788]:
+				xmin = 1505.232
+				xmax = 1510.68
+				text = "还没有抬拳，那个李小龙的脚已经落到他的鼻子上了"
+			intervals [789]:
+				xmin = 1510.68
+				xmax = 1511.252
+				text = ""
+			intervals [790]:
+				xmin = 1511.252
+				xmax = 1513.386
+				text = "因为展现李小龙比较厉害嘛"
+			intervals [791]:
+				xmin = 1513.386
+				xmax = 1513.448
+				text = ""
+			intervals [792]:
+				xmin = 1513.448
+				xmax = 1513.92
+				text = ""
+			intervals [793]:
+				xmin = 1513.92
+				xmax = 1514.696
+				text = ""
+			intervals [794]:
+				xmin = 1514.696
+				xmax = 1514.763
+				text = ""
+			intervals [795]:
+				xmin = 1514.763
+				xmax = 1517.284
+				text = "对，李小龙他武功太快了"
+			intervals [796]:
+				xmin = 1517.284
+				xmax = 1518.574
+				text = ""
+			intervals [797]:
+				xmin = 1518.574
+				xmax = 1519.408
+				text = "就是"
+			intervals [798]:
+				xmin = 1519.408
+				xmax = 1519.414
+				text = ""
+			intervals [799]:
+				xmin = 1519.414
+				xmax = 1520.122
+				text = ""
+			intervals [800]:
+				xmin = 1520.122
+				xmax = 1520.261
+				text = ""
+			intervals [801]:
+				xmin = 1520.261
+				xmax = 1524.411
+				text = "他的那个一拳击出去的力量十分的巨大"
+			intervals [802]:
+				xmin = 1524.411
+				xmax = 1524.702
+				text = ""
+			intervals [803]:
+				xmin = 1524.702
+				xmax = 1530.986
+				text = "对，很厉害他也是他那个全身，基本上全是肌肉，都没有那个脂肪了。"
+			intervals [804]:
+				xmin = 1530.986
+				xmax = 1531.81
+				text = ""
+			intervals [805]:
+				xmin = 1531.81
+				xmax = 1532.518
+				text = "特别厉害"
+			intervals [806]:
+				xmin = 1532.518
+				xmax = 1532.949
+				text = ""
+			intervals [807]:
+				xmin = 1532.949
+				xmax = 1535.064
+				text = "嗯，你有那个"
+			intervals [808]:
+				xmin = 1535.064
+				xmax = 1535.078
+				text = ""
+			intervals [809]:
+				xmin = 1535.078
+				xmax = 1541.576
+				text = "在李小龙那个时代啊，李小龙就是极力宣传我们的武术精神，在外国啦和本国的都都十分的推崇"
+			intervals [810]:
+				xmin = 1541.576
+				xmax = 1541.798
+				text = ""
+			intervals [811]:
+				xmin = 1541.798
+				xmax = 1547.374
+				text = "对，这你像作为中华民族的一个传统，肯定不能让它流逝"
+			intervals [812]:
+				xmin = 1547.374
+				xmax = 1547.84
+				text = ""
+			intervals [813]:
+				xmin = 1547.84
+				xmax = 1552.077
+				text = "嗯，叶问在那个年代，我我我看到好像也是"
+			intervals [814]:
+				xmin = 1552.077
+				xmax = 1552.174
+				text = ""
+			intervals [815]:
+				xmin = 1552.174
+				xmax = 1555.761
+				text = "呃，教武功，然后发扬中国的传统文化"
+			intervals [816]:
+				xmin = 1555.761
+				xmax = 1555.781
+				text = ""
+			intervals [817]:
+				xmin = 1555.781
+				xmax = 1560.358
+				text = "对咏春，叶问嘛，叶问应该是那一代人的骄傲"
+			intervals [818]:
+				xmin = 1560.358
+				xmax = 1561.57
+				text = ""
+			intervals [819]:
+				xmin = 1561.57
+				xmax = 1565.798
+				text = "叶问我那个咏春拳，我记得好像也是分南北"
+			intervals [820]:
+				xmin = 1565.798
+				xmax = 1566.992
+				text = ""
+			intervals [821]:
+				xmin = 1566.992
+				xmax = 1573.769
+				text = "咏春拳的话，叶问那个应该是算是比较正宗的吧，反正也有别的也有别的派"
+			intervals [822]:
+				xmin = 1573.769
+				xmax = 1574.564
+				text = ""
+			intervals [823]:
+				xmin = 1574.564
+				xmax = 1581.953
+				text = "那当今反正也有那个咏春拳，只不过可能没有当初那么纯正了，夹杂着自己的一些思想"
+			intervals [824]:
+				xmin = 1581.953
+				xmax = 1582.001
+				text = ""
+			intervals [825]:
+				xmin = 1582.001
+				xmax = 1585.26
+				text = "对，肯定达不到当时那个年代那个水平"
+			intervals [826]:
+				xmin = 1585.26
+				xmax = 1586.656
+				text = ""
+			intervals [827]:
+				xmin = 1586.656
+				xmax = 1588.974
+				text = "嗯，咏春拳还有什么拳？"
+			intervals [828]:
+				xmin = 1588.974
+				xmax = 1589.555
+				text = ""
+			intervals [829]:
+				xmin = 1589.555
+				xmax = 1596.984
+				text = "咏春拳，别的什么少林寺里面有很多拳，你像虎拳啊螳螂拳啊，各种各样的都有"
+			intervals [830]:
+				xmin = 1596.984
+				xmax = 1597.896
+				text = ""
+			intervals [831]:
+				xmin = 1597.896
+				xmax = 1601.28
+				text = "少林寺里面有一种那个金钟罩铁布衫你听说过吗？"
+			intervals [832]:
+				xmin = 1601.28
+				xmax = 1602.486
+				text = "嗯，这听说过啊"
+			intervals [833]:
+				xmin = 1602.486
+				xmax = 1603.048
+				text = "哦哦"
+			intervals [834]:
+				xmin = 1603.048
+				xmax = 1603.112
+				text = ""
+			intervals [835]:
+				xmin = 1603.112
+				xmax = 1603.946
+				text = ""
+			intervals [836]:
+				xmin = 1603.946
+				xmax = 1604.401
+				text = ""
+			intervals [837]:
+				xmin = 1604.401
+				xmax = 1606.224
+				text = "是少林寺里的有一个"
+			intervals [838]:
+				xmin = 1606.224
+				xmax = 1606.835
+				text = ""
+			intervals [839]:
+				xmin = 1606.835
+				xmax = 1609.618
+				text = "非常经典的一个功夫就铁头功"
+			intervals [840]:
+				xmin = 1609.618
+				xmax = 1609.803
+				text = ""
+			intervals [841]:
+				xmin = 1609.803
+				xmax = 1612.838
+				text = "哦，铁头功那个那个确实啊，确实很厉害"
+			intervals [842]:
+				xmin = 1612.838
+				xmax = 1613.41
+				text = ""
+			intervals [843]:
+				xmin = 1613.41
+				xmax = 1617.454
+				text = "用头发用头，开个石头啊，开个砖头什么的"
+			intervals [844]:
+				xmin = 1617.454
+				xmax = 1617.764
+				text = ""
+			intervals [845]:
+				xmin = 1617.764
+				xmax = 1618.627
+				text = "很简单"
+			intervals [846]:
+				xmin = 1618.627
+				xmax = 1619.209
+				text = ""
+			intervals [847]:
+				xmin = 1619.209
+				xmax = 1626.229
+				text = "对，我觉得就是这这是一个，他们他们那个少林寺的一个代表铁头功"
+			intervals [848]:
+				xmin = 1626.229
+				xmax = 1626.404
+				text = ""
+			intervals [849]:
+				xmin = 1626.404
+				xmax = 1627.917
+				text = "别的地方练不了"
+			intervals [850]:
+				xmin = 1627.917
+				xmax = 1627.936
+				text = ""
+			intervals [851]:
+				xmin = 1627.936
+				xmax = 1628.644
+				text = "对"
+			intervals [852]:
+				xmin = 1628.644
+				xmax = 1630.244
+				text = ""
+			intervals [853]:
+				xmin = 1630.244
+				xmax = 1634.035
+				text = "金钟罩铁布衫我在我印象中就不真实"
+			intervals [854]:
+				xmin = 1634.035
+				xmax = 1634.734
+				text = ""
+			intervals [855]:
+				xmin = 1634.734
+				xmax = 1642.21
+				text = "也应该应该能练成吧，它那个主要是通过气门的控制，每一个练这个功夫的人都有一个气门"
+			intervals [856]:
+				xmin = 1642.21
+				xmax = 1642.384
+				text = ""
+			intervals [857]:
+				xmin = 1642.384
+				xmax = 1645.41
+				text = "除了他那个气门能打动，别的地方应该都打不动"
+			intervals [858]:
+				xmin = 1645.41
+				xmax = 1645.896
+				text = ""
+			intervals [859]:
+				xmin = 1645.896
+				xmax = 1647.854
+				text = "我只在电影中看到过这种"
+			intervals [860]:
+				xmin = 1647.854
+				xmax = 1647.868
+				text = ""
+			intervals [861]:
+				xmin = 1647.868
+				xmax = 1648.344
+				text = ""
+			intervals [862]:
+				xmin = 1648.344
+				xmax = 1652.154
+				text = "这是通过电影看到的，真实的话应该不太好练这个功夫"
+			intervals [863]:
+				xmin = 1652.154
+				xmax = 1652.896
+				text = ""
+			intervals [864]:
+				xmin = 1652.896
+				xmax = 1658.889
+				text = "但是我看那些有些嗯，大爷在在公园里面拿的一个枪，然后"
+			intervals [865]:
+				xmin = 1658.889
+				xmax = 1658.957
+				text = ""
+			intervals [866]:
+				xmin = 1658.957
+				xmax = 1662.032
+				text = "顶着自己的脖子，还还能把那个枪给顶弯"
+			intervals [867]:
+				xmin = 1662.032
+				xmax = 1662.054
+				text = ""
+			intervals [868]:
+				xmin = 1662.054
+				xmax = 1662.539
+				text = ""
+			intervals [869]:
+				xmin = 1662.539
+				xmax = 1663.257
+				text = "就神奇的"
+			intervals [870]:
+				xmin = 1663.257
+				xmax = 1663.291
+				text = ""
+			intervals [871]:
+				xmin = 1663.291
+				xmax = 1670.021
+				text = "那个应该就是金钟罩吧，金钟罩铁布衫，它可以把那个钢筋弄弯对吧？"
+			intervals [872]:
+				xmin = 1670.021
+				xmax = 1670.744
+				text = "嗯对"
+			intervals [873]:
+				xmin = 1670.744
+				xmax = 1670.762
+				text = ""
+			intervals [874]:
+				xmin = 1670.762
+				xmax = 1671.46
+				text = "嗯那个"
+			intervals [875]:
+				xmin = 1671.46
+				xmax = 1672.129
+				text = ""
+			intervals [876]:
+				xmin = 1672.129
+				xmax = 1672.203
+				text = ""
+			intervals [877]:
+				xmin = 1672.203
+				xmax = 1674.772
+				text = "感觉它很不真实，但是它又是真的"
+			intervals [878]:
+				xmin = 1674.772
+				xmax = 1674.85
+				text = ""
+			intervals [879]:
+				xmin = 1674.85
+				xmax = 1676.8
+				text = "真的真的应该有这个"
+			intervals [880]:
+				xmin = 1676.8
+				xmax = 1678.574
+				text = ""
+			intervals [881]:
+				xmin = 1678.574
+				xmax = 1684.838
+				text = "这个应该就是铁，那个金钟罩铁布衫，他应该他的气门肯定不在喉咙"
+			intervals [882]:
+				xmin = 1684.838
+				xmax = 1685.168
+				text = ""
+			intervals [883]:
+				xmin = 1685.168
+				xmax = 1689.872
+				text = "肯定经常练喉咙，应该把他练的比较出神入化了，基本上"
+			intervals [884]:
+				xmin = 1689.872
+				xmax = 1690.443
+				text = ""
+			intervals [885]:
+				xmin = 1690.443
+				xmax = 1691.529
+				text = "嗯"
+			intervals [886]:
+				xmin = 1691.529
+				xmax = 1691.713
+				text = ""
+			intervals [887]:
+				xmin = 1691.713
+				xmax = 1698.404
+				text = "还有少林寺的奇葩武功啊，都都比较精髓，还有什么样的嗯"
+			intervals [888]:
+				xmin = 1698.404
+				xmax = 1698.452
+				text = ""
+			intervals [889]:
+				xmin = 1698.452
+				xmax = 1699.917
+				text = "他那个电影那个"
+			intervals [890]:
+				xmin = 1699.917
+				xmax = 1700.372
+				text = ""
+			intervals [891]:
+				xmin = 1700.372
+				xmax = 1703.496
+				text = "张无忌，不是会那个乾坤大挪移嘛，那个很厉害"
+			intervals [892]:
+				xmin = 1703.496
+				xmax = 1703.621
+				text = ""
+			intervals [893]:
+				xmin = 1703.621
+				xmax = 1706.152
+				text = "对，乾坤大挪移他那个武功就"
+			intervals [894]:
+				xmin = 1706.152
+				xmax = 1706.501
+				text = ""
+			intervals [895]:
+				xmin = 1706.501
+				xmax = 1709.963
+				text = "比较符合就像武当创办的那个太极拳"
+			intervals [896]:
+				xmin = 1709.963
+				xmax = 1710.08
+				text = ""
+			intervals [897]:
+				xmin = 1710.08
+				xmax = 1713.803
+				text = "对，他应该可能就是太极拳的一个分支吧。"
+			intervals [898]:
+				xmin = 1713.803
+				xmax = 1714.21
+				text = ""
+			intervals [899]:
+				xmin = 1714.21
+				xmax = 1717.449
+				text = "他的师祖张张三丰嘛，不是那个"
+			intervals [900]:
+				xmin = 1717.449
+				xmax = 1717.972
+				text = ""
+			intervals [901]:
+				xmin = 1717.972
+				xmax = 1720.464
+				text = "嗯叫叫什么？"
+			intervals [902]:
+				xmin = 1720.464
+				xmax = 1722.064
+				text = ""
+			intervals [903]:
+				xmin = 1722.064
+				xmax = 1723.17
+				text = "很厉害的那个"
+			intervals [904]:
+				xmin = 1723.17
+				xmax = 1723.393
+				text = ""
+			intervals [905]:
+				xmin = 1723.393
+				xmax = 1724.304
+				text = "张三丰"
+			intervals [906]:
+				xmin = 1724.304
+				xmax = 1724.33
+				text = ""
+			intervals [907]:
+				xmin = 1724.33
+				xmax = 1724.912
+				text = "嗯"
+			intervals [908]:
+				xmin = 1724.912
+				xmax = 1725.614
+				text = ""
+			intervals [909]:
+				xmin = 1725.614
+				xmax = 1726.477
+				text = "他不是那个"
+			intervals [910]:
+				xmin = 1726.477
+				xmax = 1726.923
+				text = ""
+			intervals [911]:
+				xmin = 1726.923
+				xmax = 1728.329
+				text = "嗯，太极拳的那个"
+			intervals [912]:
+				xmin = 1728.329
+				xmax = 1728.52
+				text = ""
+			intervals [913]:
+				xmin = 1728.52
+				xmax = 1729.179
+				text = ""
+			intervals [914]:
+				xmin = 1729.179
+				xmax = 1729.201
+				text = ""
+			intervals [915]:
+				xmin = 1729.201
+				xmax = 1730.699
+				text = "创始人嘛很厉害"
+			intervals [916]:
+				xmin = 1730.699
+				xmax = 1731.417
+				text = "但是"
+			intervals [917]:
+				xmin = 1731.417
+				xmax = 1732.112
+				text = ""
+			intervals [918]:
+				xmin = 1732.112
+				xmax = 1736.494
+				text = "嗯，他就是他的那个思想可能是一样的"
+			intervals [919]:
+				xmin = 1736.494
+				xmax = 1736.956
+				text = ""
+			intervals [920]:
+				xmin = 1736.956
+				xmax = 1737.48
+				text = "对"
+			intervals [921]:
+				xmin = 1737.48
+				xmax = 1737.512
+				text = ""
+			intervals [922]:
+				xmin = 1737.512
+				xmax = 1740.877
+				text = "拳法路数都是属于不同类别"
+			intervals [923]:
+				xmin = 1740.877
+				xmax = 1740.936
+				text = ""
+			intervals [924]:
+				xmin = 1740.936
+				xmax = 1748.46
+				text = "对，他活到一百多岁，好像一百多岁的时候，还身体健壮，可能也有太极拳的一定的功效在里面"
+			intervals [925]:
+				xmin = 1748.46
+				xmax = 1749.284
+				text = ""
+			intervals [926]:
+				xmin = 1749.284
+				xmax = 1754.724
+				text = "所以说我们现那些，呃老年人都喜热热衷于练这个太极拳"
+			intervals [927]:
+				xmin = 1754.724
+				xmax = 1754.792
+				text = ""
+			intervals [928]:
+				xmin = 1754.792
+				xmax = 1758.835
+				text = "对练练练太极，平时练练太极啊，打打太极啊挺好的"
+			intervals [929]:
+				xmin = 1758.835
+				xmax = 1759.214
+				text = ""
+			intervals [930]:
+				xmin = 1759.214
+				xmax = 1764.576
+				text = "嗯，但是我看到现在啊，一些人还是有些人还是比较喜欢练那些"
+			intervals [931]:
+				xmin = 1764.576
+				xmax = 1764.752
+				text = ""
+			intervals [932]:
+				xmin = 1764.752
+				xmax = 1769.24
+				text = "嗯，散打了，嗯还有那些跆拳道"
+			intervals [933]:
+				xmin = 1769.24
+				xmax = 1769.552
+				text = ""
+			intervals [934]:
+				xmin = 1769.552
+				xmax = 1773.604
+				text = "嗯，这个也也挺好，一般年轻人打这个比较多"
+			intervals [935]:
+				xmin = 1773.604
+				xmax = 1774.06
+				text = ""
+			intervals [936]:
+				xmin = 1774.06
+				xmax = 1777.075
+				text = "嗯，它那些主要是倾向于娱乐吧"
+			intervals [937]:
+				xmin = 1777.075
+				xmax = 1777.774
+				text = ""
+			intervals [938]:
+				xmin = 1777.774
+				xmax = 1779.752
+				text = "哦，这个应该都有吧"
+			intervals [939]:
+				xmin = 1779.752
+				xmax = 1780.624
+				text = ""
+			intervals [940]:
+				xmin = 1780.624
+				xmax = 1786.86
+				text = "嗯，但是他这些嗯不属于中国的一个传统文化里面就中国的武术"
+			intervals [941]:
+				xmin = 1786.86
+				xmax = 1787.17
+				text = ""
+			intervals [942]:
+				xmin = 1787.17
+				xmax = 1787.946
+				text = "哦"
+			intervals [943]:
+				xmin = 1787.946
+				xmax = 1788.673
+				text = ""
+			intervals [944]:
+				xmin = 1788.673
+				xmax = 1795.267
+				text = "可能他们有他们自己的想法吧，反正咱们是比较热衷于中国的武术，像那醉拳什么的是吧"
+			intervals [945]:
+				xmin = 1795.267
+				xmax = 1796.178
+				text = ""
+			intervals [946]:
+				xmin = 1796.178
+				xmax = 1802.481
+				text = "嗯对，现在我们也在在在体育课上练的那个就是太极拳"
+			intervals [947]:
+				xmin = 1802.481
+				xmax = 1802.622
+				text = ""
+			intervals [948]:
+				xmin = 1802.622
+				xmax = 1803.31
+				text = ""
+			intervals [949]:
+				xmin = 1803.31
+				xmax = 1803.96
+				text = "太极拳"
+			intervals [950]:
+				xmin = 1803.96
+				xmax = 1804.004
+				text = ""
+			intervals [951]:
+				xmin = 1804.004
+				xmax = 1805.361
+				text = "对啊，很厉害的"
+	item [2]:
+		class = "IntervalTier"
+		name = "角色"
+		xmin = 0.0
+		xmax = 1806.275
+		intervals: size = 951
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.678
+				text = ""
+			intervals [2]:
+				xmin = 0.678
+				xmax = 5.352
+				text = "S1"
+			intervals [3]:
+				xmin = 5.352
+				xmax = 6.128
+				text = ""
+			intervals [4]:
+				xmin = 6.128
+				xmax = 11.955
+				text = "S2"
+			intervals [5]:
+				xmin = 11.955
+				xmax = 13.323
+				text = ""
+			intervals [6]:
+				xmin = 13.323
+				xmax = 18.675
+				text = "S1"
+			intervals [7]:
+				xmin = 18.675
+				xmax = 19.18
+				text = ""
+			intervals [8]:
+				xmin = 19.18
+				xmax = 22.195
+				text = "S2"
+			intervals [9]:
+				xmin = 22.195
+				xmax = 22.729
+				text = ""
+			intervals [10]:
+				xmin = 22.729
+				xmax = 23.912
+				text = "S2"
+			intervals [11]:
+				xmin = 23.912
+				xmax = 24.552
+				text = ""
+			intervals [12]:
+				xmin = 24.552
+				xmax = 28.432
+				text = "S1"
+			intervals [13]:
+				xmin = 28.432
+				xmax = 30.7
+				text = ""
+			intervals [14]:
+				xmin = 30.7
+				xmax = 31.718
+				text = "S2"
+			intervals [15]:
+				xmin = 31.718
+				xmax = 32.717
+				text = ""
+			intervals [16]:
+				xmin = 32.717
+				xmax = 34.026
+				text = "S1"
+			intervals [17]:
+				xmin = 34.026
+				xmax = 34.569
+				text = ""
+			intervals [18]:
+				xmin = 34.569
+				xmax = 39.563
+				text = "S1"
+			intervals [19]:
+				xmin = 39.563
+				xmax = 41.774
+				text = ""
+			intervals [20]:
+				xmin = 41.774
+				xmax = 48.843
+				text = "S1"
+			intervals [21]:
+				xmin = 48.843
+				xmax = 49.483
+				text = ""
+			intervals [22]:
+				xmin = 49.483
+				xmax = 52.169
+				text = "S2"
+			intervals [23]:
+				xmin = 52.169
+				xmax = 52.654
+				text = ""
+			intervals [24]:
+				xmin = 52.654
+				xmax = 56.494
+				text = "S2"
+			intervals [25]:
+				xmin = 56.494
+				xmax = 57.424
+				text = ""
+			intervals [26]:
+				xmin = 57.424
+				xmax = 60.877
+				text = "S1"
+			intervals [27]:
+				xmin = 60.877
+				xmax = 61.187
+				text = ""
+			intervals [28]:
+				xmin = 61.187
+				xmax = 65.812
+				text = "S1"
+			intervals [29]:
+				xmin = 65.812
+				xmax = 66.22
+				text = ""
+			intervals [30]:
+				xmin = 66.22
+				xmax = 69.216
+				text = "S1"
+			intervals [31]:
+				xmin = 69.216
+				xmax = 69.73
+				text = ""
+			intervals [32]:
+				xmin = 69.73
+				xmax = 70.506
+				text = "S2"
+			intervals [33]:
+				xmin = 70.506
+				xmax = 71.146
+				text = ""
+			intervals [34]:
+				xmin = 71.146
+				xmax = 74.734
+				text = "S2"
+			intervals [35]:
+				xmin = 74.734
+				xmax = 75.044
+				text = ""
+			intervals [36]:
+				xmin = 75.044
+				xmax = 81.832
+				text = "S2"
+			intervals [37]:
+				xmin = 81.832
+				xmax = 82.056
+				text = ""
+			intervals [38]:
+				xmin = 82.056
+				xmax = 85.42
+				text = "S2"
+			intervals [39]:
+				xmin = 85.42
+				xmax = 86.089
+				text = ""
+			intervals [40]:
+				xmin = 86.089
+				xmax = 87.33
+				text = "S2"
+			intervals [41]:
+				xmin = 87.33
+				xmax = 87.757
+				text = ""
+			intervals [42]:
+				xmin = 87.757
+				xmax = 91.306
+				text = "S2"
+			intervals [43]:
+				xmin = 91.306
+				xmax = 91.441
+				text = ""
+			intervals [44]:
+				xmin = 91.441
+				xmax = 99.073
+				text = "S1"
+			intervals [45]:
+				xmin = 99.073
+				xmax = 100.208
+				text = ""
+			intervals [46]:
+				xmin = 100.208
+				xmax = 102.292
+				text = "S1"
+			intervals [47]:
+				xmin = 102.292
+				xmax = 103.301
+				text = ""
+			intervals [48]:
+				xmin = 103.301
+				xmax = 104.397
+				text = "S2"
+			intervals [49]:
+				xmin = 104.397
+				xmax = 104.426
+				text = ""
+			intervals [50]:
+				xmin = 104.426
+				xmax = 110.254
+				text = "S1"
+			intervals [51]:
+				xmin = 110.254
+				xmax = 110.856
+				text = ""
+			intervals [52]:
+				xmin = 110.856
+				xmax = 114.249
+				text = "S1"
+			intervals [53]:
+				xmin = 114.249
+				xmax = 114.578
+				text = ""
+			intervals [54]:
+				xmin = 114.578
+				xmax = 121.386
+				text = "S2"
+			intervals [55]:
+				xmin = 121.386
+				xmax = 121.416
+				text = ""
+			intervals [56]:
+				xmin = 121.416
+				xmax = 122.578
+				text = "S1"
+			intervals [57]:
+				xmin = 122.578
+				xmax = 123.461
+				text = ""
+			intervals [58]:
+				xmin = 123.461
+				xmax = 130.383
+				text = "S2"
+			intervals [59]:
+				xmin = 130.383
+				xmax = 130.404
+				text = ""
+			intervals [60]:
+				xmin = 130.404
+				xmax = 130.752
+				text = "B"
+			intervals [61]:
+				xmin = 130.752
+				xmax = 130.763
+				text = ""
+			intervals [62]:
+				xmin = 130.763
+				xmax = 131.52
+				text = "P"
+			intervals [63]:
+				xmin = 131.52
+				xmax = 131.558
+				text = ""
+			intervals [64]:
+				xmin = 131.558
+				xmax = 132.227
+				text = "B"
+			intervals [65]:
+				xmin = 132.227
+				xmax = 132.304
+				text = ""
+			intervals [66]:
+				xmin = 132.304
+				xmax = 133.74
+				text = "S1"
+			intervals [67]:
+				xmin = 133.74
+				xmax = 134.506
+				text = ""
+			intervals [68]:
+				xmin = 134.506
+				xmax = 135.921
+				text = "S1"
+			intervals [69]:
+				xmin = 135.921
+				xmax = 136.513
+				text = ""
+			intervals [70]:
+				xmin = 136.513
+				xmax = 141.633
+				text = "S1"
+			intervals [71]:
+				xmin = 141.633
+				xmax = 142.448
+				text = "S2"
+			intervals [72]:
+				xmin = 142.448
+				xmax = 142.758
+				text = ""
+			intervals [73]:
+				xmin = 142.758
+				xmax = 145.192
+				text = "S2"
+			intervals [74]:
+				xmin = 145.192
+				xmax = 145.667
+				text = ""
+			intervals [75]:
+				xmin = 145.667
+				xmax = 148.324
+				text = "S2"
+			intervals [76]:
+				xmin = 148.324
+				xmax = 148.45
+				text = ""
+			intervals [77]:
+				xmin = 148.45
+				xmax = 153.696
+				text = "S1"
+			intervals [78]:
+				xmin = 153.696
+				xmax = 153.764
+				text = ""
+			intervals [79]:
+				xmin = 153.764
+				xmax = 160.912
+				text = "S1"
+			intervals [80]:
+				xmin = 160.912
+				xmax = 161.26
+				text = ""
+			intervals [81]:
+				xmin = 161.26
+				xmax = 165.73
+				text = "S2"
+			intervals [82]:
+				xmin = 165.73
+				xmax = 166.157
+				text = ""
+			intervals [83]:
+				xmin = 166.157
+				xmax = 168.717
+				text = "S2"
+			intervals [84]:
+				xmin = 168.717
+				xmax = 169.096
+				text = ""
+			intervals [85]:
+				xmin = 169.096
+				xmax = 173.992
+				text = "S1"
+			intervals [86]:
+				xmin = 173.992
+				xmax = 174.729
+				text = ""
+			intervals [87]:
+				xmin = 174.729
+				xmax = 179.364
+				text = "S2"
+			intervals [88]:
+				xmin = 179.364
+				xmax = 179.684
+				text = ""
+			intervals [89]:
+				xmin = 179.684
+				xmax = 184.658
+				text = "S2"
+			intervals [90]:
+				xmin = 184.658
+				xmax = 185.027
+				text = ""
+			intervals [91]:
+				xmin = 185.027
+				xmax = 192.649
+				text = "S1"
+			intervals [92]:
+				xmin = 192.649
+				xmax = 193.037
+				text = ""
+			intervals [93]:
+				xmin = 193.037
+				xmax = 195.277
+				text = "S1"
+			intervals [94]:
+				xmin = 195.277
+				xmax = 195.432
+				text = ""
+			intervals [95]:
+				xmin = 195.432
+				xmax = 201.318
+				text = "S2"
+			intervals [96]:
+				xmin = 201.318
+				xmax = 201.512
+				text = ""
+			intervals [97]:
+				xmin = 201.512
+				xmax = 206.496
+				text = "S1"
+			intervals [98]:
+				xmin = 206.496
+				xmax = 207.398
+				text = ""
+			intervals [99]:
+				xmin = 207.398
+				xmax = 209.929
+				text = "S1"
+			intervals [100]:
+				xmin = 209.929
+				xmax = 209.948
+				text = ""
+			intervals [101]:
+				xmin = 209.948
+				xmax = 210.491
+				text = "B"
+			intervals [102]:
+				xmin = 210.491
+				xmax = 210.578
+				text = ""
+			intervals [103]:
+				xmin = 210.578
+				xmax = 214.312
+				text = "S2"
+			intervals [104]:
+				xmin = 214.312
+				xmax = 214.758
+				text = ""
+			intervals [105]:
+				xmin = 214.758
+				xmax = 217.056
+				text = "S2"
+			intervals [106]:
+				xmin = 217.056
+				xmax = 217.328
+				text = ""
+			intervals [107]:
+				xmin = 217.328
+				xmax = 221.875
+				text = "S2"
+			intervals [108]:
+				xmin = 221.875
+				xmax = 221.924
+				text = ""
+			intervals [109]:
+				xmin = 221.924
+				xmax = 227.587
+				text = "S1"
+			intervals [110]:
+				xmin = 227.587
+				xmax = 227.946
+				text = ""
+			intervals [111]:
+				xmin = 227.946
+				xmax = 231.312
+				text = "S1"
+			intervals [112]:
+				xmin = 231.312
+				xmax = 231.912
+				text = ""
+			intervals [113]:
+				xmin = 231.912
+				xmax = 236.256
+				text = "S2"
+			intervals [114]:
+				xmin = 236.256
+				xmax = 236.586
+				text = ""
+			intervals [115]:
+				xmin = 236.586
+				xmax = 239.912
+				text = "S1"
+			intervals [116]:
+				xmin = 239.912
+				xmax = 240.61
+				text = ""
+			intervals [117]:
+				xmin = 240.61
+				xmax = 244.867
+				text = "S1"
+			intervals [118]:
+				xmin = 244.867
+				xmax = 245.323
+				text = ""
+			intervals [119]:
+				xmin = 245.323
+				xmax = 247.795
+				text = "S1"
+			intervals [120]:
+				xmin = 247.795
+				xmax = 248.018
+				text = ""
+			intervals [121]:
+				xmin = 248.018
+				xmax = 255.68
+				text = "S1"
+			intervals [122]:
+				xmin = 255.68
+				xmax = 256.115
+				text = ""
+			intervals [123]:
+				xmin = 256.115
+				xmax = 258.336
+				text = "S1"
+			intervals [124]:
+				xmin = 258.336
+				xmax = 259.694
+				text = ""
+			intervals [125]:
+				xmin = 259.694
+				xmax = 260.752
+				text = "S2"
+			intervals [126]:
+				xmin = 260.752
+				xmax = 261.284
+				text = ""
+			intervals [127]:
+				xmin = 261.284
+				xmax = 263.01
+				text = "S2"
+			intervals [128]:
+				xmin = 263.01
+				xmax = 263.437
+				text = ""
+			intervals [129]:
+				xmin = 263.437
+				xmax = 264.484
+				text = "S2"
+			intervals [130]:
+				xmin = 264.484
+				xmax = 265.958
+				text = ""
+			intervals [131]:
+				xmin = 265.958
+				xmax = 266.696
+				text = "S1"
+			intervals [132]:
+				xmin = 266.696
+				xmax = 268.752
+				text = ""
+			intervals [133]:
+				xmin = 268.752
+				xmax = 271.252
+				text = "S1"
+			intervals [134]:
+				xmin = 271.252
+				xmax = 271.504
+				text = ""
+			intervals [135]:
+				xmin = 271.504
+				xmax = 276.198
+				text = "S2"
+			intervals [136]:
+				xmin = 276.198
+				xmax = 276.237
+				text = ""
+			intervals [137]:
+				xmin = 276.237
+				xmax = 277.896
+				text = "S1"
+			intervals [138]:
+				xmin = 277.896
+				xmax = 277.934
+				text = ""
+			intervals [139]:
+				xmin = 277.934
+				xmax = 278.515
+				text = "S2"
+			intervals [140]:
+				xmin = 278.515
+				xmax = 278.981
+				text = ""
+			intervals [141]:
+				xmin = 278.981
+				xmax = 284.867
+				text = "S2"
+			intervals [142]:
+				xmin = 284.867
+				xmax = 285.158
+				text = ""
+			intervals [143]:
+				xmin = 285.158
+				xmax = 289.541
+				text = "S2"
+			intervals [144]:
+				xmin = 289.541
+				xmax = 289.832
+				text = ""
+			intervals [145]:
+				xmin = 289.832
+				xmax = 294.118
+				text = "S1"
+			intervals [146]:
+				xmin = 294.118
+				xmax = 294.216
+				text = ""
+			intervals [147]:
+				xmin = 294.216
+				xmax = 294.787
+				text = "S2"
+			intervals [148]:
+				xmin = 294.787
+				xmax = 295.718
+				text = ""
+			intervals [149]:
+				xmin = 295.718
+				xmax = 297.172
+				text = "S1"
+			intervals [150]:
+				xmin = 297.172
+				xmax = 297.318
+				text = ""
+			intervals [151]:
+				xmin = 297.318
+				xmax = 298.889
+				text = "S2"
+			intervals [152]:
+				xmin = 298.889
+				xmax = 298.898
+				text = ""
+			intervals [153]:
+				xmin = 298.898
+				xmax = 304.29
+				text = "S1"
+			intervals [154]:
+				xmin = 304.29
+				xmax = 304.484
+				text = ""
+			intervals [155]:
+				xmin = 304.484
+				xmax = 307.732
+				text = "S2"
+			intervals [156]:
+				xmin = 307.732
+				xmax = 307.984
+				text = ""
+			intervals [157]:
+				xmin = 307.984
+				xmax = 310.672
+				text = "S2"
+			intervals [158]:
+				xmin = 310.672
+				xmax = 311.252
+				text = ""
+			intervals [159]:
+				xmin = 311.252
+				xmax = 312.513
+				text = "S2"
+			intervals [160]:
+				xmin = 312.513
+				xmax = 312.998
+				text = ""
+			intervals [161]:
+				xmin = 312.998
+				xmax = 315.694
+				text = "S1"
+			intervals [162]:
+				xmin = 315.694
+				xmax = 316.45
+				text = ""
+			intervals [163]:
+				xmin = 316.45
+				xmax = 319.427
+				text = "S1"
+			intervals [164]:
+				xmin = 319.427
+				xmax = 319.446
+				text = ""
+			intervals [165]:
+				xmin = 319.446
+				xmax = 320.174
+				text = "S2"
+			intervals [166]:
+				xmin = 320.174
+				xmax = 320.184
+				text = ""
+			intervals [167]:
+				xmin = 320.184
+				xmax = 321.987
+				text = "S1"
+			intervals [168]:
+				xmin = 321.987
+				xmax = 322.249
+				text = ""
+			intervals [169]:
+				xmin = 322.249
+				xmax = 325.226
+				text = "S1"
+			intervals [170]:
+				xmin = 325.226
+				xmax = 325.681
+				text = ""
+			intervals [171]:
+				xmin = 325.681
+				xmax = 328.174
+				text = "S2"
+			intervals [172]:
+				xmin = 328.174
+				xmax = 328.746
+				text = ""
+			intervals [173]:
+				xmin = 328.746
+				xmax = 333.256
+				text = "S2"
+			intervals [174]:
+				xmin = 333.256
+				xmax = 333.332
+				text = ""
+			intervals [175]:
+				xmin = 333.332
+				xmax = 335.049
+				text = "S1"
+			intervals [176]:
+				xmin = 335.049
+				xmax = 335.078
+				text = ""
+			intervals [177]:
+				xmin = 335.078
+				xmax = 335.747
+				text = "S2"
+			intervals [178]:
+				xmin = 335.747
+				xmax = 335.854
+				text = ""
+			intervals [179]:
+				xmin = 335.854
+				xmax = 339.626
+				text = "S1"
+			intervals [180]:
+				xmin = 339.626
+				xmax = 339.792
+				text = ""
+			intervals [181]:
+				xmin = 339.792
+				xmax = 340.741
+				text = "P"
+			intervals [182]:
+				xmin = 340.741
+				xmax = 340.752
+				text = ""
+			intervals [183]:
+				xmin = 340.752
+				xmax = 341.798
+				text = "S2"
+			intervals [184]:
+				xmin = 341.798
+				xmax = 341.924
+				text = ""
+			intervals [185]:
+				xmin = 341.924
+				xmax = 346.346
+				text = "S1"
+			intervals [186]:
+				xmin = 346.346
+				xmax = 346.569
+				text = ""
+			intervals [187]:
+				xmin = 346.569
+				xmax = 349.73
+				text = "S1"
+			intervals [188]:
+				xmin = 349.73
+				xmax = 350.089
+				text = ""
+			intervals [189]:
+				xmin = 350.089
+				xmax = 352.804
+				text = "S1"
+			intervals [190]:
+				xmin = 352.804
+				xmax = 353.104
+				text = ""
+			intervals [191]:
+				xmin = 353.104
+				xmax = 355.626
+				text = "S1"
+			intervals [192]:
+				xmin = 355.626
+				xmax = 356.809
+				text = ""
+			intervals [193]:
+				xmin = 356.809
+				xmax = 357.808
+				text = "S1"
+			intervals [194]:
+				xmin = 357.808
+				xmax = 358.37
+				text = ""
+			intervals [195]:
+				xmin = 358.37
+				xmax = 362.85
+				text = "S2"
+			intervals [196]:
+				xmin = 362.85
+				xmax = 363.152
+				text = ""
+			intervals [197]:
+				xmin = 363.152
+				xmax = 368.776
+				text = "S2"
+			intervals [198]:
+				xmin = 368.776
+				xmax = 368.96
+				text = ""
+			intervals [199]:
+				xmin = 368.96
+				xmax = 373.866
+				text = "S2"
+			intervals [200]:
+				xmin = 373.866
+				xmax = 374.05
+				text = ""
+			intervals [201]:
+				xmin = 374.05
+				xmax = 380.043
+				text = "S2"
+			intervals [202]:
+				xmin = 380.043
+				xmax = 380.169
+				text = ""
+			intervals [203]:
+				xmin = 380.169
+				xmax = 382.787
+				text = "S1"
+			intervals [204]:
+				xmin = 382.787
+				xmax = 382.816
+				text = ""
+			intervals [205]:
+				xmin = 382.816
+				xmax = 385.347
+				text = "S2"
+			intervals [206]:
+				xmin = 385.347
+				xmax = 389.576
+				text = "S1"
+			intervals [207]:
+				xmin = 389.576
+				xmax = 389.953
+				text = ""
+			intervals [208]:
+				xmin = 389.953
+				xmax = 391.747
+				text = "S1"
+			intervals [209]:
+				xmin = 391.747
+				xmax = 392.435
+				text = ""
+			intervals [210]:
+				xmin = 392.435
+				xmax = 393.444
+				text = "S1"
+			intervals [211]:
+				xmin = 393.444
+				xmax = 393.454
+				text = ""
+			intervals [212]:
+				xmin = 393.454
+				xmax = 395.354
+				text = "S2"
+			intervals [213]:
+				xmin = 395.354
+				xmax = 396.169
+				text = ""
+			intervals [214]:
+				xmin = 396.169
+				xmax = 400.174
+				text = "S2"
+			intervals [215]:
+				xmin = 400.174
+				xmax = 400.329
+				text = ""
+			intervals [216]:
+				xmin = 400.329
+				xmax = 406.477
+				text = "S1"
+			intervals [217]:
+				xmin = 406.477
+				xmax = 406.574
+				text = ""
+			intervals [218]:
+				xmin = 406.574
+				xmax = 411.441
+				text = "S1"
+			intervals [219]:
+				xmin = 411.441
+				xmax = 411.955
+				text = ""
+			intervals [220]:
+				xmin = 411.955
+				xmax = 417.872
+				text = "S2"
+			intervals [221]:
+				xmin = 417.872
+				xmax = 417.938
+				text = ""
+			intervals [222]:
+				xmin = 417.938
+				xmax = 420.081
+				text = "S2"
+			intervals [223]:
+				xmin = 420.081
+				xmax = 420.8
+				text = ""
+			intervals [224]:
+				xmin = 420.8
+				xmax = 426.481
+				text = "S2"
+			intervals [225]:
+				xmin = 426.481
+				xmax = 426.898
+				text = ""
+			intervals [226]:
+				xmin = 426.898
+				xmax = 427.82
+				text = "P"
+			intervals [227]:
+				xmin = 427.82
+				xmax = 427.878
+				text = ""
+			intervals [228]:
+				xmin = 427.878
+				xmax = 429.478
+				text = "S1"
+			intervals [229]:
+				xmin = 429.478
+				xmax = 430.729
+				text = ""
+			intervals [230]:
+				xmin = 430.729
+				xmax = 435.024
+				text = "S2"
+			intervals [231]:
+				xmin = 435.024
+				xmax = 435.461
+				text = ""
+			intervals [232]:
+				xmin = 435.461
+				xmax = 439.912
+				text = "S2"
+			intervals [233]:
+				xmin = 439.912
+				xmax = 440.329
+				text = ""
+			intervals [234]:
+				xmin = 440.329
+				xmax = 441.715
+				text = "S2"
+			intervals [235]:
+				xmin = 441.715
+				xmax = 441.764
+				text = ""
+			intervals [236]:
+				xmin = 441.764
+				xmax = 446.661
+				text = "S1"
+			intervals [237]:
+				xmin = 446.661
+				xmax = 446.768
+				text = ""
+			intervals [238]:
+				xmin = 446.768
+				xmax = 450.772
+				text = "S1"
+			intervals [239]:
+				xmin = 450.772
+				xmax = 451.18
+				text = ""
+			intervals [240]:
+				xmin = 451.18
+				xmax = 451.946
+				text = "S2"
+			intervals [241]:
+				xmin = 451.946
+				xmax = 452.752
+				text = "S1"
+			intervals [242]:
+				xmin = 452.752
+				xmax = 453.41
+				text = "S2"
+			intervals [243]:
+				xmin = 453.41
+				xmax = 453.44
+				text = ""
+			intervals [244]:
+				xmin = 453.44
+				xmax = 456.329
+				text = "S1"
+			intervals [245]:
+				xmin = 456.329
+				xmax = 456.736
+				text = ""
+			intervals [246]:
+				xmin = 456.736
+				xmax = 459.054
+				text = "S1"
+			intervals [247]:
+				xmin = 459.054
+				xmax = 459.529
+				text = ""
+			intervals [248]:
+				xmin = 459.529
+				xmax = 463.01
+				text = "S2"
+			intervals [249]:
+				xmin = 463.01
+				xmax = 463.088
+				text = ""
+			intervals [250]:
+				xmin = 463.088
+				xmax = 465.609
+				text = "S1"
+			intervals [251]:
+				xmin = 465.609
+				xmax = 465.92
+				text = ""
+			intervals [252]:
+				xmin = 465.92
+				xmax = 470.923
+				text = "S1"
+			intervals [253]:
+				xmin = 470.923
+				xmax = 471.553
+				text = ""
+			intervals [254]:
+				xmin = 471.553
+				xmax = 472.329
+				text = "P"
+			intervals [255]:
+				xmin = 472.329
+				xmax = 476.557
+				text = "S2"
+			intervals [256]:
+				xmin = 476.557
+				xmax = 476.683
+				text = ""
+			intervals [257]:
+				xmin = 476.683
+				xmax = 479.049
+				text = "S1"
+			intervals [258]:
+				xmin = 479.049
+				xmax = 480.038
+				text = ""
+			intervals [259]:
+				xmin = 480.038
+				xmax = 483.52
+				text = "S1"
+			intervals [260]:
+				xmin = 483.52
+				xmax = 483.849
+				text = ""
+			intervals [261]:
+				xmin = 483.849
+				xmax = 484.867
+				text = "S2"
+			intervals [262]:
+				xmin = 484.867
+				xmax = 484.877
+				text = ""
+			intervals [263]:
+				xmin = 484.877
+				xmax = 488.241
+				text = "S1"
+			intervals [264]:
+				xmin = 488.241
+				xmax = 488.309
+				text = ""
+			intervals [265]:
+				xmin = 488.309
+				xmax = 488.998
+				text = "S2"
+			intervals [266]:
+				xmin = 488.998
+				xmax = 496.397
+				text = "S1"
+			intervals [267]:
+				xmin = 496.397
+				xmax = 496.688
+				text = ""
+			intervals [268]:
+				xmin = 496.688
+				xmax = 498.472
+				text = "S1"
+			intervals [269]:
+				xmin = 498.472
+				xmax = 499.558
+				text = ""
+			intervals [270]:
+				xmin = 499.558
+				xmax = 506.404
+				text = "S1"
+			intervals [271]:
+				xmin = 506.404
+				xmax = 507.723
+				text = ""
+			intervals [272]:
+				xmin = 507.723
+				xmax = 512.969
+				text = "S2"
+			intervals [273]:
+				xmin = 512.969
+				xmax = 513.638
+				text = ""
+			intervals [274]:
+				xmin = 513.638
+				xmax = 515.12
+				text = "S1"
+			intervals [275]:
+				xmin = 515.12
+				xmax = 515.557
+				text = ""
+			intervals [276]:
+				xmin = 515.557
+				xmax = 516.838
+				text = "S1"
+			intervals [277]:
+				xmin = 516.838
+				xmax = 517.293
+				text = ""
+			intervals [278]:
+				xmin = 517.293
+				xmax = 523.586
+				text = "S2"
+			intervals [279]:
+				xmin = 523.586
+				xmax = 524.274
+				text = "P"
+			intervals [280]:
+				xmin = 524.274
+				xmax = 524.324
+				text = ""
+			intervals [281]:
+				xmin = 524.324
+				xmax = 528.358
+				text = "S1"
+			intervals [282]:
+				xmin = 528.358
+				xmax = 528.426
+				text = ""
+			intervals [283]:
+				xmin = 528.426
+				xmax = 531.936
+				text = "S2"
+			intervals [284]:
+				xmin = 531.936
+				xmax = 532.595
+				text = ""
+			intervals [285]:
+				xmin = 532.595
+				xmax = 535.592
+				text = "S2"
+			intervals [286]:
+				xmin = 535.592
+				xmax = 536.106
+				text = ""
+			intervals [287]:
+				xmin = 536.106
+				xmax = 540.624
+				text = "S1"
+			intervals [288]:
+				xmin = 540.624
+				xmax = 541.187
+				text = ""
+			intervals [289]:
+				xmin = 541.187
+				xmax = 546.123
+				text = "S1"
+			intervals [290]:
+				xmin = 546.123
+				xmax = 546.249
+				text = ""
+			intervals [291]:
+				xmin = 546.249
+				xmax = 553.386
+				text = "S1"
+			intervals [292]:
+				xmin = 553.386
+				xmax = 554.656
+				text = ""
+			intervals [293]:
+				xmin = 554.656
+				xmax = 555.723
+				text = "S2"
+			intervals [294]:
+				xmin = 555.723
+				xmax = 556.072
+				text = ""
+			intervals [295]:
+				xmin = 556.072
+				xmax = 556.616
+				text = "S2"
+			intervals [296]:
+				xmin = 556.616
+				xmax = 557.827
+				text = "B"
+			intervals [297]:
+				xmin = 557.827
+				xmax = 557.953
+				text = ""
+			intervals [298]:
+				xmin = 557.953
+				xmax = 559.078
+				text = "S2"
+			intervals [299]:
+				xmin = 559.078
+				xmax = 559.504
+				text = ""
+			intervals [300]:
+				xmin = 559.504
+				xmax = 562.376
+				text = "S2"
+			intervals [301]:
+				xmin = 562.376
+				xmax = 562.696
+				text = ""
+			intervals [302]:
+				xmin = 562.696
+				xmax = 570.569
+				text = "S2"
+			intervals [303]:
+				xmin = 570.569
+				xmax = 570.937
+				text = ""
+			intervals [304]:
+				xmin = 570.937
+				xmax = 572.024
+				text = "P"
+			intervals [305]:
+				xmin = 572.024
+				xmax = 572.616
+				text = "S1"
+			intervals [306]:
+				xmin = 572.616
+				xmax = 572.624
+				text = ""
+			intervals [307]:
+				xmin = 572.624
+				xmax = 575.272
+				text = "S2"
+			intervals [308]:
+				xmin = 575.272
+				xmax = 575.883
+				text = ""
+			intervals [309]:
+				xmin = 575.883
+				xmax = 578.035
+				text = "S2"
+			intervals [310]:
+				xmin = 578.035
+				xmax = 578.24
+				text = ""
+			intervals [311]:
+				xmin = 578.24
+				xmax = 582.089
+				text = "S1"
+			intervals [312]:
+				xmin = 582.089
+				xmax = 583.816
+				text = ""
+			intervals [313]:
+				xmin = 583.816
+				xmax = 585.424
+				text = "S2"
+			intervals [314]:
+				xmin = 585.424
+				xmax = 585.483
+				text = ""
+			intervals [315]:
+				xmin = 585.483
+				xmax = 587.635
+				text = "S1"
+			intervals [316]:
+				xmin = 587.635
+				xmax = 588.432
+				text = ""
+			intervals [317]:
+				xmin = 588.432
+				xmax = 592.717
+				text = "S1"
+			intervals [318]:
+				xmin = 592.717
+				xmax = 593.134
+				text = ""
+			intervals [319]:
+				xmin = 593.134
+				xmax = 597.072
+				text = "S2"
+			intervals [320]:
+				xmin = 597.072
+				xmax = 597.332
+				text = ""
+			intervals [321]:
+				xmin = 597.332
+				xmax = 599.912
+				text = "S2"
+			intervals [322]:
+				xmin = 599.912
+				xmax = 600.212
+				text = ""
+			intervals [323]:
+				xmin = 600.212
+				xmax = 604.334
+				text = "S2"
+			intervals [324]:
+				xmin = 604.334
+				xmax = 604.392
+				text = ""
+			intervals [325]:
+				xmin = 604.392
+				xmax = 612.372
+				text = "S1"
+			intervals [326]:
+				xmin = 612.372
+				xmax = 612.46
+				text = ""
+			intervals [327]:
+				xmin = 612.46
+				xmax = 618.192
+				text = "S1"
+			intervals [328]:
+				xmin = 618.192
+				xmax = 618.481
+				text = ""
+			intervals [329]:
+				xmin = 618.481
+				xmax = 619.238
+				text = "S1"
+			intervals [330]:
+				xmin = 619.238
+				xmax = 619.267
+				text = ""
+			intervals [331]:
+				xmin = 619.267
+				xmax = 627.248
+				text = "S2"
+			intervals [332]:
+				xmin = 627.248
+				xmax = 627.432
+				text = ""
+			intervals [333]:
+				xmin = 627.432
+				xmax = 632.532
+				text = "S2"
+			intervals [334]:
+				xmin = 632.532
+				xmax = 632.881
+				text = ""
+			intervals [335]:
+				xmin = 632.881
+				xmax = 636.052
+				text = "S2"
+			intervals [336]:
+				xmin = 636.052
+				xmax = 636.401
+				text = ""
+			intervals [337]:
+				xmin = 636.401
+				xmax = 639.058
+				text = "S2"
+			intervals [338]:
+				xmin = 639.058
+				xmax = 639.466
+				text = ""
+			intervals [339]:
+				xmin = 639.466
+				xmax = 642.512
+				text = "S2"
+			intervals [340]:
+				xmin = 642.512
+				xmax = 642.608
+				text = ""
+			intervals [341]:
+				xmin = 642.608
+				xmax = 646.672
+				text = "S1"
+			intervals [342]:
+				xmin = 646.672
+				xmax = 646.835
+				text = ""
+			intervals [343]:
+				xmin = 646.835
+				xmax = 650.976
+				text = "S1"
+			intervals [344]:
+				xmin = 650.976
+				xmax = 651.432
+				text = ""
+			intervals [345]:
+				xmin = 651.432
+				xmax = 658.792
+				text = "S2"
+			intervals [346]:
+				xmin = 658.792
+				xmax = 658.832
+				text = ""
+			intervals [347]:
+				xmin = 658.832
+				xmax = 659.946
+				text = "S2"
+			intervals [348]:
+				xmin = 659.946
+				xmax = 660.304
+				text = ""
+			intervals [349]:
+				xmin = 660.304
+				xmax = 663.921
+				text = "S1"
+			intervals [350]:
+				xmin = 663.921
+				xmax = 664.872
+				text = ""
+			intervals [351]:
+				xmin = 664.872
+				xmax = 665.706
+				text = "P"
+			intervals [352]:
+				xmin = 665.706
+				xmax = 666.035
+				text = ""
+			intervals [353]:
+				xmin = 666.035
+				xmax = 672.456
+				text = "S2"
+			intervals [354]:
+				xmin = 672.456
+				xmax = 672.678
+				text = ""
+			intervals [355]:
+				xmin = 672.678
+				xmax = 674.995
+				text = "S1"
+			intervals [356]:
+				xmin = 674.995
+				xmax = 675.49
+				text = ""
+			intervals [357]:
+				xmin = 675.49
+				xmax = 678.477
+				text = "S1"
+			intervals [358]:
+				xmin = 678.477
+				xmax = 678.884
+				text = ""
+			intervals [359]:
+				xmin = 678.884
+				xmax = 684.237
+				text = "S1"
+			intervals [360]:
+				xmin = 684.237
+				xmax = 685.012
+				text = ""
+			intervals [361]:
+				xmin = 685.012
+				xmax = 688.018
+				text = "S2"
+			intervals [362]:
+				xmin = 688.018
+				xmax = 688.203
+				text = ""
+			intervals [363]:
+				xmin = 688.203
+				xmax = 691.083
+				text = "S1"
+			intervals [364]:
+				xmin = 691.083
+				xmax = 691.752
+				text = ""
+			intervals [365]:
+				xmin = 691.752
+				xmax = 696.746
+				text = "S1"
+			intervals [366]:
+				xmin = 696.746
+				xmax = 697.037
+				text = ""
+			intervals [367]:
+				xmin = 697.037
+				xmax = 700.654
+				text = "S1"
+			intervals [368]:
+				xmin = 700.654
+				xmax = 700.906
+				text = ""
+			intervals [369]:
+				xmin = 700.906
+				xmax = 704.843
+				text = "S1"
+			intervals [370]:
+				xmin = 704.843
+				xmax = 705.289
+				text = ""
+			intervals [371]:
+				xmin = 705.289
+				xmax = 709.74
+				text = "S1"
+			intervals [372]:
+				xmin = 709.74
+				xmax = 709.778
+				text = ""
+			intervals [373]:
+				xmin = 709.778
+				xmax = 715.792
+				text = "S1"
+			intervals [374]:
+				xmin = 715.792
+				xmax = 718.477
+				text = ""
+			intervals [375]:
+				xmin = 718.477
+				xmax = 721.929
+				text = "S1"
+			intervals [376]:
+				xmin = 721.929
+				xmax = 722.192
+				text = ""
+			intervals [377]:
+				xmin = 722.192
+				xmax = 725.458
+				text = "S1"
+			intervals [378]:
+				xmin = 725.458
+				xmax = 725.798
+				text = ""
+			intervals [379]:
+				xmin = 725.798
+				xmax = 731.218
+				text = "S1"
+			intervals [380]:
+				xmin = 731.218
+				xmax = 731.558
+				text = ""
+			intervals [381]:
+				xmin = 731.558
+				xmax = 732.547
+				text = "S1"
+			intervals [382]:
+				xmin = 732.547
+				xmax = 733.352
+				text = ""
+			intervals [383]:
+				xmin = 733.352
+				xmax = 735.524
+				text = "S2"
+			intervals [384]:
+				xmin = 735.524
+				xmax = 735.786
+				text = ""
+			intervals [385]:
+				xmin = 735.786
+				xmax = 739.238
+				text = "S2"
+			intervals [386]:
+				xmin = 739.238
+				xmax = 739.626
+				text = ""
+			intervals [387]:
+				xmin = 739.626
+				xmax = 745.512
+				text = "S2"
+			intervals [388]:
+				xmin = 745.512
+				xmax = 745.57
+				text = ""
+			intervals [389]:
+				xmin = 745.57
+				xmax = 748.363
+				text = "S2"
+			intervals [390]:
+				xmin = 748.363
+				xmax = 749.73
+				text = "S1"
+			intervals [391]:
+				xmin = 749.73
+				xmax = 749.749
+				text = ""
+			intervals [392]:
+				xmin = 749.749
+				xmax = 750.157
+				text = "S2"
+			intervals [393]:
+				xmin = 750.157
+				xmax = 755.723
+				text = "S1"
+			intervals [394]:
+				xmin = 755.723
+				xmax = 756.721
+				text = ""
+			intervals [395]:
+				xmin = 756.721
+				xmax = 759.33
+				text = "S1"
+			intervals [396]:
+				xmin = 759.33
+				xmax = 759.883
+				text = ""
+			intervals [397]:
+				xmin = 759.883
+				xmax = 767.136
+				text = "S2"
+			intervals [398]:
+				xmin = 767.136
+				xmax = 767.204
+				text = ""
+			intervals [399]:
+				xmin = 767.204
+				xmax = 773.584
+				text = "S2"
+			intervals [400]:
+				xmin = 773.584
+				xmax = 774.032
+				text = ""
+			intervals [401]:
+				xmin = 774.032
+				xmax = 779.694
+				text = "S1"
+			intervals [402]:
+				xmin = 779.694
+				xmax = 780.334
+				text = ""
+			intervals [403]:
+				xmin = 780.334
+				xmax = 786.152
+				text = "S2"
+			intervals [404]:
+				xmin = 786.152
+				xmax = 789.576
+				text = "S1"
+			intervals [405]:
+				xmin = 789.576
+				xmax = 790.157
+				text = ""
+			intervals [406]:
+				xmin = 790.157
+				xmax = 797.604
+				text = "S1"
+			intervals [407]:
+				xmin = 797.604
+				xmax = 797.614
+				text = ""
+			intervals [408]:
+				xmin = 797.614
+				xmax = 802.084
+				text = "S1"
+			intervals [409]:
+				xmin = 802.084
+				xmax = 802.637
+				text = ""
+			intervals [410]:
+				xmin = 802.637
+				xmax = 805.837
+				text = "S1"
+			intervals [411]:
+				xmin = 805.837
+				xmax = 806.438
+				text = ""
+			intervals [412]:
+				xmin = 806.438
+				xmax = 810.123
+				text = "S2"
+			intervals [413]:
+				xmin = 810.123
+				xmax = 810.152
+				text = ""
+			intervals [414]:
+				xmin = 810.152
+				xmax = 812.974
+				text = "S1"
+			intervals [415]:
+				xmin = 812.974
+				xmax = 813.517
+				text = ""
+			intervals [416]:
+				xmin = 813.517
+				xmax = 817.318
+				text = "S1"
+			intervals [417]:
+				xmin = 817.318
+				xmax = 817.328
+				text = ""
+			intervals [418]:
+				xmin = 817.328
+				xmax = 818.123
+				text = "S2"
+			intervals [419]:
+				xmin = 818.123
+				xmax = 818.627
+				text = ""
+			intervals [420]:
+				xmin = 818.627
+				xmax = 819.393
+				text = "P"
+			intervals [421]:
+				xmin = 819.393
+				xmax = 819.792
+				text = ""
+			intervals [422]:
+				xmin = 819.792
+				xmax = 822.157
+				text = "S2"
+			intervals [423]:
+				xmin = 822.157
+				xmax = 822.603
+				text = ""
+			intervals [424]:
+				xmin = 822.603
+				xmax = 828.654
+				text = "S2"
+			intervals [425]:
+				xmin = 828.654
+				xmax = 828.692
+				text = ""
+			intervals [426]:
+				xmin = 828.692
+				xmax = 830.254
+				text = "S1"
+			intervals [427]:
+				xmin = 830.254
+				xmax = 830.856
+				text = ""
+			intervals [428]:
+				xmin = 830.856
+				xmax = 834.957
+				text = "S2"
+			intervals [429]:
+				xmin = 834.957
+				xmax = 835.209
+				text = ""
+			intervals [430]:
+				xmin = 835.209
+				xmax = 842.249
+				text = "S2"
+			intervals [431]:
+				xmin = 842.249
+				xmax = 842.481
+				text = ""
+			intervals [432]:
+				xmin = 842.481
+				xmax = 844.421
+				text = "S2"
+			intervals [433]:
+				xmin = 844.421
+				xmax = 844.432
+				text = ""
+			intervals [434]:
+				xmin = 844.432
+				xmax = 845.662
+				text = "B"
+			intervals [435]:
+				xmin = 845.662
+				xmax = 845.866
+				text = ""
+			intervals [436]:
+				xmin = 845.866
+				xmax = 847.795
+				text = "S2"
+			intervals [437]:
+				xmin = 847.795
+				xmax = 848.978
+				text = ""
+			intervals [438]:
+				xmin = 848.978
+				xmax = 852.654
+				text = "S1"
+			intervals [439]:
+				xmin = 852.654
+				xmax = 853.76
+				text = ""
+			intervals [440]:
+				xmin = 853.76
+				xmax = 855.243
+				text = "S2"
+			intervals [441]:
+				xmin = 855.243
+				xmax = 855.632
+				text = ""
+			intervals [442]:
+				xmin = 855.632
+				xmax = 859.403
+				text = "S1"
+			intervals [443]:
+				xmin = 859.403
+				xmax = 859.597
+				text = ""
+			intervals [444]:
+				xmin = 859.597
+				xmax = 864.532
+				text = "S1"
+			intervals [445]:
+				xmin = 864.532
+				xmax = 864.96
+				text = ""
+			intervals [446]:
+				xmin = 864.96
+				xmax = 871.718
+				text = "S1"
+			intervals [447]:
+				xmin = 871.718
+				xmax = 871.816
+				text = ""
+			intervals [448]:
+				xmin = 871.816
+				xmax = 875.752
+				text = "S1"
+			intervals [449]:
+				xmin = 875.752
+				xmax = 875.888
+				text = ""
+			intervals [450]:
+				xmin = 875.888
+				xmax = 876.809
+				text = "S2"
+			intervals [451]:
+				xmin = 876.809
+				xmax = 876.828
+				text = ""
+			intervals [452]:
+				xmin = 876.828
+				xmax = 877.846
+				text = "P"
+			intervals [453]:
+				xmin = 877.846
+				xmax = 879.214
+				text = "S2"
+			intervals [454]:
+				xmin = 879.214
+				xmax = 879.233
+				text = ""
+			intervals [455]:
+				xmin = 879.233
+				xmax = 886.089
+				text = "S1"
+			intervals [456]:
+				xmin = 886.089
+				xmax = 886.186
+				text = ""
+			intervals [457]:
+				xmin = 886.186
+				xmax = 890.132
+				text = "S1"
+			intervals [458]:
+				xmin = 890.132
+				xmax = 890.376
+				text = ""
+			intervals [459]:
+				xmin = 890.376
+				xmax = 893.488
+				text = "S1"
+			intervals [460]:
+				xmin = 893.488
+				xmax = 893.837
+				text = ""
+			intervals [461]:
+				xmin = 893.837
+				xmax = 897.096
+				text = "S1"
+			intervals [462]:
+				xmin = 897.096
+				xmax = 898.336
+				text = ""
+			intervals [463]:
+				xmin = 898.336
+				xmax = 904.067
+				text = "S1"
+			intervals [464]:
+				xmin = 904.067
+				xmax = 905.552
+				text = ""
+			intervals [465]:
+				xmin = 905.552
+				xmax = 906.772
+				text = "S2"
+			intervals [466]:
+				xmin = 906.772
+				xmax = 907.152
+				text = ""
+			intervals [467]:
+				xmin = 907.152
+				xmax = 914.598
+				text = "S2"
+			intervals [468]:
+				xmin = 914.598
+				xmax = 914.918
+				text = ""
+			intervals [469]:
+				xmin = 914.918
+				xmax = 920.3
+				text = "S2"
+			intervals [470]:
+				xmin = 920.3
+				xmax = 920.329
+				text = ""
+			intervals [471]:
+				xmin = 920.329
+				xmax = 923.306
+				text = "S2"
+			intervals [472]:
+				xmin = 923.306
+				xmax = 923.597
+				text = ""
+			intervals [473]:
+				xmin = 923.597
+				xmax = 929.153
+				text = "S1"
+			intervals [474]:
+				xmin = 929.153
+				xmax = 929.172
+				text = ""
+			intervals [475]:
+				xmin = 929.172
+				xmax = 930.414
+				text = "S2"
+			intervals [476]:
+				xmin = 930.414
+				xmax = 930.424
+				text = ""
+			intervals [477]:
+				xmin = 930.424
+				xmax = 931.472
+				text = "S1"
+			intervals [478]:
+				xmin = 931.472
+				xmax = 931.48
+				text = ""
+			intervals [479]:
+				xmin = 931.48
+				xmax = 934.738
+				text = "S2"
+			intervals [480]:
+				xmin = 934.738
+				xmax = 935.049
+				text = ""
+			intervals [481]:
+				xmin = 935.049
+				xmax = 939.626
+				text = "S1"
+			intervals [482]:
+				xmin = 939.626
+				xmax = 940.033
+				text = ""
+			intervals [483]:
+				xmin = 940.033
+				xmax = 940.974
+				text = "S1"
+			intervals [484]:
+				xmin = 940.974
+				xmax = 942.001
+				text = ""
+			intervals [485]:
+				xmin = 942.001
+				xmax = 947.054
+				text = "S2"
+			intervals [486]:
+				xmin = 947.054
+				xmax = 947.296
+				text = ""
+			intervals [487]:
+				xmin = 947.296
+				xmax = 948.518
+				text = "S2"
+			intervals [488]:
+				xmin = 948.518
+				xmax = 949.235
+				text = ""
+			intervals [489]:
+				xmin = 949.235
+				xmax = 953.706
+				text = "S1"
+			intervals [490]:
+				xmin = 953.706
+				xmax = 953.89
+				text = ""
+			intervals [491]:
+				xmin = 953.89
+				xmax = 959.883
+				text = "S1"
+			intervals [492]:
+				xmin = 959.883
+				xmax = 960.707
+				text = ""
+			intervals [493]:
+				xmin = 960.707
+				xmax = 962.404
+				text = "S2"
+			intervals [494]:
+				xmin = 962.404
+				xmax = 962.86
+				text = ""
+			intervals [495]:
+				xmin = 962.86
+				xmax = 965.614
+				text = "S2"
+			intervals [496]:
+				xmin = 965.614
+				xmax = 965.712
+				text = ""
+			intervals [497]:
+				xmin = 965.712
+				xmax = 967.496
+				text = "B"
+			intervals [498]:
+				xmin = 967.496
+				xmax = 967.504
+				text = ""
+			intervals [499]:
+				xmin = 967.504
+				xmax = 968.338
+				text = "S2"
+			intervals [500]:
+				xmin = 968.338
+				xmax = 969.037
+				text = ""
+			intervals [501]:
+				xmin = 969.037
+				xmax = 975.088
+				text = "S1"
+			intervals [502]:
+				xmin = 975.088
+				xmax = 975.524
+				text = ""
+			intervals [503]:
+				xmin = 975.524
+				xmax = 977.008
+				text = "S1"
+			intervals [504]:
+				xmin = 977.008
+				xmax = 977.552
+				text = ""
+			intervals [505]:
+				xmin = 977.552
+				xmax = 981.129
+				text = "S2"
+			intervals [506]:
+				xmin = 981.129
+				xmax = 981.158
+				text = ""
+			intervals [507]:
+				xmin = 981.158
+				xmax = 988.877
+				text = "S2"
+			intervals [508]:
+				xmin = 988.877
+				xmax = 989.197
+				text = ""
+			intervals [509]:
+				xmin = 989.197
+				xmax = 991.496
+				text = "S2"
+			intervals [510]:
+				xmin = 991.496
+				xmax = 992.048
+				text = ""
+			intervals [511]:
+				xmin = 992.048
+				xmax = 993.715
+				text = "S1"
+			intervals [512]:
+				xmin = 993.715
+				xmax = 994.772
+				text = ""
+			intervals [513]:
+				xmin = 994.772
+				xmax = 997.712
+				text = "S1"
+			intervals [514]:
+				xmin = 997.712
+				xmax = 998.147
+				text = ""
+			intervals [515]:
+				xmin = 998.147
+				xmax = 999.66
+				text = "S2"
+			intervals [516]:
+				xmin = 999.66
+				xmax = 999.854
+				text = ""
+			intervals [517]:
+				xmin = 999.854
+				xmax = 1006.574
+				text = "S1"
+			intervals [518]:
+				xmin = 1006.574
+				xmax = 1006.864
+				text = ""
+			intervals [519]:
+				xmin = 1006.864
+				xmax = 1008.64
+				text = "S1"
+			intervals [520]:
+				xmin = 1008.64
+				xmax = 1009.153
+				text = ""
+			intervals [521]:
+				xmin = 1009.153
+				xmax = 1015.68
+				text = "S1"
+			intervals [522]:
+				xmin = 1015.68
+				xmax = 1015.747
+				text = ""
+			intervals [523]:
+				xmin = 1015.747
+				xmax = 1019.694
+				text = "S1"
+			intervals [524]:
+				xmin = 1019.694
+				xmax = 1020.101
+				text = ""
+			intervals [525]:
+				xmin = 1020.101
+				xmax = 1025.414
+				text = "S2"
+			intervals [526]:
+				xmin = 1025.414
+				xmax = 1025.774
+				text = ""
+			intervals [527]:
+				xmin = 1025.774
+				xmax = 1028.876
+				text = "S2"
+			intervals [528]:
+				xmin = 1028.876
+				xmax = 1029.44
+				text = ""
+			intervals [529]:
+				xmin = 1029.44
+				xmax = 1033.872
+				text = "S1"
+			intervals [530]:
+				xmin = 1033.872
+				xmax = 1033.929
+				text = ""
+			intervals [531]:
+				xmin = 1033.929
+				xmax = 1039.078
+				text = "S1"
+			intervals [532]:
+				xmin = 1039.078
+				xmax = 1039.242
+				text = ""
+			intervals [533]:
+				xmin = 1039.242
+				xmax = 1042.501
+				text = "S1"
+			intervals [534]:
+				xmin = 1042.501
+				xmax = 1042.762
+				text = ""
+			intervals [535]:
+				xmin = 1042.762
+				xmax = 1044.392
+				text = "S1"
+			intervals [536]:
+				xmin = 1044.392
+				xmax = 1044.992
+				text = ""
+			intervals [537]:
+				xmin = 1044.992
+				xmax = 1051.538
+				text = "S2"
+			intervals [538]:
+				xmin = 1051.538
+				xmax = 1051.597
+				text = ""
+			intervals [539]:
+				xmin = 1051.597
+				xmax = 1055.621
+				text = "S2"
+			intervals [540]:
+				xmin = 1055.621
+				xmax = 1055.776
+				text = ""
+			intervals [541]:
+				xmin = 1055.776
+				xmax = 1061.168
+				text = "S2"
+			intervals [542]:
+				xmin = 1061.168
+				xmax = 1061.226
+				text = ""
+			intervals [543]:
+				xmin = 1061.226
+				xmax = 1065.648
+				text = "S2"
+			intervals [544]:
+				xmin = 1065.648
+				xmax = 1065.706
+				text = ""
+			intervals [545]:
+				xmin = 1065.706
+				xmax = 1069.837
+				text = "S2"
+			intervals [546]:
+				xmin = 1069.837
+				xmax = 1070.021
+				text = ""
+			intervals [547]:
+				xmin = 1070.021
+				xmax = 1077.352
+				text = "S1"
+			intervals [548]:
+				xmin = 1077.352
+				xmax = 1077.827
+				text = ""
+			intervals [549]:
+				xmin = 1077.827
+				xmax = 1081.89
+				text = "S1"
+			intervals [550]:
+				xmin = 1081.89
+				xmax = 1082.192
+				text = ""
+			intervals [551]:
+				xmin = 1082.192
+				xmax = 1089.28
+				text = "S2"
+			intervals [552]:
+				xmin = 1089.28
+				xmax = 1089.609
+				text = ""
+			intervals [553]:
+				xmin = 1089.609
+				xmax = 1090.258
+				text = "S1"
+			intervals [554]:
+				xmin = 1090.258
+				xmax = 1090.512
+				text = ""
+			intervals [555]:
+				xmin = 1090.512
+				xmax = 1093.672
+				text = "S1"
+			intervals [556]:
+				xmin = 1093.672
+				xmax = 1094.089
+				text = ""
+			intervals [557]:
+				xmin = 1094.089
+				xmax = 1098.181
+				text = "S1"
+			intervals [558]:
+				xmin = 1098.181
+				xmax = 1098.666
+				text = ""
+			intervals [559]:
+				xmin = 1098.666
+				xmax = 1101.712
+				text = "S2"
+			intervals [560]:
+				xmin = 1101.712
+				xmax = 1101.856
+				text = ""
+			intervals [561]:
+				xmin = 1101.856
+				xmax = 1108.595
+				text = "S1"
+			intervals [562]:
+				xmin = 1108.595
+				xmax = 1109.769
+				text = ""
+			intervals [563]:
+				xmin = 1109.769
+				xmax = 1112.077
+				text = "S2"
+			intervals [564]:
+				xmin = 1112.077
+				xmax = 1112.329
+				text = ""
+			intervals [565]:
+				xmin = 1112.329
+				xmax = 1118.952
+				text = "S2"
+			intervals [566]:
+				xmin = 1118.952
+				xmax = 1119.078
+				text = ""
+			intervals [567]:
+				xmin = 1119.078
+				xmax = 1120.96
+				text = "S2"
+			intervals [568]:
+				xmin = 1120.96
+				xmax = 1121.386
+				text = ""
+			intervals [569]:
+				xmin = 1121.386
+				xmax = 1122.696
+				text = "S2"
+			intervals [570]:
+				xmin = 1122.696
+				xmax = 1123.277
+				text = ""
+			intervals [571]:
+				xmin = 1123.277
+				xmax = 1130.123
+				text = "S1"
+			intervals [572]:
+				xmin = 1130.123
+				xmax = 1130.414
+				text = ""
+			intervals [573]:
+				xmin = 1130.414
+				xmax = 1133.158
+				text = "S1"
+			intervals [574]:
+				xmin = 1133.158
+				xmax = 1134.409
+				text = ""
+			intervals [575]:
+				xmin = 1134.409
+				xmax = 1135.078
+				text = "S2"
+			intervals [576]:
+				xmin = 1135.078
+				xmax = 1135.632
+				text = ""
+			intervals [577]:
+				xmin = 1135.632
+				xmax = 1138.53
+				text = "S2"
+			intervals [578]:
+				xmin = 1138.53
+				xmax = 1138.898
+				text = ""
+			intervals [579]:
+				xmin = 1138.898
+				xmax = 1141.972
+				text = "S2"
+			intervals [580]:
+				xmin = 1141.972
+				xmax = 1142.321
+				text = ""
+			intervals [581]:
+				xmin = 1142.321
+				xmax = 1148.014
+				text = "S2"
+			intervals [582]:
+				xmin = 1148.014
+				xmax = 1148.198
+				text = ""
+			intervals [583]:
+				xmin = 1148.198
+				xmax = 1148.936
+				text = "S2"
+			intervals [584]:
+				xmin = 1148.936
+				xmax = 1149.488
+				text = ""
+			intervals [585]:
+				xmin = 1149.488
+				xmax = 1150.856
+				text = "S2"
+			intervals [586]:
+				xmin = 1150.856
+				xmax = 1151.747
+				text = ""
+			intervals [587]:
+				xmin = 1151.747
+				xmax = 1154.094
+				text = "S2"
+			intervals [588]:
+				xmin = 1154.094
+				xmax = 1155.664
+				text = ""
+			intervals [589]:
+				xmin = 1155.664
+				xmax = 1159.795
+				text = "S1"
+			intervals [590]:
+				xmin = 1159.795
+				xmax = 1160.048
+				text = ""
+			intervals [591]:
+				xmin = 1160.048
+				xmax = 1166.856
+				text = "S1"
+			intervals [592]:
+				xmin = 1166.856
+				xmax = 1166.923
+				text = ""
+			intervals [593]:
+				xmin = 1166.923
+				xmax = 1169.376
+				text = "S1"
+			intervals [594]:
+				xmin = 1169.376
+				xmax = 1169.736
+				text = ""
+			intervals [595]:
+				xmin = 1169.736
+				xmax = 1171.684
+				text = "S2"
+			intervals [596]:
+				xmin = 1171.684
+				xmax = 1172.014
+				text = ""
+			intervals [597]:
+				xmin = 1172.014
+				xmax = 1173.808
+				text = "S2"
+			intervals [598]:
+				xmin = 1173.808
+				xmax = 1174.089
+				text = ""
+			intervals [599]:
+				xmin = 1174.089
+				xmax = 1175.398
+				text = "S1"
+			intervals [600]:
+				xmin = 1175.398
+				xmax = 1175.795
+				text = ""
+			intervals [601]:
+				xmin = 1175.795
+				xmax = 1179.955
+				text = "S1"
+			intervals [602]:
+				xmin = 1179.955
+				xmax = 1180.081
+				text = ""
+			intervals [603]:
+				xmin = 1180.081
+				xmax = 1185.92
+				text = "S1"
+			intervals [604]:
+				xmin = 1185.92
+				xmax = 1188.014
+				text = ""
+			intervals [605]:
+				xmin = 1188.014
+				xmax = 1191.816
+				text = "S2"
+			intervals [606]:
+				xmin = 1191.816
+				xmax = 1191.883
+				text = ""
+			intervals [607]:
+				xmin = 1191.883
+				xmax = 1196.432
+				text = "S2"
+			intervals [608]:
+				xmin = 1196.432
+				xmax = 1196.915
+				text = ""
+			intervals [609]:
+				xmin = 1196.915
+				xmax = 1198.672
+				text = "S2"
+			intervals [610]:
+				xmin = 1198.672
+				xmax = 1198.69
+				text = ""
+			intervals [611]:
+				xmin = 1198.69
+				xmax = 1201.6
+				text = "S1"
+			intervals [612]:
+				xmin = 1201.6
+				xmax = 1202.249
+				text = ""
+			intervals [613]:
+				xmin = 1202.249
+				xmax = 1207.456
+				text = "S2"
+			intervals [614]:
+				xmin = 1207.456
+				xmax = 1207.66
+				text = ""
+			intervals [615]:
+				xmin = 1207.66
+				xmax = 1210.501
+				text = "S2"
+			intervals [616]:
+				xmin = 1210.501
+				xmax = 1211.344
+				text = ""
+			intervals [617]:
+				xmin = 1211.344
+				xmax = 1212.112
+				text = "S1"
+			intervals [618]:
+				xmin = 1212.112
+				xmax = 1213.576
+				text = ""
+			intervals [619]:
+				xmin = 1213.576
+				xmax = 1220.421
+				text = "S1"
+			intervals [620]:
+				xmin = 1220.421
+				xmax = 1220.741
+				text = ""
+			intervals [621]:
+				xmin = 1220.741
+				xmax = 1221.323
+				text = "S2"
+			intervals [622]:
+				xmin = 1221.323
+				xmax = 1221.856
+				text = ""
+			intervals [623]:
+				xmin = 1221.856
+				xmax = 1224.755
+				text = "S2"
+			intervals [624]:
+				xmin = 1224.755
+				xmax = 1225.153
+				text = ""
+			intervals [625]:
+				xmin = 1225.153
+				xmax = 1226.123
+				text = "S2"
+			intervals [626]:
+				xmin = 1226.123
+				xmax = 1227.432
+				text = ""
+			intervals [627]:
+				xmin = 1227.432
+				xmax = 1232.62
+				text = "S2"
+			intervals [628]:
+				xmin = 1232.62
+				xmax = 1233.096
+				text = ""
+			intervals [629]:
+				xmin = 1233.096
+				xmax = 1238.981
+				text = "S2"
+			intervals [630]:
+				xmin = 1238.981
+				xmax = 1239.601
+				text = ""
+			intervals [631]:
+				xmin = 1239.601
+				xmax = 1246.913
+				text = "S1"
+			intervals [632]:
+				xmin = 1246.913
+				xmax = 1246.923
+				text = ""
+			intervals [633]:
+				xmin = 1246.923
+				xmax = 1249.736
+				text = "S2"
+			intervals [634]:
+				xmin = 1249.736
+				xmax = 1250.056
+				text = ""
+			intervals [635]:
+				xmin = 1250.056
+				xmax = 1252.432
+				text = "S2"
+			intervals [636]:
+				xmin = 1252.432
+				xmax = 1252.576
+				text = ""
+			intervals [637]:
+				xmin = 1252.576
+				xmax = 1255.466
+				text = "S1"
+			intervals [638]:
+				xmin = 1255.466
+				xmax = 1255.854
+				text = ""
+			intervals [639]:
+				xmin = 1255.854
+				xmax = 1259.306
+				text = "S2"
+			intervals [640]:
+				xmin = 1259.306
+				xmax = 1259.713
+				text = ""
+			intervals [641]:
+				xmin = 1259.713
+				xmax = 1263.408
+				text = "S2"
+			intervals [642]:
+				xmin = 1263.408
+				xmax = 1263.816
+				text = ""
+			intervals [643]:
+				xmin = 1263.816
+				xmax = 1266.753
+				text = "S2"
+			intervals [644]:
+				xmin = 1266.753
+				xmax = 1267.083
+				text = ""
+			intervals [645]:
+				xmin = 1267.083
+				xmax = 1268.072
+				text = "S2"
+			intervals [646]:
+				xmin = 1268.072
+				xmax = 1268.616
+				text = ""
+			intervals [647]:
+				xmin = 1268.616
+				xmax = 1269.576
+				text = "S2"
+			intervals [648]:
+				xmin = 1269.576
+				xmax = 1269.856
+				text = ""
+			intervals [649]:
+				xmin = 1269.856
+				xmax = 1272.688
+				text = "S1"
+			intervals [650]:
+				xmin = 1272.688
+				xmax = 1272.969
+				text = ""
+			intervals [651]:
+				xmin = 1272.969
+				xmax = 1275.18
+				text = "S1"
+			intervals [652]:
+				xmin = 1275.18
+				xmax = 1275.189
+				text = ""
+			intervals [653]:
+				xmin = 1275.189
+				xmax = 1276.46
+				text = "S2"
+			intervals [654]:
+				xmin = 1276.46
+				xmax = 1276.469
+				text = ""
+			intervals [655]:
+				xmin = 1276.469
+				xmax = 1277.1
+				text = "S1"
+			intervals [656]:
+				xmin = 1277.1
+				xmax = 1277.352
+				text = ""
+			intervals [657]:
+				xmin = 1277.352
+				xmax = 1281.492
+				text = "S1"
+			intervals [658]:
+				xmin = 1281.492
+				xmax = 1281.512
+				text = ""
+			intervals [659]:
+				xmin = 1281.512
+				xmax = 1281.861
+				text = "P"
+			intervals [660]:
+				xmin = 1281.861
+				xmax = 1282.181
+				text = "B"
+			intervals [661]:
+				xmin = 1282.181
+				xmax = 1282.24
+				text = ""
+			intervals [662]:
+				xmin = 1282.24
+				xmax = 1282.918
+				text = "P"
+			intervals [663]:
+				xmin = 1282.918
+				xmax = 1283.209
+				text = ""
+			intervals [664]:
+				xmin = 1283.209
+				xmax = 1286.031
+				text = "S1"
+			intervals [665]:
+				xmin = 1286.031
+				xmax = 1286.72
+				text = ""
+			intervals [666]:
+				xmin = 1286.72
+				xmax = 1288.62
+				text = "S2"
+			intervals [667]:
+				xmin = 1288.62
+				xmax = 1289.754
+				text = "S1"
+			intervals [668]:
+				xmin = 1289.754
+				xmax = 1290.132
+				text = "S2"
+			intervals [669]:
+				xmin = 1290.132
+				xmax = 1292.518
+				text = "S1"
+			intervals [670]:
+				xmin = 1292.518
+				xmax = 1292.77
+				text = ""
+			intervals [671]:
+				xmin = 1292.77
+				xmax = 1294.321
+				text = "S2"
+			intervals [672]:
+				xmin = 1294.321
+				xmax = 1294.36
+				text = ""
+			intervals [673]:
+				xmin = 1294.36
+				xmax = 1295.0
+				text = "S1"
+			intervals [674]:
+				xmin = 1295.0
+				xmax = 1295.204
+				text = ""
+			intervals [675]:
+				xmin = 1295.204
+				xmax = 1298.801
+				text = "S2"
+			intervals [676]:
+				xmin = 1298.801
+				xmax = 1299.374
+				text = ""
+			intervals [677]:
+				xmin = 1299.374
+				xmax = 1300.266
+				text = "S1"
+			intervals [678]:
+				xmin = 1300.266
+				xmax = 1300.576
+				text = ""
+			intervals [679]:
+				xmin = 1300.576
+				xmax = 1307.016
+				text = "S1"
+			intervals [680]:
+				xmin = 1307.016
+				xmax = 1307.083
+				text = ""
+			intervals [681]:
+				xmin = 1307.083
+				xmax = 1312.755
+				text = "S1"
+			intervals [682]:
+				xmin = 1312.755
+				xmax = 1312.872
+				text = ""
+			intervals [683]:
+				xmin = 1312.872
+				xmax = 1315.626
+				text = "S1"
+			intervals [684]:
+				xmin = 1315.626
+				xmax = 1316.489
+				text = ""
+			intervals [685]:
+				xmin = 1316.489
+				xmax = 1321.803
+				text = "S2"
+			intervals [686]:
+				xmin = 1321.803
+				xmax = 1321.832
+				text = ""
+			intervals [687]:
+				xmin = 1321.832
+				xmax = 1322.947
+				text = "S1"
+			intervals [688]:
+				xmin = 1322.947
+				xmax = 1323.152
+				text = ""
+			intervals [689]:
+				xmin = 1323.152
+				xmax = 1329.552
+				text = "S1"
+			intervals [690]:
+				xmin = 1329.552
+				xmax = 1329.609
+				text = ""
+			intervals [691]:
+				xmin = 1329.609
+				xmax = 1331.538
+				text = "S2"
+			intervals [692]:
+				xmin = 1331.538
+				xmax = 1331.558
+				text = ""
+			intervals [693]:
+				xmin = 1331.558
+				xmax = 1335.058
+				text = "S1"
+			intervals [694]:
+				xmin = 1335.058
+				xmax = 1335.698
+				text = ""
+			intervals [695]:
+				xmin = 1335.698
+				xmax = 1338.376
+				text = "S1"
+			intervals [696]:
+				xmin = 1338.376
+				xmax = 1338.54
+				text = ""
+			intervals [697]:
+				xmin = 1338.54
+				xmax = 1339.723
+				text = "S1"
+			intervals [698]:
+				xmin = 1339.723
+				xmax = 1340.741
+				text = ""
+			intervals [699]:
+				xmin = 1340.741
+				xmax = 1343.155
+				text = "S1"
+			intervals [700]:
+				xmin = 1343.155
+				xmax = 1344.077
+				text = ""
+			intervals [701]:
+				xmin = 1344.077
+				xmax = 1344.969
+				text = "P"
+			intervals [702]:
+				xmin = 1344.969
+				xmax = 1346.384
+				text = ""
+			intervals [703]:
+				xmin = 1346.384
+				xmax = 1352.833
+				text = "S2"
+			intervals [704]:
+				xmin = 1352.833
+				xmax = 1352.881
+				text = ""
+			intervals [705]:
+				xmin = 1352.881
+				xmax = 1356.78
+				text = "S2"
+			intervals [706]:
+				xmin = 1356.78
+				xmax = 1357.032
+				text = ""
+			intervals [707]:
+				xmin = 1357.032
+				xmax = 1358.157
+				text = "S1"
+			intervals [708]:
+				xmin = 1358.157
+				xmax = 1358.409
+				text = ""
+			intervals [709]:
+				xmin = 1358.409
+				xmax = 1361.58
+				text = "S1"
+			intervals [710]:
+				xmin = 1361.58
+				xmax = 1362.317
+				text = ""
+			intervals [711]:
+				xmin = 1362.317
+				xmax = 1366.506
+				text = "S2"
+			intervals [712]:
+				xmin = 1366.506
+				xmax = 1366.816
+				text = ""
+			intervals [713]:
+				xmin = 1366.816
+				xmax = 1367.524
+				text = "S1"
+			intervals [714]:
+				xmin = 1367.524
+				xmax = 1368.106
+				text = ""
+			intervals [715]:
+				xmin = 1368.106
+				xmax = 1370.918
+				text = "S1"
+			intervals [716]:
+				xmin = 1370.918
+				xmax = 1371.694
+				text = ""
+			intervals [717]:
+				xmin = 1371.694
+				xmax = 1376.397
+				text = "S2"
+			intervals [718]:
+				xmin = 1376.397
+				xmax = 1377.416
+				text = ""
+			intervals [719]:
+				xmin = 1377.416
+				xmax = 1383.892
+				text = "S1"
+			intervals [720]:
+				xmin = 1383.892
+				xmax = 1383.908
+				text = ""
+			intervals [721]:
+				xmin = 1383.908
+				xmax = 1384.742
+				text = "P"
+			intervals [722]:
+				xmin = 1384.742
+				xmax = 1384.762
+				text = ""
+			intervals [723]:
+				xmin = 1384.762
+				xmax = 1385.888
+				text = "S1"
+			intervals [724]:
+				xmin = 1385.888
+				xmax = 1385.958
+				text = ""
+			intervals [725]:
+				xmin = 1385.958
+				xmax = 1391.272
+				text = "S2"
+			intervals [726]:
+				xmin = 1391.272
+				xmax = 1391.466
+				text = ""
+			intervals [727]:
+				xmin = 1391.466
+				xmax = 1397.003
+				text = "S2"
+			intervals [728]:
+				xmin = 1397.003
+				xmax = 1397.032
+				text = ""
+			intervals [729]:
+				xmin = 1397.032
+				xmax = 1401.851
+				text = "S1"
+			intervals [730]:
+				xmin = 1401.851
+				xmax = 1402.595
+				text = "S2"
+			intervals [731]:
+				xmin = 1402.595
+				xmax = 1402.866
+				text = "P"
+			intervals [732]:
+				xmin = 1402.866
+				xmax = 1403.805
+				text = "S1"
+			intervals [733]:
+				xmin = 1403.805
+				xmax = 1404.043
+				text = ""
+			intervals [734]:
+				xmin = 1404.043
+				xmax = 1409.628
+				text = "S2"
+			intervals [735]:
+				xmin = 1409.628
+				xmax = 1409.706
+				text = ""
+			intervals [736]:
+				xmin = 1409.706
+				xmax = 1414.089
+				text = "S2"
+			intervals [737]:
+				xmin = 1414.089
+				xmax = 1414.118
+				text = ""
+			intervals [738]:
+				xmin = 1414.118
+				xmax = 1414.923
+				text = "S1"
+			intervals [739]:
+				xmin = 1414.923
+				xmax = 1415.204
+				text = ""
+			intervals [740]:
+				xmin = 1415.204
+				xmax = 1419.054
+				text = "S1"
+			intervals [741]:
+				xmin = 1419.054
+				xmax = 1419.946
+				text = ""
+			intervals [742]:
+				xmin = 1419.946
+				xmax = 1422.603
+				text = "S1"
+			intervals [743]:
+				xmin = 1422.603
+				xmax = 1423.349
+				text = ""
+			intervals [744]:
+				xmin = 1423.349
+				xmax = 1427.587
+				text = "S2"
+			intervals [745]:
+				xmin = 1427.587
+				xmax = 1427.84
+				text = ""
+			intervals [746]:
+				xmin = 1427.84
+				xmax = 1429.478
+				text = "S2"
+			intervals [747]:
+				xmin = 1429.478
+				xmax = 1429.76
+				text = ""
+			intervals [748]:
+				xmin = 1429.76
+				xmax = 1431.504
+				text = "S1"
+			intervals [749]:
+				xmin = 1431.504
+				xmax = 1431.757
+				text = ""
+			intervals [750]:
+				xmin = 1431.757
+				xmax = 1434.094
+				text = "S1"
+			intervals [751]:
+				xmin = 1434.094
+				xmax = 1434.779
+				text = ""
+			intervals [752]:
+				xmin = 1434.779
+				xmax = 1435.409
+				text = "S2"
+			intervals [753]:
+				xmin = 1435.409
+				xmax = 1435.432
+				text = ""
+			intervals [754]:
+				xmin = 1435.432
+				xmax = 1439.66
+				text = "S1"
+			intervals [755]:
+				xmin = 1439.66
+				xmax = 1439.718
+				text = ""
+			intervals [756]:
+				xmin = 1439.718
+				xmax = 1441.366
+				text = "S2"
+			intervals [757]:
+				xmin = 1441.366
+				xmax = 1441.392
+				text = ""
+			intervals [758]:
+				xmin = 1441.392
+				xmax = 1441.867
+				text = "S1"
+			intervals [759]:
+				xmin = 1441.867
+				xmax = 1441.929
+				text = ""
+			intervals [760]:
+				xmin = 1441.929
+				xmax = 1449.416
+				text = "S2"
+			intervals [761]:
+				xmin = 1449.416
+				xmax = 1450.724
+				text = ""
+			intervals [762]:
+				xmin = 1450.724
+				xmax = 1454.564
+				text = "S1"
+			intervals [763]:
+				xmin = 1454.564
+				xmax = 1455.398
+				text = ""
+			intervals [764]:
+				xmin = 1455.398
+				xmax = 1459.82
+				text = "S1"
+			intervals [765]:
+				xmin = 1459.82
+				xmax = 1459.907
+				text = ""
+			intervals [766]:
+				xmin = 1459.907
+				xmax = 1464.629
+				text = "S1"
+			intervals [767]:
+				xmin = 1464.629
+				xmax = 1465.803
+				text = ""
+			intervals [768]:
+				xmin = 1465.803
+				xmax = 1467.267
+				text = "S2"
+			intervals [769]:
+				xmin = 1467.267
+				xmax = 1467.694
+				text = ""
+			intervals [770]:
+				xmin = 1467.694
+				xmax = 1473.347
+				text = "S2"
+			intervals [771]:
+				xmin = 1473.347
+				xmax = 1473.667
+				text = ""
+			intervals [772]:
+				xmin = 1473.667
+				xmax = 1478.37
+				text = "S2"
+			intervals [773]:
+				xmin = 1478.37
+				xmax = 1478.536
+				text = ""
+			intervals [774]:
+				xmin = 1478.536
+				xmax = 1483.858
+				text = "S1"
+			intervals [775]:
+				xmin = 1483.858
+				xmax = 1485.332
+				text = ""
+			intervals [776]:
+				xmin = 1485.332
+				xmax = 1486.224
+				text = "S2"
+			intervals [777]:
+				xmin = 1486.224
+				xmax = 1486.758
+				text = ""
+			intervals [778]:
+				xmin = 1486.758
+				xmax = 1492.112
+				text = "S1"
+			intervals [779]:
+				xmin = 1492.112
+				xmax = 1492.363
+				text = ""
+			intervals [780]:
+				xmin = 1492.363
+				xmax = 1493.323
+				text = "S2"
+			intervals [781]:
+				xmin = 1493.323
+				xmax = 1493.426
+				text = ""
+			intervals [782]:
+				xmin = 1493.426
+				xmax = 1494.134
+				text = "P"
+			intervals [783]:
+				xmin = 1494.134
+				xmax = 1494.176
+				text = ""
+			intervals [784]:
+				xmin = 1494.176
+				xmax = 1496.445
+				text = "S1"
+			intervals [785]:
+				xmin = 1496.445
+				xmax = 1496.852
+				text = ""
+			intervals [786]:
+				xmin = 1496.852
+				xmax = 1504.843
+				text = "S1"
+			intervals [787]:
+				xmin = 1504.843
+				xmax = 1505.232
+				text = ""
+			intervals [788]:
+				xmin = 1505.232
+				xmax = 1510.68
+				text = "S1"
+			intervals [789]:
+				xmin = 1510.68
+				xmax = 1511.252
+				text = ""
+			intervals [790]:
+				xmin = 1511.252
+				xmax = 1513.386
+				text = "S2"
+			intervals [791]:
+				xmin = 1513.386
+				xmax = 1513.448
+				text = ""
+			intervals [792]:
+				xmin = 1513.448
+				xmax = 1513.92
+				text = "P"
+			intervals [793]:
+				xmin = 1513.92
+				xmax = 1514.696
+				text = "B"
+			intervals [794]:
+				xmin = 1514.696
+				xmax = 1514.763
+				text = ""
+			intervals [795]:
+				xmin = 1514.763
+				xmax = 1517.284
+				text = "S1"
+			intervals [796]:
+				xmin = 1517.284
+				xmax = 1518.574
+				text = ""
+			intervals [797]:
+				xmin = 1518.574
+				xmax = 1519.408
+				text = "S2"
+			intervals [798]:
+				xmin = 1519.408
+				xmax = 1519.414
+				text = ""
+			intervals [799]:
+				xmin = 1519.414
+				xmax = 1520.122
+				text = "B"
+			intervals [800]:
+				xmin = 1520.122
+				xmax = 1520.261
+				text = ""
+			intervals [801]:
+				xmin = 1520.261
+				xmax = 1524.411
+				text = "S2"
+			intervals [802]:
+				xmin = 1524.411
+				xmax = 1524.702
+				text = ""
+			intervals [803]:
+				xmin = 1524.702
+				xmax = 1530.986
+				text = "S1"
+			intervals [804]:
+				xmin = 1530.986
+				xmax = 1531.81
+				text = ""
+			intervals [805]:
+				xmin = 1531.81
+				xmax = 1532.518
+				text = "S1"
+			intervals [806]:
+				xmin = 1532.518
+				xmax = 1532.949
+				text = ""
+			intervals [807]:
+				xmin = 1532.949
+				xmax = 1535.064
+				text = "S2"
+			intervals [808]:
+				xmin = 1535.064
+				xmax = 1535.078
+				text = ""
+			intervals [809]:
+				xmin = 1535.078
+				xmax = 1541.576
+				text = "S2"
+			intervals [810]:
+				xmin = 1541.576
+				xmax = 1541.798
+				text = ""
+			intervals [811]:
+				xmin = 1541.798
+				xmax = 1547.374
+				text = "S1"
+			intervals [812]:
+				xmin = 1547.374
+				xmax = 1547.84
+				text = ""
+			intervals [813]:
+				xmin = 1547.84
+				xmax = 1552.077
+				text = "S2"
+			intervals [814]:
+				xmin = 1552.077
+				xmax = 1552.174
+				text = ""
+			intervals [815]:
+				xmin = 1552.174
+				xmax = 1555.761
+				text = "S2"
+			intervals [816]:
+				xmin = 1555.761
+				xmax = 1555.781
+				text = ""
+			intervals [817]:
+				xmin = 1555.781
+				xmax = 1560.358
+				text = "S1"
+			intervals [818]:
+				xmin = 1560.358
+				xmax = 1561.57
+				text = ""
+			intervals [819]:
+				xmin = 1561.57
+				xmax = 1565.798
+				text = "S2"
+			intervals [820]:
+				xmin = 1565.798
+				xmax = 1566.992
+				text = ""
+			intervals [821]:
+				xmin = 1566.992
+				xmax = 1573.769
+				text = "S1"
+			intervals [822]:
+				xmin = 1573.769
+				xmax = 1574.564
+				text = ""
+			intervals [823]:
+				xmin = 1574.564
+				xmax = 1581.953
+				text = "S2"
+			intervals [824]:
+				xmin = 1581.953
+				xmax = 1582.001
+				text = ""
+			intervals [825]:
+				xmin = 1582.001
+				xmax = 1585.26
+				text = "S1"
+			intervals [826]:
+				xmin = 1585.26
+				xmax = 1586.656
+				text = ""
+			intervals [827]:
+				xmin = 1586.656
+				xmax = 1588.974
+				text = "S2"
+			intervals [828]:
+				xmin = 1588.974
+				xmax = 1589.555
+				text = ""
+			intervals [829]:
+				xmin = 1589.555
+				xmax = 1596.984
+				text = "S1"
+			intervals [830]:
+				xmin = 1596.984
+				xmax = 1597.896
+				text = ""
+			intervals [831]:
+				xmin = 1597.896
+				xmax = 1601.28
+				text = "S1"
+			intervals [832]:
+				xmin = 1601.28
+				xmax = 1602.486
+				text = "S2"
+			intervals [833]:
+				xmin = 1602.486
+				xmax = 1603.048
+				text = "S1"
+			intervals [834]:
+				xmin = 1603.048
+				xmax = 1603.112
+				text = ""
+			intervals [835]:
+				xmin = 1603.112
+				xmax = 1603.946
+				text = "P"
+			intervals [836]:
+				xmin = 1603.946
+				xmax = 1604.401
+				text = ""
+			intervals [837]:
+				xmin = 1604.401
+				xmax = 1606.224
+				text = "S2"
+			intervals [838]:
+				xmin = 1606.224
+				xmax = 1606.835
+				text = ""
+			intervals [839]:
+				xmin = 1606.835
+				xmax = 1609.618
+				text = "S2"
+			intervals [840]:
+				xmin = 1609.618
+				xmax = 1609.803
+				text = ""
+			intervals [841]:
+				xmin = 1609.803
+				xmax = 1612.838
+				text = "S1"
+			intervals [842]:
+				xmin = 1612.838
+				xmax = 1613.41
+				text = ""
+			intervals [843]:
+				xmin = 1613.41
+				xmax = 1617.454
+				text = "S1"
+			intervals [844]:
+				xmin = 1617.454
+				xmax = 1617.764
+				text = ""
+			intervals [845]:
+				xmin = 1617.764
+				xmax = 1618.627
+				text = "S1"
+			intervals [846]:
+				xmin = 1618.627
+				xmax = 1619.209
+				text = ""
+			intervals [847]:
+				xmin = 1619.209
+				xmax = 1626.229
+				text = "S2"
+			intervals [848]:
+				xmin = 1626.229
+				xmax = 1626.404
+				text = ""
+			intervals [849]:
+				xmin = 1626.404
+				xmax = 1627.917
+				text = "S2"
+			intervals [850]:
+				xmin = 1627.917
+				xmax = 1627.936
+				text = ""
+			intervals [851]:
+				xmin = 1627.936
+				xmax = 1628.644
+				text = "S1"
+			intervals [852]:
+				xmin = 1628.644
+				xmax = 1630.244
+				text = ""
+			intervals [853]:
+				xmin = 1630.244
+				xmax = 1634.035
+				text = "S2"
+			intervals [854]:
+				xmin = 1634.035
+				xmax = 1634.734
+				text = ""
+			intervals [855]:
+				xmin = 1634.734
+				xmax = 1642.21
+				text = "S1"
+			intervals [856]:
+				xmin = 1642.21
+				xmax = 1642.384
+				text = ""
+			intervals [857]:
+				xmin = 1642.384
+				xmax = 1645.41
+				text = "S1"
+			intervals [858]:
+				xmin = 1645.41
+				xmax = 1645.896
+				text = ""
+			intervals [859]:
+				xmin = 1645.896
+				xmax = 1647.854
+				text = "S2"
+			intervals [860]:
+				xmin = 1647.854
+				xmax = 1647.868
+				text = ""
+			intervals [861]:
+				xmin = 1647.868
+				xmax = 1648.344
+				text = "P"
+			intervals [862]:
+				xmin = 1648.344
+				xmax = 1652.154
+				text = "S1"
+			intervals [863]:
+				xmin = 1652.154
+				xmax = 1652.896
+				text = ""
+			intervals [864]:
+				xmin = 1652.896
+				xmax = 1658.889
+				text = "S2"
+			intervals [865]:
+				xmin = 1658.889
+				xmax = 1658.957
+				text = ""
+			intervals [866]:
+				xmin = 1658.957
+				xmax = 1662.032
+				text = "S2"
+			intervals [867]:
+				xmin = 1662.032
+				xmax = 1662.054
+				text = ""
+			intervals [868]:
+				xmin = 1662.054
+				xmax = 1662.539
+				text = "P"
+			intervals [869]:
+				xmin = 1662.539
+				xmax = 1663.257
+				text = "S2"
+			intervals [870]:
+				xmin = 1663.257
+				xmax = 1663.291
+				text = ""
+			intervals [871]:
+				xmin = 1663.291
+				xmax = 1670.021
+				text = "S1"
+			intervals [872]:
+				xmin = 1670.021
+				xmax = 1670.744
+				text = "S2"
+			intervals [873]:
+				xmin = 1670.744
+				xmax = 1670.762
+				text = ""
+			intervals [874]:
+				xmin = 1670.762
+				xmax = 1671.46
+				text = "S1"
+			intervals [875]:
+				xmin = 1671.46
+				xmax = 1672.129
+				text = "P"
+			intervals [876]:
+				xmin = 1672.129
+				xmax = 1672.203
+				text = ""
+			intervals [877]:
+				xmin = 1672.203
+				xmax = 1674.772
+				text = "S2"
+			intervals [878]:
+				xmin = 1674.772
+				xmax = 1674.85
+				text = ""
+			intervals [879]:
+				xmin = 1674.85
+				xmax = 1676.8
+				text = "S1"
+			intervals [880]:
+				xmin = 1676.8
+				xmax = 1678.574
+				text = ""
+			intervals [881]:
+				xmin = 1678.574
+				xmax = 1684.838
+				text = "S1"
+			intervals [882]:
+				xmin = 1684.838
+				xmax = 1685.168
+				text = ""
+			intervals [883]:
+				xmin = 1685.168
+				xmax = 1689.872
+				text = "S1"
+			intervals [884]:
+				xmin = 1689.872
+				xmax = 1690.443
+				text = ""
+			intervals [885]:
+				xmin = 1690.443
+				xmax = 1691.529
+				text = "S2"
+			intervals [886]:
+				xmin = 1691.529
+				xmax = 1691.713
+				text = ""
+			intervals [887]:
+				xmin = 1691.713
+				xmax = 1698.404
+				text = "S2"
+			intervals [888]:
+				xmin = 1698.404
+				xmax = 1698.452
+				text = ""
+			intervals [889]:
+				xmin = 1698.452
+				xmax = 1699.917
+				text = "S1"
+			intervals [890]:
+				xmin = 1699.917
+				xmax = 1700.372
+				text = ""
+			intervals [891]:
+				xmin = 1700.372
+				xmax = 1703.496
+				text = "S1"
+			intervals [892]:
+				xmin = 1703.496
+				xmax = 1703.621
+				text = ""
+			intervals [893]:
+				xmin = 1703.621
+				xmax = 1706.152
+				text = "S2"
+			intervals [894]:
+				xmin = 1706.152
+				xmax = 1706.501
+				text = ""
+			intervals [895]:
+				xmin = 1706.501
+				xmax = 1709.963
+				text = "S2"
+			intervals [896]:
+				xmin = 1709.963
+				xmax = 1710.08
+				text = ""
+			intervals [897]:
+				xmin = 1710.08
+				xmax = 1713.803
+				text = "S1"
+			intervals [898]:
+				xmin = 1713.803
+				xmax = 1714.21
+				text = ""
+			intervals [899]:
+				xmin = 1714.21
+				xmax = 1717.449
+				text = "S1"
+			intervals [900]:
+				xmin = 1717.449
+				xmax = 1717.972
+				text = ""
+			intervals [901]:
+				xmin = 1717.972
+				xmax = 1720.464
+				text = "S1"
+			intervals [902]:
+				xmin = 1720.464
+				xmax = 1722.064
+				text = ""
+			intervals [903]:
+				xmin = 1722.064
+				xmax = 1723.17
+				text = "S1"
+			intervals [904]:
+				xmin = 1723.17
+				xmax = 1723.393
+				text = ""
+			intervals [905]:
+				xmin = 1723.393
+				xmax = 1724.304
+				text = "S2"
+			intervals [906]:
+				xmin = 1724.304
+				xmax = 1724.33
+				text = ""
+			intervals [907]:
+				xmin = 1724.33
+				xmax = 1724.912
+				text = "S1"
+			intervals [908]:
+				xmin = 1724.912
+				xmax = 1725.614
+				text = ""
+			intervals [909]:
+				xmin = 1725.614
+				xmax = 1726.477
+				text = "S1"
+			intervals [910]:
+				xmin = 1726.477
+				xmax = 1726.923
+				text = ""
+			intervals [911]:
+				xmin = 1726.923
+				xmax = 1728.329
+				text = "S1"
+			intervals [912]:
+				xmin = 1728.329
+				xmax = 1728.52
+				text = ""
+			intervals [913]:
+				xmin = 1728.52
+				xmax = 1729.179
+				text = "P"
+			intervals [914]:
+				xmin = 1729.179
+				xmax = 1729.201
+				text = ""
+			intervals [915]:
+				xmin = 1729.201
+				xmax = 1730.699
+				text = "S1"
+			intervals [916]:
+				xmin = 1730.699
+				xmax = 1731.417
+				text = "S2"
+			intervals [917]:
+				xmin = 1731.417
+				xmax = 1732.112
+				text = ""
+			intervals [918]:
+				xmin = 1732.112
+				xmax = 1736.494
+				text = "S2"
+			intervals [919]:
+				xmin = 1736.494
+				xmax = 1736.956
+				text = ""
+			intervals [920]:
+				xmin = 1736.956
+				xmax = 1737.48
+				text = "S1"
+			intervals [921]:
+				xmin = 1737.48
+				xmax = 1737.512
+				text = ""
+			intervals [922]:
+				xmin = 1737.512
+				xmax = 1740.877
+				text = "S2"
+			intervals [923]:
+				xmin = 1740.877
+				xmax = 1740.936
+				text = ""
+			intervals [924]:
+				xmin = 1740.936
+				xmax = 1748.46
+				text = "S1"
+			intervals [925]:
+				xmin = 1748.46
+				xmax = 1749.284
+				text = ""
+			intervals [926]:
+				xmin = 1749.284
+				xmax = 1754.724
+				text = "S2"
+			intervals [927]:
+				xmin = 1754.724
+				xmax = 1754.792
+				text = ""
+			intervals [928]:
+				xmin = 1754.792
+				xmax = 1758.835
+				text = "S1"
+			intervals [929]:
+				xmin = 1758.835
+				xmax = 1759.214
+				text = ""
+			intervals [930]:
+				xmin = 1759.214
+				xmax = 1764.576
+				text = "S2"
+			intervals [931]:
+				xmin = 1764.576
+				xmax = 1764.752
+				text = ""
+			intervals [932]:
+				xmin = 1764.752
+				xmax = 1769.24
+				text = "S2"
+			intervals [933]:
+				xmin = 1769.24
+				xmax = 1769.552
+				text = ""
+			intervals [934]:
+				xmin = 1769.552
+				xmax = 1773.604
+				text = "S1"
+			intervals [935]:
+				xmin = 1773.604
+				xmax = 1774.06
+				text = ""
+			intervals [936]:
+				xmin = 1774.06
+				xmax = 1777.075
+				text = "S2"
+			intervals [937]:
+				xmin = 1777.075
+				xmax = 1777.774
+				text = ""
+			intervals [938]:
+				xmin = 1777.774
+				xmax = 1779.752
+				text = "S1"
+			intervals [939]:
+				xmin = 1779.752
+				xmax = 1780.624
+				text = ""
+			intervals [940]:
+				xmin = 1780.624
+				xmax = 1786.86
+				text = "S2"
+			intervals [941]:
+				xmin = 1786.86
+				xmax = 1787.17
+				text = ""
+			intervals [942]:
+				xmin = 1787.17
+				xmax = 1787.946
+				text = "S1"
+			intervals [943]:
+				xmin = 1787.946
+				xmax = 1788.673
+				text = ""
+			intervals [944]:
+				xmin = 1788.673
+				xmax = 1795.267
+				text = "S1"
+			intervals [945]:
+				xmin = 1795.267
+				xmax = 1796.178
+				text = ""
+			intervals [946]:
+				xmin = 1796.178
+				xmax = 1802.481
+				text = "S2"
+			intervals [947]:
+				xmin = 1802.481
+				xmax = 1802.622
+				text = ""
+			intervals [948]:
+				xmin = 1802.622
+				xmax = 1803.31
+				text = "P"
+			intervals [949]:
+				xmin = 1803.31
+				xmax = 1803.96
+				text = "S2"
+			intervals [950]:
+				xmin = 1803.96
+				xmax = 1804.004
+				text = ""
+			intervals [951]:
+				xmin = 1804.004
+				xmax = 1805.361
+				text = "S1"
